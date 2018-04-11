@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<artist_of_album_string><![CDATA[Half Sun Run]]></artist_of_album_string>
+		<commentstatus><![CDATA[closed]]></commentstatus>
+		<storelist><![CDATA[a:4:{i:0;a:3:{s:16:"album_store_icon";s:10:"fa-spotify";s:10:"store_name";s:7:"Spotify";s:10:"store_link";s:23:"https://www.spotify.com";}i:1;a:3:{s:16:"album_store_icon";s:8:"fa-apple";s:10:"store_name";s:6:"iTunes";s:10:"store_link";s:22:"https://www.itunes.com";}i:2;a:3:{s:16:"album_store_icon";s:7:"fa-play";s:10:"store_name";s:11:"Google Play";s:10:"store_link";s:26:"https://www.googleplay.com";}i:3;a:3:{s:16:"album_store_icon";s:13:"fa-soundcloud";s:10:"store_name";s:10:"SoundCloud";s:10:"store_link";s:26:"https://www.soundcloud.com";}}]]></storelist>
+		<template><![CDATA[default]]></template>
+		<id><![CDATA[632]]></id>
+		<title><![CDATA[Dead Obies]]></title>
+		<content><![CDATA[]]></content>
+		<imageurl><![CDATA[http://soundrise.irontemplates.com/cpt/wp-content/uploads/sites/8/2016/11/APEX_464.jpg]]></imageurl>
+		<imagefilename><![CDATA[APEX_464.jpg]]></imagefilename>
+		<imagepath><![CDATA[/home/17120-16630.cloudwaysapps.com/tuydvbenvt/public_html/wp-content/uploads/sites/8/2016/11/APEX_464.jpg]]></imagepath>
+		<imageid><![CDATA[958]]></imageid>
+		<imagetitle><![CDATA[APEX_464]]></imagetitle>
+		<imagecaption><![CDATA[]]></imagecaption>
+		<imagedescription><![CDATA[]]></imagedescription>
+		<imagealttext><![CDATA[]]></imagealttext>
+		<playlistcategories><![CDATA[Hip-hop]]></playlistcategories>
+		<hidepagetitle><![CDATA[]]></hidepagetitle>
+		<selectlogoversion><![CDATA[light]]></selectlogoversion>
+		<showmenuovercontent><![CDATA[1]]></showmenuovercontent>
+		<pagebackground><![CDATA[]]></pagebackground>
+		<backgroundrepeat><![CDATA[]]></backgroundrepeat>
+		<backgroundsize><![CDATA[]]></backgroundsize>
+		<backgroundposition><![CDATA[]]></backgroundposition>
+		<backgroundcolor><![CDATA[]]></backgroundcolor>
+		<backgroundtransparency><![CDATA[1]]></backgroundtransparency>
+		<sidebarposition><![CDATA[right]]></sidebarposition>
+		<widgetarea><![CDATA[]]></widgetarea>
+		<albumpageheaderbackgroundtype><![CDATA[blurry]]></albumpageheaderbackgroundtype>
+		<backgroundimageupload><![CDATA[]]></backgroundimageupload>
+		<backgroundcolor_2><![CDATA[]]></backgroundcolor_2>
+		<backgroundtype><![CDATA[]]></backgroundtype>
+		<pagebannerbackgroundcolor><![CDATA[]]></pagebannerbackgroundcolor>
+		<parallaxeffect><![CDATA[]]></parallaxeffect>
+		<pagebannerimage><![CDATA[]]></pagebannerimage>
+		<fullscreenheight><![CDATA[]]></fullscreenheight>
+		<pagebannerheight><![CDATA[]]></pagebannerheight>
+		<contenttype><![CDATA[]]></contenttype>
+		<htmlcontent><![CDATA[]]></htmlcontent>
+		<pagebannertitle><![CDATA[]]></pagebannertitle>
+		<pagebannersubtitle><![CDATA[]]></pagebannersubtitle>
+		<bannerhorizontalcontentalignment><![CDATA[]]></bannerhorizontalcontentalignment>
+		<backgroundalignement><![CDATA[]]></backgroundalignement>
+		<pagebannerfontcolor><![CDATA[]]></pagebannerfontcolor>
+		<hidealbumwithinthealbumspoststemplate><![CDATA[]]></hidealbumwithinthealbumspoststemplate>
+		<releasedate><![CDATA[2016]]></releasedate>
+		<externallink><![CDATA[]]></externallink>
+		<tracklist_track_title><![CDATA[Nuclear Ft. Drake|Airborn|Game Time|Back Once|Resurrected|Outbreak Ft. Reign|Break Aparts]]></tracklist_track_title>
+		<tracklist_track_buy_label><![CDATA[Free Download|Free Download|Listen on Spotify|Listen on Spotify|Listen on Spotify|Listen on Spotify|Listen on Spotify]]></tracklist_track_buy_label>
+		<tracklist_track_store><![CDATA[irontemplates.com/marketing/common/download/album-download.zip|irontemplates.com/marketing/common/download/album-download.zip|https://open.spotify.com/track/0BqhBwp24eI27kCNtJbMzt|https://open.spotify.com/track/0BqhBwp24eI27kCNtJbMzt|https://open.spotify.com/track/0BqhBwp24eI27kCNtJbMzt|https://open.spotify.com/track/0BqhBwp24eI27kCNtJbMzt|https://open.spotify.com/track/0BqhBwp24eI27kCNtJbMzt]]></tracklist_track_store>
+		<tracklist_track_mp3><![CDATA[||||||]]></tracklist_track_mp3>
+		<tracklist_stream_link><![CDATA[//irontemplates.com/assets/mp3/02.mp3|//irontemplates.com/assets/mp3/03.mp3|//irontemplates.com/assets/mp3/04.mp3|//irontemplates.com/assets/mp3/05.mp3|//irontemplates.com/assets/mp3/06.mp3|//irontemplates.com/assets/mp3/07.mp3|//irontemplates.com/assets/mp3/08.mp3]]></tracklist_stream_link>
+		<review><![CDATA[]]></review>
+		<reviewauthor><![CDATA[]]></reviewauthor>
+		<slug><![CDATA[dead-obies]]></slug>
+		<date><![CDATA[2016-11-10]]></date>
+	</node>
+	<node>
+		<artist_of_album_string><![CDATA[DJ Lowtempo]]></artist_of_album_string>
+		<commentstatus><![CDATA[closed]]></commentstatus>
+		<storelist><![CDATA[a:4:{i:0;a:3:{s:16:"album_store_icon";s:10:"fa-spotify";s:10:"store_name";s:7:"Spotify";s:10:"store_link";s:23:"https://www.spotify.com";}i:1;a:3:{s:16:"album_store_icon";s:8:"fa-apple";s:10:"store_name";s:6:"iTunes";s:10:"store_link";s:22:"https://www.itunes.com";}i:2;a:3:{s:16:"album_store_icon";s:7:"fa-play";s:10:"store_name";s:11:"Google Play";s:10:"store_link";s:26:"https://www.googleplay.com";}i:3;a:3:{s:16:"album_store_icon";s:13:"fa-soundcloud";s:10:"store_name";s:10:"SoundCloud";s:10:"store_link";s:26:"https://www.soundcloud.com";}}]]></storelist>
+		<template><![CDATA[default]]></template>
+		<id><![CDATA[642]]></id>
+		<title><![CDATA[Nuclear]]></title>
+		<content><![CDATA[<p style="text-align: center;"><iframe src="https://embed.spotify.com/?uri=spotify%3Aalbum%3A4llZzMDzP0sYoRro9Ypbmi" width="80%" height="750" frameborder="0"></iframe></p>]]></content>
+		<imageurl><![CDATA[http://soundrise.irontemplates.com/cpt/wp-content/uploads/sites/8/2016/11/AlbumCover-3.jpg]]></imageurl>
+		<imagefilename><![CDATA[AlbumCover-3.jpg]]></imagefilename>
+		<imagepath><![CDATA[/home/17120-16630.cloudwaysapps.com/tuydvbenvt/public_html/wp-content/uploads/sites/8/2016/11/AlbumCover-3.jpg]]></imagepath>
+		<imageid><![CDATA[956]]></imageid>
+		<imagetitle><![CDATA[AlbumCover-3]]></imagetitle>
+		<imagecaption><![CDATA[]]></imagecaption>
+		<imagedescription><![CDATA[]]></imagedescription>
+		<imagealttext><![CDATA[]]></imagealttext>
+		<playlistcategories><![CDATA[Indie]]></playlistcategories>
+		<hidepagetitle><![CDATA[]]></hidepagetitle>
+		<selectlogoversion><![CDATA[light]]></selectlogoversion>
+		<showmenuovercontent><![CDATA[1]]></showmenuovercontent>
+		<pagebackground><![CDATA[]]></pagebackground>
+		<backgroundrepeat><![CDATA[]]></backgroundrepeat>
+		<backgroundsize><![CDATA[]]></backgroundsize>
+		<backgroundposition><![CDATA[]]></backgroundposition>
+		<backgroundcolor><![CDATA[]]></backgroundcolor>
+		<backgroundtransparency><![CDATA[1]]></backgroundtransparency>
+		<sidebarposition><![CDATA[right]]></sidebarposition>
+		<widgetarea><![CDATA[]]></widgetarea>
+		<albumpageheaderbackgroundtype><![CDATA[blurry]]></albumpageheaderbackgroundtype>
+		<backgroundimageupload><![CDATA[]]></backgroundimageupload>
+		<backgroundcolor_2><![CDATA[]]></backgroundcolor_2>
+		<backgroundtype><![CDATA[]]></backgroundtype>
+		<pagebannerbackgroundcolor><![CDATA[]]></pagebannerbackgroundcolor>
+		<parallaxeffect><![CDATA[]]></parallaxeffect>
+		<pagebannerimage><![CDATA[]]></pagebannerimage>
+		<fullscreenheight><![CDATA[]]></fullscreenheight>
+		<pagebannerheight><![CDATA[]]></pagebannerheight>
+		<contenttype><![CDATA[]]></contenttype>
+		<htmlcontent><![CDATA[]]></htmlcontent>
+		<pagebannertitle><![CDATA[]]></pagebannertitle>
+		<pagebannersubtitle><![CDATA[]]></pagebannersubtitle>
+		<bannerhorizontalcontentalignment><![CDATA[]]></bannerhorizontalcontentalignment>
+		<backgroundalignement><![CDATA[]]></backgroundalignement>
+		<pagebannerfontcolor><![CDATA[]]></pagebannerfontcolor>
+		<hidealbumwithinthealbumspoststemplate><![CDATA[]]></hidealbumwithinthealbumspoststemplate>
+		<releasedate><![CDATA[2016]]></releasedate>
+		<externallink><![CDATA[]]></externallink>
+		<tracklist_track_title><![CDATA[]]></tracklist_track_title>
+		<tracklist_track_buy_label><![CDATA[]]></tracklist_track_buy_label>
+		<tracklist_track_store><![CDATA[]]></tracklist_track_store>
+		<tracklist_track_mp3><![CDATA[]]></tracklist_track_mp3>
+		<tracklist_stream_link><![CDATA[]]></tracklist_stream_link>
+		<review><![CDATA[Remember this name. Will spins on radio this year.]]></review>
+		<reviewauthor><![CDATA[Rolling Stone]]></reviewauthor>
+		<slug><![CDATA[nuclear]]></slug>
+		<date><![CDATA[2016-11-10]]></date>
+	</node>
+	<node>
+		<artist_of_album_string><![CDATA[DJ Eklypse]]></artist_of_album_string>
+		<commentstatus><![CDATA[closed]]></commentstatus>
+		<storelist><![CDATA[a:4:{i:0;a:3:{s:16:"album_store_icon";s:10:"fa-spotify";s:10:"store_name";s:7:"Spotify";s:10:"store_link";s:23:"https://www.spotify.com";}i:1;a:3:{s:16:"album_store_icon";s:8:"fa-apple";s:10:"store_name";s:6:"iTunes";s:10:"store_link";s:22:"https://www.itunes.com";}i:2;a:3:{s:16:"album_store_icon";s:7:"fa-play";s:10:"store_name";s:11:"Google Play";s:10:"store_link";s:26:"https://www.googleplay.com";}i:3;a:3:{s:16:"album_store_icon";s:13:"fa-soundcloud";s:10:"store_name";s:10:"SoundCloud";s:10:"store_link";s:26:"https://www.soundcloud.com";}}]]></storelist>
+		<template><![CDATA[default]]></template>
+		<id><![CDATA[644]]></id>
+		<title><![CDATA[Outbreak EP]]></title>
+		<content><![CDATA[]]></content>
+		<imageurl><![CDATA[http://soundrise.irontemplates.com/cpt/wp-content/uploads/sites/8/2016/11/AlbumCover-2.jpg]]></imageurl>
+		<imagefilename><![CDATA[AlbumCover-2.jpg]]></imagefilename>
+		<imagepath><![CDATA[/home/17120-16630.cloudwaysapps.com/tuydvbenvt/public_html/wp-content/uploads/sites/8/2016/11/AlbumCover-2.jpg]]></imagepath>
+		<imageid><![CDATA[955]]></imageid>
+		<imagetitle><![CDATA[AlbumCover-2]]></imagetitle>
+		<imagecaption><![CDATA[]]></imagecaption>
+		<imagedescription><![CDATA[]]></imagedescription>
+		<imagealttext><![CDATA[]]></imagealttext>
+		<playlistcategories><![CDATA[Indie]]></playlistcategories>
+		<hidepagetitle><![CDATA[]]></hidepagetitle>
+		<selectlogoversion><![CDATA[light]]></selectlogoversion>
+		<showmenuovercontent><![CDATA[1]]></showmenuovercontent>
+		<pagebackground><![CDATA[]]></pagebackground>
+		<backgroundrepeat><![CDATA[]]></backgroundrepeat>
+		<backgroundsize><![CDATA[]]></backgroundsize>
+		<backgroundposition><![CDATA[]]></backgroundposition>
+		<backgroundcolor><![CDATA[]]></backgroundcolor>
+		<backgroundtransparency><![CDATA[1]]></backgroundtransparency>
+		<sidebarposition><![CDATA[right]]></sidebarposition>
+		<widgetarea><![CDATA[]]></widgetarea>
+		<albumpageheaderbackgroundtype><![CDATA[blurry]]></albumpageheaderbackgroundtype>
+		<backgroundimageupload><![CDATA[]]></backgroundimageupload>
+		<backgroundcolor_2><![CDATA[]]></backgroundcolor_2>
+		<backgroundtype><![CDATA[]]></backgroundtype>
+		<pagebannerbackgroundcolor><![CDATA[]]></pagebannerbackgroundcolor>
+		<parallaxeffect><![CDATA[]]></parallaxeffect>
+		<pagebannerimage><![CDATA[]]></pagebannerimage>
+		<fullscreenheight><![CDATA[]]></fullscreenheight>
+		<pagebannerheight><![CDATA[]]></pagebannerheight>
+		<contenttype><![CDATA[]]></contenttype>
+		<htmlcontent><![CDATA[]]></htmlcontent>
+		<pagebannertitle><![CDATA[]]></pagebannertitle>
+		<pagebannersubtitle><![CDATA[]]></pagebannersubtitle>
+		<bannerhorizontalcontentalignment><![CDATA[]]></bannerhorizontalcontentalignment>
+		<backgroundalignement><![CDATA[]]></backgroundalignement>
+		<pagebannerfontcolor><![CDATA[]]></pagebannerfontcolor>
+		<hidealbumwithinthealbumspoststemplate><![CDATA[]]></hidealbumwithinthealbumspoststemplate>
+		<releasedate><![CDATA[2017]]></releasedate>
+		<externallink><![CDATA[]]></externallink>
+		<tracklist_track_title><![CDATA[Nuclear Ft. Drake|Airborn|Game Time|Back Once|Resurrected|Outbreak Ft. Reign|Break Aparts]]></tracklist_track_title>
+		<tracklist_track_buy_label><![CDATA[Free Download|Free Download|Listen on Spotify|Listen on Spotify|Listen on Spotify|Listen on Spotify|Listen on Spotify]]></tracklist_track_buy_label>
+		<tracklist_track_store><![CDATA[irontemplates.com/marketing/common/download/album-download.zip|irontemplates.com/marketing/common/download/album-download.zip|https://open.spotify.com/track/0BqhBwp24eI27kCNtJbMzt|https://open.spotify.com/track/0BqhBwp24eI27kCNtJbMzt|https://open.spotify.com/track/0BqhBwp24eI27kCNtJbMzt|https://open.spotify.com/track/0BqhBwp24eI27kCNtJbMzt|https://open.spotify.com/track/0BqhBwp24eI27kCNtJbMzt]]></tracklist_track_store>
+		<tracklist_track_mp3><![CDATA[||||||]]></tracklist_track_mp3>
+		<tracklist_stream_link><![CDATA[//irontemplates.com/assets/mp3/08.mp3|//irontemplates.com/assets/mp3/09.mp3|//irontemplates.com/assets/mp3/10.mp3|//irontemplates.com/assets/mp3/01.mp3|//irontemplates.com/assets/mp3/02.mp3|//irontemplates.com/assets/mp3/03.mp3|//irontemplates.com/assets/mp3/04.mp3]]></tracklist_stream_link>
+		<review><![CDATA[]]></review>
+		<reviewauthor><![CDATA[]]></reviewauthor>
+		<slug><![CDATA[outbreak-ep]]></slug>
+		<date><![CDATA[2016-11-10]]></date>
+	</node>
+	<node>
+		<artist_of_album_string><![CDATA[Bahamas]]></artist_of_album_string>
+		<commentstatus><![CDATA[closed]]></commentstatus>
+		<storelist><![CDATA[a:4:{i:0;a:3:{s:16:"album_store_icon";s:10:"fa-spotify";s:10:"store_name";s:7:"Spotify";s:10:"store_link";s:23:"https://www.spotify.com";}i:1;a:3:{s:16:"album_store_icon";s:8:"fa-apple";s:10:"store_name";s:6:"iTunes";s:10:"store_link";s:22:"https://www.itunes.com";}i:2;a:3:{s:16:"album_store_icon";s:7:"fa-play";s:10:"store_name";s:11:"Google Play";s:10:"store_link";s:26:"https://www.googleplay.com";}i:3;a:3:{s:16:"album_store_icon";s:13:"fa-soundcloud";s:10:"store_name";s:10:"SoundCloud";s:10:"store_link";s:26:"https://www.soundcloud.com";}}]]></storelist>
+		<template><![CDATA[default]]></template>
+		<id><![CDATA[646]]></id>
+		<title><![CDATA[Lights Out]]></title>
+		<content><![CDATA[]]></content>
+		<imageurl><![CDATA[http://soundrise.irontemplates.com/cpt/wp-content/uploads/sites/8/2016/11/dicography2.jpg|http://soundrise.irontemplates.com/cpt/wp-content/uploads/sites/8/2016/11/dicography4.jpg|http://soundrise.irontemplates.com/cpt/wp-content/uploads/sites/8/2016/11/cover-single_liberator.jpg|http://soundrise.irontemplates.com/cpt/wp-content/uploads/sites/8/2016/11/cover-single_glamporn_02.jpg|http://soundrise.irontemplates.com/cpt/wp-content/uploads/sites/8/2016/11/cover_credit-gaglias.jpg|http://soundrise.irontemplates.com/cpt/wp-content/uploads/sites/8/2016/11/cover_7_credit-gaglias.jpg|http://soundrise.irontemplates.com/cpt/wp-content/uploads/sites/8/2016/11/cover_6_credit-shawntron.jpg|http://soundrise.irontemplates.com/cpt/wp-content/uploads/sites/8/2016/11/cover_4_credit-gaglias.jpg|http://soundrise.irontemplates.com/cpt/wp-content/uploads/sites/8/2016/11/APEX_464.jpg|http://soundrise.irontemplates.com/cpt/wp-content/uploads/sites/8/2016/11/AlbumCover.jpg|http://soundrise.irontemplates.com/cpt/wp-content/uploads/sites/8/2016/11/AlbumCover-3.jpg|http://soundrise.irontemplates.com/cpt/wp-content/uploads/sites/8/2016/11/AlbumCover-2.jpg]]></imageurl>
+		<imagefilename><![CDATA[dicography2.jpg|dicography4.jpg|cover-single_liberator.jpg|cover-single_glamporn_02.jpg|cover_credit-gaglias.jpg|cover_7_credit-gaglias.jpg|cover_6_credit-shawntron.jpg|cover_4_credit-gaglias.jpg|APEX_464.jpg|AlbumCover.jpg|AlbumCover-3.jpg|AlbumCover-2.jpg]]></imagefilename>
+		<imagepath><![CDATA[/home/17120-16630.cloudwaysapps.com/tuydvbenvt/public_html/wp-content/uploads/sites/8/2016/11/dicography2.jpg|/home/17120-16630.cloudwaysapps.com/tuydvbenvt/public_html/wp-content/uploads/sites/8/2016/11/dicography4.jpg|/home/17120-16630.cloudwaysapps.com/tuydvbenvt/public_html/wp-content/uploads/sites/8/2016/11/cover-single_liberator.jpg|/home/17120-16630.cloudwaysapps.com/tuydvbenvt/public_html/wp-content/uploads/sites/8/2016/11/cover-single_glamporn_02.jpg|/home/17120-16630.cloudwaysapps.com/tuydvbenvt/public_html/wp-content/uploads/sites/8/2016/11/cover_credit-gaglias.jpg|/home/17120-16630.cloudwaysapps.com/tuydvbenvt/public_html/wp-content/uploads/sites/8/2016/11/cover_7_credit-gaglias.jpg|/home/17120-16630.cloudwaysapps.com/tuydvbenvt/public_html/wp-content/uploads/sites/8/2016/11/cover_6_credit-shawntron.jpg|/home/17120-16630.cloudwaysapps.com/tuydvbenvt/public_html/wp-content/uploads/sites/8/2016/11/cover_4_credit-gaglias.jpg|/home/17120-16630.cloudwaysapps.com/tuydvbenvt/public_html/wp-content/uploads/sites/8/2016/11/APEX_464.jpg|/home/17120-16630.cloudwaysapps.com/tuydvbenvt/public_html/wp-content/uploads/sites/8/2016/11/AlbumCover.jpg|/home/17120-16630.cloudwaysapps.com/tuydvbenvt/public_html/wp-content/uploads/sites/8/2016/11/AlbumCover-3.jpg|/home/17120-16630.cloudwaysapps.com/tuydvbenvt/public_html/wp-content/uploads/sites/8/2016/11/AlbumCover-2.jpg]]></imagepath>
+		<imageid><![CDATA[966|967|965|964|963|962|961|959|958|957|956|955]]></imageid>
+		<imagetitle><![CDATA[dicography2|dicography4|cover-single_liberator|cover-single_glamporn_02|cover_credit-gaglias|cover_7_credit-gaglias|cover_6_credit-shawntron|cover_4_credit-gaglias|APEX_464|AlbumCover|AlbumCover-3|AlbumCover-2]]></imagetitle>
+		<imagecaption><![CDATA[|||||||||||]]></imagecaption>
+		<imagedescription><![CDATA[|||||||||||]]></imagedescription>
+		<imagealttext><![CDATA[|||||||||||]]></imagealttext>
+		<playlistcategories><![CDATA[Hip-hop]]></playlistcategories>
+		<hidepagetitle><![CDATA[]]></hidepagetitle>
+		<selectlogoversion><![CDATA[light]]></selectlogoversion>
+		<showmenuovercontent><![CDATA[1]]></showmenuovercontent>
+		<pagebackground><![CDATA[]]></pagebackground>
+		<backgroundrepeat><![CDATA[]]></backgroundrepeat>
+		<backgroundsize><![CDATA[]]></backgroundsize>
+		<backgroundposition><![CDATA[]]></backgroundposition>
+		<backgroundcolor><![CDATA[]]></backgroundcolor>
+		<backgroundtransparency><![CDATA[1]]></backgroundtransparency>
+		<sidebarposition><![CDATA[right]]></sidebarposition>
+		<widgetarea><![CDATA[]]></widgetarea>
+		<albumpageheaderbackgroundtype><![CDATA[blurry]]></albumpageheaderbackgroundtype>
+		<backgroundimageupload><![CDATA[]]></backgroundimageupload>
+		<backgroundcolor_2><![CDATA[]]></backgroundcolor_2>
+		<backgroundtype><![CDATA[]]></backgroundtype>
+		<pagebannerbackgroundcolor><![CDATA[]]></pagebannerbackgroundcolor>
+		<parallaxeffect><![CDATA[]]></parallaxeffect>
+		<pagebannerimage><![CDATA[]]></pagebannerimage>
+		<fullscreenheight><![CDATA[]]></fullscreenheight>
+		<pagebannerheight><![CDATA[]]></pagebannerheight>
+		<contenttype><![CDATA[]]></contenttype>
+		<htmlcontent><![CDATA[]]></htmlcontent>
+		<pagebannertitle><![CDATA[]]></pagebannertitle>
+		<pagebannersubtitle><![CDATA[]]></pagebannersubtitle>
+		<bannerhorizontalcontentalignment><![CDATA[]]></bannerhorizontalcontentalignment>
+		<backgroundalignement><![CDATA[]]></backgroundalignement>
+		<pagebannerfontcolor><![CDATA[]]></pagebannerfontcolor>
+		<hidealbumwithinthealbumspoststemplate><![CDATA[]]></hidealbumwithinthealbumspoststemplate>
+		<releasedate><![CDATA[2017]]></releasedate>
+		<externallink><![CDATA[]]></externallink>
+		<tracklist_track_title><![CDATA[Nuclear Ft. Drake|Airborn|Game Time|Back Once|Resurrected|Outbreak Ft. Reign|Break Aparts]]></tracklist_track_title>
+		<tracklist_track_buy_label><![CDATA[Free Download|Free Download|Listen on Spotify|Listen on Spotify|Listen on Spotify|Listen on Spotify|Listen on Spotify]]></tracklist_track_buy_label>
+		<tracklist_track_store><![CDATA[irontemplates.com/marketing/common/download/album-download.zip|irontemplates.com/marketing/common/download/album-download.zip|https://open.spotify.com/track/0BqhBwp24eI27kCNtJbMzt|https://open.spotify.com/track/0BqhBwp24eI27kCNtJbMzt|https://open.spotify.com/track/0BqhBwp24eI27kCNtJbMzt|https://open.spotify.com/track/0BqhBwp24eI27kCNtJbMzt|https://open.spotify.com/track/0BqhBwp24eI27kCNtJbMzt]]></tracklist_track_store>
+		<tracklist_track_mp3><![CDATA[||||||]]></tracklist_track_mp3>
+		<tracklist_stream_link><![CDATA[//irontemplates.com/assets/mp3/01.mp3|//irontemplates.com/assets/mp3/02.mp3|//irontemplates.com/assets/mp3/03.mp3|//irontemplates.com/assets/mp3/04.mp3|//irontemplates.com/assets/mp3/05.mp3|//irontemplates.com/assets/mp3/06.mp3|//irontemplates.com/assets/mp3/07.mp3]]></tracklist_stream_link>
+		<review><![CDATA[5 ouf of 5 stars album review for the Dave Adkins album. Great writing and arrangements, picking and singing. It’s a winner in my book.]]></review>
+		<reviewauthor><![CDATA[IronTemplates]]></reviewauthor>
+		<slug><![CDATA[lights-out]]></slug>
+		<date><![CDATA[2016-11-10]]></date>
+	</node>
+	<node>
+		<artist_of_album_string><![CDATA[Carla &#038; Bones]]></artist_of_album_string>
+		<commentstatus><![CDATA[closed]]></commentstatus>
+		<storelist><![CDATA[a:4:{i:0;a:3:{s:16:"album_store_icon";s:10:"fa-spotify";s:10:"store_name";s:7:"Spotify";s:10:"store_link";s:23:"https://www.spotify.com";}i:1;a:3:{s:16:"album_store_icon";s:8:"fa-apple";s:10:"store_name";s:6:"iTunes";s:10:"store_link";s:22:"https://www.itunes.com";}i:2;a:3:{s:16:"album_store_icon";s:7:"fa-play";s:10:"store_name";s:11:"Google Play";s:10:"store_link";s:26:"https://www.googleplay.com";}i:3;a:3:{s:16:"album_store_icon";s:13:"fa-soundcloud";s:10:"store_name";s:10:"SoundCloud";s:10:"store_link";s:26:"https://www.soundcloud.com";}}]]></storelist>
+		<template><![CDATA[default]]></template>
+		<id><![CDATA[1348]]></id>
+		<title><![CDATA[Trailblazers]]></title>
+		<content><![CDATA[[vc_row][vc_column][vc_custom_heading text="Lyrics" font_container="tag:h4|font_size:24px|text_align:left|line_height:24px" use_theme_fonts="yes" fit_bg_text="0"][vc_tta_accordion style="outline" shape="square" color="black" c_icon="chevron" active_section="-1" collapsible_all="true"][vc_tta_section title="Nuclear Ft. Drake" tab_id="1492003804430-29bafbf7-284b"][vc_column_text]
+<div style="text-align: center;">The club isn't the best place to find a lover
+So the bar is where I go
+Me and my friends at the table doing shots
+Drinking fast and then we talk slow
+Come over and start up a conversation with just me
+And trust me I'll give it a chance now
+Take my hand, stop, put Van the Man on the jukebox
+And then we start to dance, and now I'm singing like
+Girl, you know I want your love
+Your love was handmade for somebody like me
+Come on now, follow my lead
+I may be crazy, don't mind me
+Say, boy, let's not talk too much
+Grab on my waist and put that body on me
+Come on now, follow my lead
+Come, come on now, follow my lead
+I'm in love with the shape of you
+We push and pull like a magnet do
+Although my heart is falling too
+I'm in love with your body</div>
+[/vc_column_text][/vc_tta_section][vc_tta_section title="Airborn" tab_id="1492004296806-67274428-5ba6"][vc_column_text]
+<div style="text-align: center;">The club isn't the best place to find a lover
+So the bar is where I go
+Me and my friends at the table doing shots
+Drinking fast and then we talk slow
+Come over and start up a conversation with just me
+And trust me I'll give it a chance now
+Take my hand, stop, put Van the Man on the jukebox
+And then we start to dance, and now I'm singing like
+Girl, you know I want your love
+Your love was handmade for somebody like me
+Come on now, follow my lead
+I may be crazy, don't mind me
+Say, boy, let's not talk too much
+Grab on my waist and put that body on me
+Come on now, follow my lead
+Come, come on now, follow my lead
+I'm in love with the shape of you
+We push and pull like a magnet do
+Although my heart is falling too
+I'm in love with your body</div>
+[/vc_column_text][/vc_tta_section][vc_tta_section title="Game Time" tab_id="1492004296313-63e0c5e4-9d37"][vc_column_text]
+<div style="text-align: center;">The club isn't the best place to find a lover
+So the bar is where I go
+Me and my friends at the table doing shots
+Drinking fast and then we talk slow
+Come over and start up a conversation with just me
+And trust me I'll give it a chance now
+Take my hand, stop, put Van the Man on the jukebox
+And then we start to dance, and now I'm singing like
+Girl, you know I want your love
+Your love was handmade for somebody like me
+Come on now, follow my lead
+I may be crazy, don't mind me
+Say, boy, let's not talk too much
+Grab on my waist and put that body on me
+Come on now, follow my lead
+Come, come on now, follow my lead
+I'm in love with the shape of you
+We push and pull like a magnet do
+Although my heart is falling too
+I'm in love with your body</div>
+[/vc_column_text][/vc_tta_section][vc_tta_section title="Back Once" tab_id="1492004295181-1eefccc8-e750"][vc_column_text]
+<div style="text-align: center;">The club isn't the best place to find a lover
+So the bar is where I go
+Me and my friends at the table doing shots
+Drinking fast and then we talk slow
+Come over and start up a conversation with just me
+And trust me I'll give it a chance now
+Take my hand, stop, put Van the Man on the jukebox
+And then we start to dance, and now I'm singing like
+Girl, you know I want your love
+Your love was handmade for somebody like me
+Come on now, follow my lead
+I may be crazy, don't mind me
+Say, boy, let's not talk too much
+Grab on my waist and put that body on me
+Come on now, follow my lead
+Come, come on now, follow my lead
+I'm in love with the shape of you
+We push and pull like a magnet do
+Although my heart is falling too
+I'm in love with your body</div>
+[/vc_column_text][/vc_tta_section][vc_tta_section title="Resurrected" tab_id="1492004530875-5748f781-f83d"][vc_column_text]
+<div style="text-align: center;">The club isn't the best place to find a lover
+So the bar is where I go
+Me and my friends at the table doing shots
+Drinking fast and then we talk slow
+Come over and start up a conversation with just me
+And trust me I'll give it a chance now
+Take my hand, stop, put Van the Man on the jukebox
+And then we start to dance, and now I'm singing like
+Girl, you know I want your love
+Your love was handmade for somebody like me
+Come on now, follow my lead
+I may be crazy, don't mind me
+Say, boy, let's not talk too much
+Grab on my waist and put that body on me
+Come on now, follow my lead
+Come, come on now, follow my lead
+I'm in love with the shape of you
+We push and pull like a magnet do
+Although my heart is falling too
+I'm in love with your body</div>
+[/vc_column_text][/vc_tta_section][vc_tta_section title="Outbreak Ft. Reign" tab_id="1492004530326-6b11890b-2783"][vc_column_text]
+<div style="text-align: center;">The club isn't the best place to find a lover
+So the bar is where I go
+Me and my friends at the table doing shots
+Drinking fast and then we talk slow
+Come over and start up a conversation with just me
+And trust me I'll give it a chance now
+Take my hand, stop, put Van the Man on the jukebox
+And then we start to dance, and now I'm singing like
+Girl, you know I want your love
+Your love was handmade for somebody like me
+Come on now, follow my lead
+I may be crazy, don't mind me
+Say, boy, let's not talk too much
+Grab on my waist and put that body on me
+Come on now, follow my lead
+Come, come on now, follow my lead
+I'm in love with the shape of you
+We push and pull like a magnet do
+Although my heart is falling too
+I'm in love with your body</div>
+[/vc_column_text][/vc_tta_section][vc_tta_section title="Break Aparts" tab_id="1492004529768-e60b5c9f-7685"][vc_column_text]
+<div style="text-align: center;">The club isn't the best place to find a lover
+So the bar is where I go
+Me and my friends at the table doing shots
+Drinking fast and then we talk slow
+Come over and start up a conversation with just me
+And trust me I'll give it a chance now
+Take my hand, stop, put Van the Man on the jukebox
+And then we start to dance, and now I'm singing like
+Girl, you know I want your love
+Your love was handmade for somebody like me
+Come on now, follow my lead
+I may be crazy, don't mind me
+Say, boy, let's not talk too much
+Grab on my waist and put that body on me
+Come on now, follow my lead
+Come, come on now, follow my lead
+I'm in love with the shape of you
+We push and pull like a magnet do
+Although my heart is falling too
+I'm in love with your body</div>
+[/vc_column_text][/vc_tta_section][/vc_tta_accordion][/vc_column][/vc_row]]]></content>
+		<imageurl><![CDATA[http://soundrise.irontemplates.com/cpt/wp-content/uploads/sites/8/2017/04/TRAILBLAZERS.jpg]]></imageurl>
+		<imagefilename><![CDATA[TRAILBLAZERS.jpg]]></imagefilename>
+		<imagepath><![CDATA[/home/17120-16630.cloudwaysapps.com/tuydvbenvt/public_html/wp-content/uploads/sites/8/2017/04/TRAILBLAZERS.jpg]]></imagepath>
+		<imageid><![CDATA[1349]]></imageid>
+		<imagetitle><![CDATA[TRAILBLAZERS]]></imagetitle>
+		<imagecaption><![CDATA[]]></imagecaption>
+		<imagedescription><![CDATA[]]></imagedescription>
+		<imagealttext><![CDATA[]]></imagealttext>
+		<playlistcategories><![CDATA[Electro]]></playlistcategories>
+		<hidepagetitle><![CDATA[]]></hidepagetitle>
+		<selectlogoversion><![CDATA[light]]></selectlogoversion>
+		<showmenuovercontent><![CDATA[1]]></showmenuovercontent>
+		<pagebackground><![CDATA[]]></pagebackground>
+		<backgroundrepeat><![CDATA[]]></backgroundrepeat>
+		<backgroundsize><![CDATA[]]></backgroundsize>
+		<backgroundposition><![CDATA[]]></backgroundposition>
+		<backgroundcolor><![CDATA[]]></backgroundcolor>
+		<backgroundtransparency><![CDATA[1]]></backgroundtransparency>
+		<sidebarposition><![CDATA[right]]></sidebarposition>
+		<widgetarea><![CDATA[]]></widgetarea>
+		<albumpageheaderbackgroundtype><![CDATA[blurry]]></albumpageheaderbackgroundtype>
+		<backgroundimageupload><![CDATA[]]></backgroundimageupload>
+		<backgroundcolor_2><![CDATA[]]></backgroundcolor_2>
+		<backgroundtype><![CDATA[]]></backgroundtype>
+		<pagebannerbackgroundcolor><![CDATA[]]></pagebannerbackgroundcolor>
+		<parallaxeffect><![CDATA[]]></parallaxeffect>
+		<pagebannerimage><![CDATA[]]></pagebannerimage>
+		<fullscreenheight><![CDATA[]]></fullscreenheight>
+		<pagebannerheight><![CDATA[]]></pagebannerheight>
+		<contenttype><![CDATA[]]></contenttype>
+		<htmlcontent><![CDATA[]]></htmlcontent>
+		<pagebannertitle><![CDATA[]]></pagebannertitle>
+		<pagebannersubtitle><![CDATA[]]></pagebannersubtitle>
+		<bannerhorizontalcontentalignment><![CDATA[]]></bannerhorizontalcontentalignment>
+		<backgroundalignement><![CDATA[]]></backgroundalignement>
+		<pagebannerfontcolor><![CDATA[]]></pagebannerfontcolor>
+		<hidealbumwithinthealbumspoststemplate><![CDATA[]]></hidealbumwithinthealbumspoststemplate>
+		<releasedate><![CDATA[2017]]></releasedate>
+		<externallink><![CDATA[]]></externallink>
+		<tracklist_track_title><![CDATA[Nuclear Ft. Drake|Airborn|Game Time|Back Once|Resurrected|Outbreak Ft. Reign|Break Aparts]]></tracklist_track_title>
+		<tracklist_track_buy_label><![CDATA[Free Download|Free Download|Listen on Spotify|Listen on Spotify|Listen on Spotify|Listen on Spotify|Listen on Spotify]]></tracklist_track_buy_label>
+		<tracklist_track_store><![CDATA[irontemplates.com/marketing/common/download/album-download.zip|irontemplates.com/marketing/common/download/album-download.zip|https://open.spotify.com/track/0BqhBwp24eI27kCNtJbMzt|https://open.spotify.com/track/0BqhBwp24eI27kCNtJbMzt|https://open.spotify.com/track/0BqhBwp24eI27kCNtJbMzt|https://open.spotify.com/track/0BqhBwp24eI27kCNtJbMzt|https://open.spotify.com/track/0BqhBwp24eI27kCNtJbMzt]]></tracklist_track_store>
+		<tracklist_track_mp3><![CDATA[||||||]]></tracklist_track_mp3>
+		<tracklist_stream_link><![CDATA[//irontemplates.com/assets/mp3/01.mp3|//irontemplates.com/assets/mp3/02.mp3|//irontemplates.com/assets/mp3/03.mp3|//irontemplates.com/assets/mp3/04.mp3|//irontemplates.com/assets/mp3/05.mp3|//irontemplates.com/assets/mp3/06.mp3|//irontemplates.com/assets/mp3/07.mp3]]></tracklist_stream_link>
+		<review><![CDATA[5 ouf of 5 stars album review for the Dave Adkins album. Great writing and arrangements, picking and singing. It’s a winner in my book.]]></review>
+		<reviewauthor><![CDATA[IronTemplates]]></reviewauthor>
+		<slug><![CDATA[trailblazers]]></slug>
+		<date><![CDATA[2017-04-05]]></date>
+	</node>
+	<node>
+		<artist_of_album_string><![CDATA[Guns and Plants]]></artist_of_album_string>
+		<commentstatus><![CDATA[closed]]></commentstatus>
+		<storelist><![CDATA[a:4:{i:0;a:3:{s:16:"album_store_icon";s:10:"fa-spotify";s:10:"store_name";s:7:"Spotify";s:10:"store_link";s:23:"https://www.spotify.com";}i:1;a:3:{s:16:"album_store_icon";s:8:"fa-apple";s:10:"store_name";s:6:"iTunes";s:10:"store_link";s:22:"https://www.itunes.com";}i:2;a:3:{s:16:"album_store_icon";s:7:"fa-play";s:10:"store_name";s:11:"Google Play";s:10:"store_link";s:26:"https://www.googleplay.com";}i:3;a:3:{s:16:"album_store_icon";s:13:"fa-soundcloud";s:10:"store_name";s:10:"SoundCloud";s:10:"store_link";s:26:"https://www.soundcloud.com";}}]]></storelist>
+		<template><![CDATA[default]]></template>
+		<id><![CDATA[1360]]></id>
+		<title><![CDATA[Stardust]]></title>
+		<content><![CDATA[<iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/41031863&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" height="450" frameborder="no" scrolling="no"></iframe>]]></content>
+		<imageurl><![CDATA[http://soundrise.irontemplates.com/cpt/wp-content/uploads/sites/8/2017/04/stardust.jpg]]></imageurl>
+		<imagefilename><![CDATA[stardust.jpg]]></imagefilename>
+		<imagepath><![CDATA[/home/17120-16630.cloudwaysapps.com/tuydvbenvt/public_html/wp-content/uploads/sites/8/2017/04/stardust.jpg]]></imagepath>
+		<imageid><![CDATA[1361]]></imageid>
+		<imagetitle><![CDATA[stardust]]></imagetitle>
+		<imagecaption><![CDATA[]]></imagecaption>
+		<imagedescription><![CDATA[]]></imagedescription>
+		<imagealttext><![CDATA[]]></imagealttext>
+		<playlistcategories><![CDATA[Electro]]></playlistcategories>
+		<hidepagetitle><![CDATA[]]></hidepagetitle>
+		<selectlogoversion><![CDATA[]]></selectlogoversion>
+		<showmenuovercontent><![CDATA[1]]></showmenuovercontent>
+		<pagebackground><![CDATA[]]></pagebackground>
+		<backgroundrepeat><![CDATA[]]></backgroundrepeat>
+		<backgroundsize><![CDATA[]]></backgroundsize>
+		<backgroundposition><![CDATA[]]></backgroundposition>
+		<backgroundcolor><![CDATA[]]></backgroundcolor>
+		<backgroundtransparency><![CDATA[1]]></backgroundtransparency>
+		<sidebarposition><![CDATA[right]]></sidebarposition>
+		<widgetarea><![CDATA[]]></widgetarea>
+		<albumpageheaderbackgroundtype><![CDATA[default]]></albumpageheaderbackgroundtype>
+		<backgroundimageupload><![CDATA[]]></backgroundimageupload>
+		<backgroundcolor_2><![CDATA[]]></backgroundcolor_2>
+		<backgroundtype><![CDATA[]]></backgroundtype>
+		<pagebannerbackgroundcolor><![CDATA[]]></pagebannerbackgroundcolor>
+		<parallaxeffect><![CDATA[]]></parallaxeffect>
+		<pagebannerimage><![CDATA[]]></pagebannerimage>
+		<fullscreenheight><![CDATA[]]></fullscreenheight>
+		<pagebannerheight><![CDATA[]]></pagebannerheight>
+		<contenttype><![CDATA[]]></contenttype>
+		<htmlcontent><![CDATA[]]></htmlcontent>
+		<pagebannertitle><![CDATA[]]></pagebannertitle>
+		<pagebannersubtitle><![CDATA[]]></pagebannersubtitle>
+		<bannerhorizontalcontentalignment><![CDATA[]]></bannerhorizontalcontentalignment>
+		<backgroundalignement><![CDATA[]]></backgroundalignement>
+		<pagebannerfontcolor><![CDATA[]]></pagebannerfontcolor>
+		<hidealbumwithinthealbumspoststemplate><![CDATA[]]></hidealbumwithinthealbumspoststemplate>
+		<releasedate><![CDATA[2016]]></releasedate>
+		<externallink><![CDATA[]]></externallink>
+		<tracklist_track_title><![CDATA[]]></tracklist_track_title>
+		<tracklist_track_buy_label><![CDATA[]]></tracklist_track_buy_label>
+		<tracklist_track_store><![CDATA[]]></tracklist_track_store>
+		<tracklist_track_mp3><![CDATA[]]></tracklist_track_mp3>
+		<tracklist_stream_link><![CDATA[]]></tracklist_stream_link>
+		<review><![CDATA[]]></review>
+		<reviewauthor><![CDATA[]]></reviewauthor>
+		<slug><![CDATA[stardust]]></slug>
+		<date><![CDATA[2017-04-05]]></date>
+	</node>
+	<node>
+		<artist_of_album_string><![CDATA[DJ Lowtempo]]></artist_of_album_string>
+		<commentstatus><![CDATA[closed]]></commentstatus>
+		<storelist><![CDATA[a:4:{i:0;a:3:{s:16:"album_store_icon";s:10:"fa-spotify";s:10:"store_name";s:7:"Spotify";s:10:"store_link";s:23:"https://www.spotify.com";}i:1;a:3:{s:16:"album_store_icon";s:8:"fa-apple";s:10:"store_name";s:6:"iTunes";s:10:"store_link";s:22:"https://www.itunes.com";}i:2;a:3:{s:16:"album_store_icon";s:7:"fa-play";s:10:"store_name";s:11:"Google Play";s:10:"store_link";s:26:"https://www.googleplay.com";}i:3;a:3:{s:16:"album_store_icon";s:13:"fa-soundcloud";s:10:"store_name";s:10:"SoundCloud";s:10:"store_link";s:26:"https://www.soundcloud.com";}}]]></storelist>
+		<template><![CDATA[default]]></template>
+		<id><![CDATA[1364]]></id>
+		<title><![CDATA[Dust to Dawn]]></title>
+		<content><![CDATA[]]></content>
+		<imageurl><![CDATA[http://soundrise.irontemplates.com/cpt/wp-content/uploads/sites/8/2017/04/cover_5_credit-lachlanhardy_400px.jpg]]></imageurl>
+		<imagefilename><![CDATA[cover_5_credit-lachlanhardy_400px.jpg]]></imagefilename>
+		<imagepath><![CDATA[/home/17120-16630.cloudwaysapps.com/tuydvbenvt/public_html/wp-content/uploads/sites/8/2017/04/cover_5_credit-lachlanhardy_400px.jpg]]></imagepath>
+		<imageid><![CDATA[1368]]></imageid>
+		<imagetitle><![CDATA[cover_5_credit-lachlanhardy_400px]]></imagetitle>
+		<imagecaption><![CDATA[]]></imagecaption>
+		<imagedescription><![CDATA[]]></imagedescription>
+		<imagealttext><![CDATA[]]></imagealttext>
+		<playlistcategories><![CDATA[Hip-hop]]></playlistcategories>
+		<hidepagetitle><![CDATA[]]></hidepagetitle>
+		<selectlogoversion><![CDATA[light]]></selectlogoversion>
+		<showmenuovercontent><![CDATA[1]]></showmenuovercontent>
+		<pagebackground><![CDATA[]]></pagebackground>
+		<backgroundrepeat><![CDATA[]]></backgroundrepeat>
+		<backgroundsize><![CDATA[]]></backgroundsize>
+		<backgroundposition><![CDATA[]]></backgroundposition>
+		<backgroundcolor><![CDATA[]]></backgroundcolor>
+		<backgroundtransparency><![CDATA[1]]></backgroundtransparency>
+		<sidebarposition><![CDATA[right]]></sidebarposition>
+		<widgetarea><![CDATA[]]></widgetarea>
+		<albumpageheaderbackgroundtype><![CDATA[blurry]]></albumpageheaderbackgroundtype>
+		<backgroundimageupload><![CDATA[]]></backgroundimageupload>
+		<backgroundcolor_2><![CDATA[]]></backgroundcolor_2>
+		<backgroundtype><![CDATA[]]></backgroundtype>
+		<pagebannerbackgroundcolor><![CDATA[]]></pagebannerbackgroundcolor>
+		<parallaxeffect><![CDATA[]]></parallaxeffect>
+		<pagebannerimage><![CDATA[]]></pagebannerimage>
+		<fullscreenheight><![CDATA[]]></fullscreenheight>
+		<pagebannerheight><![CDATA[]]></pagebannerheight>
+		<contenttype><![CDATA[]]></contenttype>
+		<htmlcontent><![CDATA[]]></htmlcontent>
+		<pagebannertitle><![CDATA[]]></pagebannertitle>
+		<pagebannersubtitle><![CDATA[]]></pagebannersubtitle>
+		<bannerhorizontalcontentalignment><![CDATA[]]></bannerhorizontalcontentalignment>
+		<backgroundalignement><![CDATA[]]></backgroundalignement>
+		<pagebannerfontcolor><![CDATA[]]></pagebannerfontcolor>
+		<hidealbumwithinthealbumspoststemplate><![CDATA[]]></hidealbumwithinthealbumspoststemplate>
+		<releasedate><![CDATA[2016]]></releasedate>
+		<externallink><![CDATA[]]></externallink>
+		<tracklist_track_title><![CDATA[Nuclear Ft. Drake|Airborn|Game Time|Back Once|Resurrected|Outbreak Ft. Reign|Break Aparts]]></tracklist_track_title>
+		<tracklist_track_buy_label><![CDATA[Free Download|Free Download|Listen on Spotify|Listen on Spotify|Listen on Spotify|Listen on Spotify|Listen on Spotify]]></tracklist_track_buy_label>
+		<tracklist_track_store><![CDATA[irontemplates.com/marketing/common/download/album-download.zip|irontemplates.com/marketing/common/download/album-download.zip|https://open.spotify.com/track/0BqhBwp24eI27kCNtJbMzt|https://open.spotify.com/track/0BqhBwp24eI27kCNtJbMzt|https://open.spotify.com/track/0BqhBwp24eI27kCNtJbMzt|https://open.spotify.com/track/0BqhBwp24eI27kCNtJbMzt|https://open.spotify.com/track/0BqhBwp24eI27kCNtJbMzt]]></tracklist_track_store>
+		<tracklist_track_mp3><![CDATA[||||||]]></tracklist_track_mp3>
+		<tracklist_stream_link><![CDATA[//irontemplates.com/assets/mp3/02.mp3|//irontemplates.com/assets/mp3/03.mp3|//irontemplates.com/assets/mp3/04.mp3|//irontemplates.com/assets/mp3/05.mp3|//irontemplates.com/assets/mp3/06.mp3|//irontemplates.com/assets/mp3/07.mp3|//irontemplates.com/assets/mp3/08.mp3]]></tracklist_stream_link>
+		<review><![CDATA[]]></review>
+		<reviewauthor><![CDATA[]]></reviewauthor>
+		<slug><![CDATA[dust-to-dawn]]></slug>
+		<date><![CDATA[2017-09-20]]></date>
+	</node>
+	<node>
+		<artist_of_album_string><![CDATA[Thomas Günter]]></artist_of_album_string>
+		<commentstatus><![CDATA[closed]]></commentstatus>
+		<storelist><![CDATA[a:4:{i:0;a:3:{s:16:"album_store_icon";s:10:"fa-spotify";s:10:"store_name";s:7:"Spotify";s:10:"store_link";s:23:"https://www.spotify.com";}i:1;a:3:{s:16:"album_store_icon";s:8:"fa-apple";s:10:"store_name";s:6:"iTunes";s:10:"store_link";s:22:"https://www.itunes.com";}i:2;a:3:{s:16:"album_store_icon";s:7:"fa-play";s:10:"store_name";s:11:"Google Play";s:10:"store_link";s:26:"https://www.googleplay.com";}i:3;a:3:{s:16:"album_store_icon";s:13:"fa-soundcloud";s:10:"store_name";s:10:"SoundCloud";s:10:"store_link";s:26:"https://www.soundcloud.com";}}]]></storelist>
+		<template><![CDATA[single-album-sidecover.php]]></template>
+		<id><![CDATA[1365]]></id>
+		<title><![CDATA[Jay Moon]]></title>
+		<content><![CDATA[]]></content>
+		<imageurl><![CDATA[http://soundrise.irontemplates.com/cpt/wp-content/uploads/sites/8/2017/04/jaymoon_cover.jpg|http://soundrise.irontemplates.com/cpt/wp-content/uploads/sites/8/2017/04/cover_6_credit-shawntron.jpg]]></imageurl>
+		<imagefilename><![CDATA[jaymoon_cover.jpg|cover_6_credit-shawntron.jpg]]></imagefilename>
+		<imagepath><![CDATA[/home/17120-16630.cloudwaysapps.com/tuydvbenvt/public_html/wp-content/uploads/sites/8/2017/04/jaymoon_cover.jpg|/home/17120-16630.cloudwaysapps.com/tuydvbenvt/public_html/wp-content/uploads/sites/8/2017/04/cover_6_credit-shawntron.jpg]]></imagepath>
+		<imageid><![CDATA[2083|1366]]></imageid>
+		<imagetitle><![CDATA[jaymoon_cover|cover_6_credit-shawntron]]></imagetitle>
+		<imagecaption><![CDATA[|]]></imagecaption>
+		<imagedescription><![CDATA[|]]></imagedescription>
+		<imagealttext><![CDATA[|]]></imagealttext>
+		<playlistcategories><![CDATA[Drum and Bass]]></playlistcategories>
+		<hidepagetitle><![CDATA[]]></hidepagetitle>
+		<selectlogoversion><![CDATA[]]></selectlogoversion>
+		<showmenuovercontent><![CDATA[1]]></showmenuovercontent>
+		<pagebackground><![CDATA[]]></pagebackground>
+		<backgroundrepeat><![CDATA[]]></backgroundrepeat>
+		<backgroundsize><![CDATA[]]></backgroundsize>
+		<backgroundposition><![CDATA[]]></backgroundposition>
+		<backgroundcolor><![CDATA[]]></backgroundcolor>
+		<backgroundtransparency><![CDATA[1]]></backgroundtransparency>
+		<sidebarposition><![CDATA[right]]></sidebarposition>
+		<widgetarea><![CDATA[]]></widgetarea>
+		<albumpageheaderbackgroundtype><![CDATA[default]]></albumpageheaderbackgroundtype>
+		<backgroundimageupload><![CDATA[]]></backgroundimageupload>
+		<backgroundcolor_2><![CDATA[]]></backgroundcolor_2>
+		<backgroundtype><![CDATA[]]></backgroundtype>
+		<pagebannerbackgroundcolor><![CDATA[]]></pagebannerbackgroundcolor>
+		<parallaxeffect><![CDATA[]]></parallaxeffect>
+		<pagebannerimage><![CDATA[]]></pagebannerimage>
+		<fullscreenheight><![CDATA[]]></fullscreenheight>
+		<pagebannerheight><![CDATA[]]></pagebannerheight>
+		<contenttype><![CDATA[]]></contenttype>
+		<htmlcontent><![CDATA[]]></htmlcontent>
+		<pagebannertitle><![CDATA[]]></pagebannertitle>
+		<pagebannersubtitle><![CDATA[]]></pagebannersubtitle>
+		<bannerhorizontalcontentalignment><![CDATA[]]></bannerhorizontalcontentalignment>
+		<backgroundalignement><![CDATA[]]></backgroundalignement>
+		<pagebannerfontcolor><![CDATA[]]></pagebannerfontcolor>
+		<hidealbumwithinthealbumspoststemplate><![CDATA[]]></hidealbumwithinthealbumspoststemplate>
+		<releasedate><![CDATA[2017]]></releasedate>
+		<externallink><![CDATA[]]></externallink>
+		<tracklist_track_title><![CDATA[Nuclear Ft. Drake|Airborn|Game Time|Back Once|Resurrected|Outbreak Ft. Reign|Break Aparts]]></tracklist_track_title>
+		<tracklist_track_buy_label><![CDATA[Free Download|Free Download|Listen on Spotify|Listen on Spotify|Listen on Spotify|Listen on Spotify|Listen on Spotify]]></tracklist_track_buy_label>
+		<tracklist_track_store><![CDATA[irontemplates.com/marketing/common/download/album-download.zip|irontemplates.com/marketing/common/download/album-download.zip|https://open.spotify.com/track/0BqhBwp24eI27kCNtJbMzt|https://open.spotify.com/track/0BqhBwp24eI27kCNtJbMzt|https://open.spotify.com/track/0BqhBwp24eI27kCNtJbMzt|https://open.spotify.com/track/0BqhBwp24eI27kCNtJbMzt|https://open.spotify.com/track/0BqhBwp24eI27kCNtJbMzt]]></tracklist_track_store>
+		<tracklist_track_mp3><![CDATA[||||||]]></tracklist_track_mp3>
+		<tracklist_stream_link><![CDATA[//irontemplates.com/assets/mp3/08.mp3|//irontemplates.com/assets/mp3/09.mp3|//irontemplates.com/assets/mp3/10.mp3|//irontemplates.com/assets/mp3/01.mp3|//irontemplates.com/assets/mp3/02.mp3|//irontemplates.com/assets/mp3/03.mp3|//irontemplates.com/assets/mp3/04.mp3]]></tracklist_stream_link>
+		<review><![CDATA[One of the best album of the year]]></review>
+		<reviewauthor><![CDATA[Rolling Stone]]></reviewauthor>
+		<slug><![CDATA[jaymoon]]></slug>
+		<date><![CDATA[2017-04-05]]></date>
+	</node>
+</data>

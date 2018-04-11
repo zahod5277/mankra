@@ -1,0 +1,30 @@
+.iron_widget_radio{
+    margin-bottom:50px;
+
+    &:after{
+        content:'';
+        display:block;
+        clear:both;
+        float: none;
+    }
+
+    .store-list{
+        .fa{
+            font-size: 13px;
+            width: 17px;
+            text-align: left;
+            margin-right: 5px;
+
+        }
+        .button{
+            padding: 4px 10px 5px 8px;
+            border-radius: 3px;
+            font-weight: 700;
+        }
+    }
+
+    .span.heading-t3, h3.widgettitle, span.heading-b3{
+        display: none;
+    }
+
+}

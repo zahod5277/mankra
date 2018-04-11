@@ -1,0 +1,156 @@
+artist_of_album_string,"Comment Status","Store list",Template,id,Title,Content,"Image URL","Image Filename","Image Path","Image ID","Image Title","Image Caption","Image Description","Image Alt Text","Playlist Categories","Hide Page Title","Select Logo Version","Show Menu Over Content","Page Background","Background Repeat","Background Size","Background Position","Background Color","Background Transparency","Sidebar Position","Widget Area","Album Page Header Background Type","Background Image Upload","Background Color","Background Type","Page banner Background Color","Parallax Effect ?","Page banner Image","Fullscreen Height","Page banner Height","Content Type","HTML Content","Page banner Title","Page banner Subtitle","banner Horizontal Content Alignment","Background Alignement","Page banner Font Color","Hide album within the Albums Posts template","Release Date","External Link",Tracklist_track_title,Tracklist_track_buy_label,Tracklist_track_store,Tracklist_track_mp3,Tracklist_stream_link,Review,"Review Author",Slug,Date
+"Half Sun Run",closed,"a:4:{i:0;a:3:{s:16:""album_store_icon"";s:10:""fa-spotify"";s:10:""store_name"";s:7:""Spotify"";s:10:""store_link"";s:23:""https://www.spotify.com"";}i:1;a:3:{s:16:""album_store_icon"";s:8:""fa-apple"";s:10:""store_name"";s:6:""iTunes"";s:10:""store_link"";s:22:""https://www.itunes.com"";}i:2;a:3:{s:16:""album_store_icon"";s:7:""fa-play"";s:10:""store_name"";s:11:""Google Play"";s:10:""store_link"";s:26:""https://www.googleplay.com"";}i:3;a:3:{s:16:""album_store_icon"";s:13:""fa-soundcloud"";s:10:""store_name"";s:10:""SoundCloud"";s:10:""store_link"";s:26:""https://www.soundcloud.com"";}}",default,632,"Dead Obies",,http://soundrise.irontemplates.com/cpt/wp-content/uploads/sites/8/2016/11/APEX_464.jpg,APEX_464.jpg,/home/17120-16630.cloudwaysapps.com/tuydvbenvt/public_html/wp-content/uploads/sites/8/2016/11/APEX_464.jpg,958,APEX_464,,,,Hip-hop,,light,1,,,,,,1,right,,blurry,,,,,,,,,,,,,,,,,2016,,"Nuclear Ft. Drake|Airborn|Game Time|Back Once|Resurrected|Outbreak Ft. Reign|Break Aparts","Free Download|Free Download|Listen on Spotify|Listen on Spotify|Listen on Spotify|Listen on Spotify|Listen on Spotify",irontemplates.com/marketing/common/download/album-download.zip|irontemplates.com/marketing/common/download/album-download.zip|https://open.spotify.com/track/0BqhBwp24eI27kCNtJbMzt|https://open.spotify.com/track/0BqhBwp24eI27kCNtJbMzt|https://open.spotify.com/track/0BqhBwp24eI27kCNtJbMzt|https://open.spotify.com/track/0BqhBwp24eI27kCNtJbMzt|https://open.spotify.com/track/0BqhBwp24eI27kCNtJbMzt,||||||,//irontemplates.com/assets/mp3/02.mp3|//irontemplates.com/assets/mp3/03.mp3|//irontemplates.com/assets/mp3/04.mp3|//irontemplates.com/assets/mp3/05.mp3|//irontemplates.com/assets/mp3/06.mp3|//irontemplates.com/assets/mp3/07.mp3|//irontemplates.com/assets/mp3/08.mp3,,,dead-obies,2016-11-10
+"DJ Lowtempo",closed,"a:4:{i:0;a:3:{s:16:""album_store_icon"";s:10:""fa-spotify"";s:10:""store_name"";s:7:""Spotify"";s:10:""store_link"";s:23:""https://www.spotify.com"";}i:1;a:3:{s:16:""album_store_icon"";s:8:""fa-apple"";s:10:""store_name"";s:6:""iTunes"";s:10:""store_link"";s:22:""https://www.itunes.com"";}i:2;a:3:{s:16:""album_store_icon"";s:7:""fa-play"";s:10:""store_name"";s:11:""Google Play"";s:10:""store_link"";s:26:""https://www.googleplay.com"";}i:3;a:3:{s:16:""album_store_icon"";s:13:""fa-soundcloud"";s:10:""store_name"";s:10:""SoundCloud"";s:10:""store_link"";s:26:""https://www.soundcloud.com"";}}",default,642,Nuclear,"<p style=""text-align: center;""><iframe src=""https://embed.spotify.com/?uri=spotify%3Aalbum%3A4llZzMDzP0sYoRro9Ypbmi"" width=""80%"" height=""750"" frameborder=""0""></iframe></p>",http://soundrise.irontemplates.com/cpt/wp-content/uploads/sites/8/2016/11/AlbumCover-3.jpg,AlbumCover-3.jpg,/home/17120-16630.cloudwaysapps.com/tuydvbenvt/public_html/wp-content/uploads/sites/8/2016/11/AlbumCover-3.jpg,956,AlbumCover-3,,,,Indie,,light,1,,,,,,1,right,,blurry,,,,,,,,,,,,,,,,,2016,,,,,,,"Remember this name. Will spins on radio this year.","Rolling Stone",nuclear,2016-11-10
+"DJ Eklypse",closed,"a:4:{i:0;a:3:{s:16:""album_store_icon"";s:10:""fa-spotify"";s:10:""store_name"";s:7:""Spotify"";s:10:""store_link"";s:23:""https://www.spotify.com"";}i:1;a:3:{s:16:""album_store_icon"";s:8:""fa-apple"";s:10:""store_name"";s:6:""iTunes"";s:10:""store_link"";s:22:""https://www.itunes.com"";}i:2;a:3:{s:16:""album_store_icon"";s:7:""fa-play"";s:10:""store_name"";s:11:""Google Play"";s:10:""store_link"";s:26:""https://www.googleplay.com"";}i:3;a:3:{s:16:""album_store_icon"";s:13:""fa-soundcloud"";s:10:""store_name"";s:10:""SoundCloud"";s:10:""store_link"";s:26:""https://www.soundcloud.com"";}}",default,644,"Outbreak EP",,http://soundrise.irontemplates.com/cpt/wp-content/uploads/sites/8/2016/11/AlbumCover-2.jpg,AlbumCover-2.jpg,/home/17120-16630.cloudwaysapps.com/tuydvbenvt/public_html/wp-content/uploads/sites/8/2016/11/AlbumCover-2.jpg,955,AlbumCover-2,,,,Indie,,light,1,,,,,,1,right,,blurry,,,,,,,,,,,,,,,,,2017,,"Nuclear Ft. Drake|Airborn|Game Time|Back Once|Resurrected|Outbreak Ft. Reign|Break Aparts","Free Download|Free Download|Listen on Spotify|Listen on Spotify|Listen on Spotify|Listen on Spotify|Listen on Spotify",irontemplates.com/marketing/common/download/album-download.zip|irontemplates.com/marketing/common/download/album-download.zip|https://open.spotify.com/track/0BqhBwp24eI27kCNtJbMzt|https://open.spotify.com/track/0BqhBwp24eI27kCNtJbMzt|https://open.spotify.com/track/0BqhBwp24eI27kCNtJbMzt|https://open.spotify.com/track/0BqhBwp24eI27kCNtJbMzt|https://open.spotify.com/track/0BqhBwp24eI27kCNtJbMzt,||||||,//irontemplates.com/assets/mp3/08.mp3|//irontemplates.com/assets/mp3/09.mp3|//irontemplates.com/assets/mp3/10.mp3|//irontemplates.com/assets/mp3/01.mp3|//irontemplates.com/assets/mp3/02.mp3|//irontemplates.com/assets/mp3/03.mp3|//irontemplates.com/assets/mp3/04.mp3,,,outbreak-ep,2016-11-10
+Bahamas,closed,"a:4:{i:0;a:3:{s:16:""album_store_icon"";s:10:""fa-spotify"";s:10:""store_name"";s:7:""Spotify"";s:10:""store_link"";s:23:""https://www.spotify.com"";}i:1;a:3:{s:16:""album_store_icon"";s:8:""fa-apple"";s:10:""store_name"";s:6:""iTunes"";s:10:""store_link"";s:22:""https://www.itunes.com"";}i:2;a:3:{s:16:""album_store_icon"";s:7:""fa-play"";s:10:""store_name"";s:11:""Google Play"";s:10:""store_link"";s:26:""https://www.googleplay.com"";}i:3;a:3:{s:16:""album_store_icon"";s:13:""fa-soundcloud"";s:10:""store_name"";s:10:""SoundCloud"";s:10:""store_link"";s:26:""https://www.soundcloud.com"";}}",default,646,"Lights Out",,http://soundrise.irontemplates.com/cpt/wp-content/uploads/sites/8/2016/11/dicography2.jpg|http://soundrise.irontemplates.com/cpt/wp-content/uploads/sites/8/2016/11/dicography4.jpg|http://soundrise.irontemplates.com/cpt/wp-content/uploads/sites/8/2016/11/cover-single_liberator.jpg|http://soundrise.irontemplates.com/cpt/wp-content/uploads/sites/8/2016/11/cover-single_glamporn_02.jpg|http://soundrise.irontemplates.com/cpt/wp-content/uploads/sites/8/2016/11/cover_credit-gaglias.jpg|http://soundrise.irontemplates.com/cpt/wp-content/uploads/sites/8/2016/11/cover_7_credit-gaglias.jpg|http://soundrise.irontemplates.com/cpt/wp-content/uploads/sites/8/2016/11/cover_6_credit-shawntron.jpg|http://soundrise.irontemplates.com/cpt/wp-content/uploads/sites/8/2016/11/cover_4_credit-gaglias.jpg|http://soundrise.irontemplates.com/cpt/wp-content/uploads/sites/8/2016/11/APEX_464.jpg|http://soundrise.irontemplates.com/cpt/wp-content/uploads/sites/8/2016/11/AlbumCover.jpg|http://soundrise.irontemplates.com/cpt/wp-content/uploads/sites/8/2016/11/AlbumCover-3.jpg|http://soundrise.irontemplates.com/cpt/wp-content/uploads/sites/8/2016/11/AlbumCover-2.jpg,dicography2.jpg|dicography4.jpg|cover-single_liberator.jpg|cover-single_glamporn_02.jpg|cover_credit-gaglias.jpg|cover_7_credit-gaglias.jpg|cover_6_credit-shawntron.jpg|cover_4_credit-gaglias.jpg|APEX_464.jpg|AlbumCover.jpg|AlbumCover-3.jpg|AlbumCover-2.jpg,/home/17120-16630.cloudwaysapps.com/tuydvbenvt/public_html/wp-content/uploads/sites/8/2016/11/dicography2.jpg|/home/17120-16630.cloudwaysapps.com/tuydvbenvt/public_html/wp-content/uploads/sites/8/2016/11/dicography4.jpg|/home/17120-16630.cloudwaysapps.com/tuydvbenvt/public_html/wp-content/uploads/sites/8/2016/11/cover-single_liberator.jpg|/home/17120-16630.cloudwaysapps.com/tuydvbenvt/public_html/wp-content/uploads/sites/8/2016/11/cover-single_glamporn_02.jpg|/home/17120-16630.cloudwaysapps.com/tuydvbenvt/public_html/wp-content/uploads/sites/8/2016/11/cover_credit-gaglias.jpg|/home/17120-16630.cloudwaysapps.com/tuydvbenvt/public_html/wp-content/uploads/sites/8/2016/11/cover_7_credit-gaglias.jpg|/home/17120-16630.cloudwaysapps.com/tuydvbenvt/public_html/wp-content/uploads/sites/8/2016/11/cover_6_credit-shawntron.jpg|/home/17120-16630.cloudwaysapps.com/tuydvbenvt/public_html/wp-content/uploads/sites/8/2016/11/cover_4_credit-gaglias.jpg|/home/17120-16630.cloudwaysapps.com/tuydvbenvt/public_html/wp-content/uploads/sites/8/2016/11/APEX_464.jpg|/home/17120-16630.cloudwaysapps.com/tuydvbenvt/public_html/wp-content/uploads/sites/8/2016/11/AlbumCover.jpg|/home/17120-16630.cloudwaysapps.com/tuydvbenvt/public_html/wp-content/uploads/sites/8/2016/11/AlbumCover-3.jpg|/home/17120-16630.cloudwaysapps.com/tuydvbenvt/public_html/wp-content/uploads/sites/8/2016/11/AlbumCover-2.jpg,966|967|965|964|963|962|961|959|958|957|956|955,dicography2|dicography4|cover-single_liberator|cover-single_glamporn_02|cover_credit-gaglias|cover_7_credit-gaglias|cover_6_credit-shawntron|cover_4_credit-gaglias|APEX_464|AlbumCover|AlbumCover-3|AlbumCover-2,|||||||||||,|||||||||||,|||||||||||,Hip-hop,,light,1,,,,,,1,right,,blurry,,,,,,,,,,,,,,,,,2017,,"Nuclear Ft. Drake|Airborn|Game Time|Back Once|Resurrected|Outbreak Ft. Reign|Break Aparts","Free Download|Free Download|Listen on Spotify|Listen on Spotify|Listen on Spotify|Listen on Spotify|Listen on Spotify",irontemplates.com/marketing/common/download/album-download.zip|irontemplates.com/marketing/common/download/album-download.zip|https://open.spotify.com/track/0BqhBwp24eI27kCNtJbMzt|https://open.spotify.com/track/0BqhBwp24eI27kCNtJbMzt|https://open.spotify.com/track/0BqhBwp24eI27kCNtJbMzt|https://open.spotify.com/track/0BqhBwp24eI27kCNtJbMzt|https://open.spotify.com/track/0BqhBwp24eI27kCNtJbMzt,||||||,//irontemplates.com/assets/mp3/01.mp3|//irontemplates.com/assets/mp3/02.mp3|//irontemplates.com/assets/mp3/03.mp3|//irontemplates.com/assets/mp3/04.mp3|//irontemplates.com/assets/mp3/05.mp3|//irontemplates.com/assets/mp3/06.mp3|//irontemplates.com/assets/mp3/07.mp3,"5 ouf of 5 stars album review for the Dave Adkins album. Great writing and arrangements, picking and singing. It’s a winner in my book.",IronTemplates,lights-out,2016-11-10
+"Carla &#038; Bones",closed,"a:4:{i:0;a:3:{s:16:""album_store_icon"";s:10:""fa-spotify"";s:10:""store_name"";s:7:""Spotify"";s:10:""store_link"";s:23:""https://www.spotify.com"";}i:1;a:3:{s:16:""album_store_icon"";s:8:""fa-apple"";s:10:""store_name"";s:6:""iTunes"";s:10:""store_link"";s:22:""https://www.itunes.com"";}i:2;a:3:{s:16:""album_store_icon"";s:7:""fa-play"";s:10:""store_name"";s:11:""Google Play"";s:10:""store_link"";s:26:""https://www.googleplay.com"";}i:3;a:3:{s:16:""album_store_icon"";s:13:""fa-soundcloud"";s:10:""store_name"";s:10:""SoundCloud"";s:10:""store_link"";s:26:""https://www.soundcloud.com"";}}",default,1348,Trailblazers,"[vc_row][vc_column][vc_custom_heading text=""Lyrics"" font_container=""tag:h4|font_size:24px|text_align:left|line_height:24px"" use_theme_fonts=""yes"" fit_bg_text=""0""][vc_tta_accordion style=""outline"" shape=""square"" color=""black"" c_icon=""chevron"" active_section=""-1"" collapsible_all=""true""][vc_tta_section title=""Nuclear Ft. Drake"" tab_id=""1492003804430-29bafbf7-284b""][vc_column_text]
+<div style=""text-align: center;"">The club isn't the best place to find a lover
+So the bar is where I go
+Me and my friends at the table doing shots
+Drinking fast and then we talk slow
+Come over and start up a conversation with just me
+And trust me I'll give it a chance now
+Take my hand, stop, put Van the Man on the jukebox
+And then we start to dance, and now I'm singing like
+Girl, you know I want your love
+Your love was handmade for somebody like me
+Come on now, follow my lead
+I may be crazy, don't mind me
+Say, boy, let's not talk too much
+Grab on my waist and put that body on me
+Come on now, follow my lead
+Come, come on now, follow my lead
+I'm in love with the shape of you
+We push and pull like a magnet do
+Although my heart is falling too
+I'm in love with your body</div>
+[/vc_column_text][/vc_tta_section][vc_tta_section title=""Airborn"" tab_id=""1492004296806-67274428-5ba6""][vc_column_text]
+<div style=""text-align: center;"">The club isn't the best place to find a lover
+So the bar is where I go
+Me and my friends at the table doing shots
+Drinking fast and then we talk slow
+Come over and start up a conversation with just me
+And trust me I'll give it a chance now
+Take my hand, stop, put Van the Man on the jukebox
+And then we start to dance, and now I'm singing like
+Girl, you know I want your love
+Your love was handmade for somebody like me
+Come on now, follow my lead
+I may be crazy, don't mind me
+Say, boy, let's not talk too much
+Grab on my waist and put that body on me
+Come on now, follow my lead
+Come, come on now, follow my lead
+I'm in love with the shape of you
+We push and pull like a magnet do
+Although my heart is falling too
+I'm in love with your body</div>
+[/vc_column_text][/vc_tta_section][vc_tta_section title=""Game Time"" tab_id=""1492004296313-63e0c5e4-9d37""][vc_column_text]
+<div style=""text-align: center;"">The club isn't the best place to find a lover
+So the bar is where I go
+Me and my friends at the table doing shots
+Drinking fast and then we talk slow
+Come over and start up a conversation with just me
+And trust me I'll give it a chance now
+Take my hand, stop, put Van the Man on the jukebox
+And then we start to dance, and now I'm singing like
+Girl, you know I want your love
+Your love was handmade for somebody like me
+Come on now, follow my lead
+I may be crazy, don't mind me
+Say, boy, let's not talk too much
+Grab on my waist and put that body on me
+Come on now, follow my lead
+Come, come on now, follow my lead
+I'm in love with the shape of you
+We push and pull like a magnet do
+Although my heart is falling too
+I'm in love with your body</div>
+[/vc_column_text][/vc_tta_section][vc_tta_section title=""Back Once"" tab_id=""1492004295181-1eefccc8-e750""][vc_column_text]
+<div style=""text-align: center;"">The club isn't the best place to find a lover
+So the bar is where I go
+Me and my friends at the table doing shots
+Drinking fast and then we talk slow
+Come over and start up a conversation with just me
+And trust me I'll give it a chance now
+Take my hand, stop, put Van the Man on the jukebox
+And then we start to dance, and now I'm singing like
+Girl, you know I want your love
+Your love was handmade for somebody like me
+Come on now, follow my lead
+I may be crazy, don't mind me
+Say, boy, let's not talk too much
+Grab on my waist and put that body on me
+Come on now, follow my lead
+Come, come on now, follow my lead
+I'm in love with the shape of you
+We push and pull like a magnet do
+Although my heart is falling too
+I'm in love with your body</div>
+[/vc_column_text][/vc_tta_section][vc_tta_section title=""Resurrected"" tab_id=""1492004530875-5748f781-f83d""][vc_column_text]
+<div style=""text-align: center;"">The club isn't the best place to find a lover
+So the bar is where I go
+Me and my friends at the table doing shots
+Drinking fast and then we talk slow
+Come over and start up a conversation with just me
+And trust me I'll give it a chance now
+Take my hand, stop, put Van the Man on the jukebox
+And then we start to dance, and now I'm singing like
+Girl, you know I want your love
+Your love was handmade for somebody like me
+Come on now, follow my lead
+I may be crazy, don't mind me
+Say, boy, let's not talk too much
+Grab on my waist and put that body on me
+Come on now, follow my lead
+Come, come on now, follow my lead
+I'm in love with the shape of you
+We push and pull like a magnet do
+Although my heart is falling too
+I'm in love with your body</div>
+[/vc_column_text][/vc_tta_section][vc_tta_section title=""Outbreak Ft. Reign"" tab_id=""1492004530326-6b11890b-2783""][vc_column_text]
+<div style=""text-align: center;"">The club isn't the best place to find a lover
+So the bar is where I go
+Me and my friends at the table doing shots
+Drinking fast and then we talk slow
+Come over and start up a conversation with just me
+And trust me I'll give it a chance now
+Take my hand, stop, put Van the Man on the jukebox
+And then we start to dance, and now I'm singing like
+Girl, you know I want your love
+Your love was handmade for somebody like me
+Come on now, follow my lead
+I may be crazy, don't mind me
+Say, boy, let's not talk too much
+Grab on my waist and put that body on me
+Come on now, follow my lead
+Come, come on now, follow my lead
+I'm in love with the shape of you
+We push and pull like a magnet do
+Although my heart is falling too
+I'm in love with your body</div>
+[/vc_column_text][/vc_tta_section][vc_tta_section title=""Break Aparts"" tab_id=""1492004529768-e60b5c9f-7685""][vc_column_text]
+<div style=""text-align: center;"">The club isn't the best place to find a lover
+So the bar is where I go
+Me and my friends at the table doing shots
+Drinking fast and then we talk slow
+Come over and start up a conversation with just me
+And trust me I'll give it a chance now
+Take my hand, stop, put Van the Man on the jukebox
+And then we start to dance, and now I'm singing like
+Girl, you know I want your love
+Your love was handmade for somebody like me
+Come on now, follow my lead
+I may be crazy, don't mind me
+Say, boy, let's not talk too much
+Grab on my waist and put that body on me
+Come on now, follow my lead
+Come, come on now, follow my lead
+I'm in love with the shape of you
+We push and pull like a magnet do
+Although my heart is falling too
+I'm in love with your body</div>
+[/vc_column_text][/vc_tta_section][/vc_tta_accordion][/vc_column][/vc_row]",http://soundrise.irontemplates.com/cpt/wp-content/uploads/sites/8/2017/04/TRAILBLAZERS.jpg,TRAILBLAZERS.jpg,/home/17120-16630.cloudwaysapps.com/tuydvbenvt/public_html/wp-content/uploads/sites/8/2017/04/TRAILBLAZERS.jpg,1349,TRAILBLAZERS,,,,Electro,,light,1,,,,,,1,right,,blurry,,,,,,,,,,,,,,,,,2017,,"Nuclear Ft. Drake|Airborn|Game Time|Back Once|Resurrected|Outbreak Ft. Reign|Break Aparts","Free Download|Free Download|Listen on Spotify|Listen on Spotify|Listen on Spotify|Listen on Spotify|Listen on Spotify",irontemplates.com/marketing/common/download/album-download.zip|irontemplates.com/marketing/common/download/album-download.zip|https://open.spotify.com/track/0BqhBwp24eI27kCNtJbMzt|https://open.spotify.com/track/0BqhBwp24eI27kCNtJbMzt|https://open.spotify.com/track/0BqhBwp24eI27kCNtJbMzt|https://open.spotify.com/track/0BqhBwp24eI27kCNtJbMzt|https://open.spotify.com/track/0BqhBwp24eI27kCNtJbMzt,||||||,//irontemplates.com/assets/mp3/01.mp3|//irontemplates.com/assets/mp3/02.mp3|//irontemplates.com/assets/mp3/03.mp3|//irontemplates.com/assets/mp3/04.mp3|//irontemplates.com/assets/mp3/05.mp3|//irontemplates.com/assets/mp3/06.mp3|//irontemplates.com/assets/mp3/07.mp3,"5 ouf of 5 stars album review for the Dave Adkins album. Great writing and arrangements, picking and singing. It’s a winner in my book.",IronTemplates,trailblazers,2017-04-05
+"Guns and Plants",closed,"a:4:{i:0;a:3:{s:16:""album_store_icon"";s:10:""fa-spotify"";s:10:""store_name"";s:7:""Spotify"";s:10:""store_link"";s:23:""https://www.spotify.com"";}i:1;a:3:{s:16:""album_store_icon"";s:8:""fa-apple"";s:10:""store_name"";s:6:""iTunes"";s:10:""store_link"";s:22:""https://www.itunes.com"";}i:2;a:3:{s:16:""album_store_icon"";s:7:""fa-play"";s:10:""store_name"";s:11:""Google Play"";s:10:""store_link"";s:26:""https://www.googleplay.com"";}i:3;a:3:{s:16:""album_store_icon"";s:13:""fa-soundcloud"";s:10:""store_name"";s:10:""SoundCloud"";s:10:""store_link"";s:26:""https://www.soundcloud.com"";}}",default,1360,Stardust,"<iframe src=""https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/41031863&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"" width=""100%"" height=""450"" frameborder=""no"" scrolling=""no""></iframe>",http://soundrise.irontemplates.com/cpt/wp-content/uploads/sites/8/2017/04/stardust.jpg,stardust.jpg,/home/17120-16630.cloudwaysapps.com/tuydvbenvt/public_html/wp-content/uploads/sites/8/2017/04/stardust.jpg,1361,stardust,,,,Electro,,,1,,,,,,1,right,,default,,,,,,,,,,,,,,,,,2016,,,,,,,,,stardust,2017-04-05
+"DJ Lowtempo",closed,"a:4:{i:0;a:3:{s:16:""album_store_icon"";s:10:""fa-spotify"";s:10:""store_name"";s:7:""Spotify"";s:10:""store_link"";s:23:""https://www.spotify.com"";}i:1;a:3:{s:16:""album_store_icon"";s:8:""fa-apple"";s:10:""store_name"";s:6:""iTunes"";s:10:""store_link"";s:22:""https://www.itunes.com"";}i:2;a:3:{s:16:""album_store_icon"";s:7:""fa-play"";s:10:""store_name"";s:11:""Google Play"";s:10:""store_link"";s:26:""https://www.googleplay.com"";}i:3;a:3:{s:16:""album_store_icon"";s:13:""fa-soundcloud"";s:10:""store_name"";s:10:""SoundCloud"";s:10:""store_link"";s:26:""https://www.soundcloud.com"";}}",default,1364,"Dust to Dawn",,http://soundrise.irontemplates.com/cpt/wp-content/uploads/sites/8/2017/04/cover_5_credit-lachlanhardy_400px.jpg,cover_5_credit-lachlanhardy_400px.jpg,/home/17120-16630.cloudwaysapps.com/tuydvbenvt/public_html/wp-content/uploads/sites/8/2017/04/cover_5_credit-lachlanhardy_400px.jpg,1368,cover_5_credit-lachlanhardy_400px,,,,Hip-hop,,light,1,,,,,,1,right,,blurry,,,,,,,,,,,,,,,,,2016,,"Nuclear Ft. Drake|Airborn|Game Time|Back Once|Resurrected|Outbreak Ft. Reign|Break Aparts","Free Download|Free Download|Listen on Spotify|Listen on Spotify|Listen on Spotify|Listen on Spotify|Listen on Spotify",irontemplates.com/marketing/common/download/album-download.zip|irontemplates.com/marketing/common/download/album-download.zip|https://open.spotify.com/track/0BqhBwp24eI27kCNtJbMzt|https://open.spotify.com/track/0BqhBwp24eI27kCNtJbMzt|https://open.spotify.com/track/0BqhBwp24eI27kCNtJbMzt|https://open.spotify.com/track/0BqhBwp24eI27kCNtJbMzt|https://open.spotify.com/track/0BqhBwp24eI27kCNtJbMzt,||||||,//irontemplates.com/assets/mp3/02.mp3|//irontemplates.com/assets/mp3/03.mp3|//irontemplates.com/assets/mp3/04.mp3|//irontemplates.com/assets/mp3/05.mp3|//irontemplates.com/assets/mp3/06.mp3|//irontemplates.com/assets/mp3/07.mp3|//irontemplates.com/assets/mp3/08.mp3,,,dust-to-dawn,2017-09-20
+"Thomas Günter",closed,"a:4:{i:0;a:3:{s:16:""album_store_icon"";s:10:""fa-spotify"";s:10:""store_name"";s:7:""Spotify"";s:10:""store_link"";s:23:""https://www.spotify.com"";}i:1;a:3:{s:16:""album_store_icon"";s:8:""fa-apple"";s:10:""store_name"";s:6:""iTunes"";s:10:""store_link"";s:22:""https://www.itunes.com"";}i:2;a:3:{s:16:""album_store_icon"";s:7:""fa-play"";s:10:""store_name"";s:11:""Google Play"";s:10:""store_link"";s:26:""https://www.googleplay.com"";}i:3;a:3:{s:16:""album_store_icon"";s:13:""fa-soundcloud"";s:10:""store_name"";s:10:""SoundCloud"";s:10:""store_link"";s:26:""https://www.soundcloud.com"";}}",single-album-sidecover.php,1365,"Jay Moon",,http://soundrise.irontemplates.com/cpt/wp-content/uploads/sites/8/2017/04/jaymoon_cover.jpg|http://soundrise.irontemplates.com/cpt/wp-content/uploads/sites/8/2017/04/cover_6_credit-shawntron.jpg,jaymoon_cover.jpg|cover_6_credit-shawntron.jpg,/home/17120-16630.cloudwaysapps.com/tuydvbenvt/public_html/wp-content/uploads/sites/8/2017/04/jaymoon_cover.jpg|/home/17120-16630.cloudwaysapps.com/tuydvbenvt/public_html/wp-content/uploads/sites/8/2017/04/cover_6_credit-shawntron.jpg,2083|1366,jaymoon_cover|cover_6_credit-shawntron,|,|,|,"Drum and Bass",,,1,,,,,,1,right,,default,,,,,,,,,,,,,,,,,2017,,"Nuclear Ft. Drake|Airborn|Game Time|Back Once|Resurrected|Outbreak Ft. Reign|Break Aparts","Free Download|Free Download|Listen on Spotify|Listen on Spotify|Listen on Spotify|Listen on Spotify|Listen on Spotify",irontemplates.com/marketing/common/download/album-download.zip|irontemplates.com/marketing/common/download/album-download.zip|https://open.spotify.com/track/0BqhBwp24eI27kCNtJbMzt|https://open.spotify.com/track/0BqhBwp24eI27kCNtJbMzt|https://open.spotify.com/track/0BqhBwp24eI27kCNtJbMzt|https://open.spotify.com/track/0BqhBwp24eI27kCNtJbMzt|https://open.spotify.com/track/0BqhBwp24eI27kCNtJbMzt,||||||,//irontemplates.com/assets/mp3/08.mp3|//irontemplates.com/assets/mp3/09.mp3|//irontemplates.com/assets/mp3/10.mp3|//irontemplates.com/assets/mp3/01.mp3|//irontemplates.com/assets/mp3/02.mp3|//irontemplates.com/assets/mp3/03.mp3|//irontemplates.com/assets/mp3/04.mp3,"One of the best album of the year","Rolling Stone",jaymoon,2017-04-05

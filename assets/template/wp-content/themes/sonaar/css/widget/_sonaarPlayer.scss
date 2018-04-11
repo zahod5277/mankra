@@ -1,0 +1,663 @@
+%store {
+  box-sizing: border-box;
+  width: 1px;
+  height: 90px;
+  .track-store {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    li {
+      height: 100%;
+      width: 74px;
+      display: inline-block;
+      border-left: 1px solid rgba(255, 255, 255, 0.1);
+      position: relative;
+      top: 0;
+      @media only screen and (max-width: 1025px) {
+        border: none;
+      }
+      a {
+        width: 100%;
+        height: 100%;
+        padding-top: 30px;
+        display: block;
+        font-size: 10px;
+        text-transform: uppercase;
+        text-align: center;
+        @media only screen and (max-width: 1025px) {
+          padding-top: 20px;
+        }
+        .fa {
+          display: block;
+          font-size: 20px;
+        }
+      }
+    }
+  }
+  @media only screen and (max-width: 1025px) {
+    position: absolute;
+    bottom: 94px;
+    width: 100%!important;
+    display: flex;
+    justify-content: center;
+    height: 70px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.75);
+  }
+}
+
+%hideMobile {
+  @media only screen and (max-width: 426px) {
+    display: none!important;
+  }
+}
+
+%hideMobileLarge {
+  @media only screen and (max-width: 540px) {
+    display: none!important;
+  }
+}
+
+%hideMedium {
+  @media only screen and (min-width: 425px) and (max-width: 1025px) {
+    display: none!important;
+  }
+}
+
+%hideLarge {
+  @media only screen and (min-width: 1024px) {
+    display: none!important;
+  }
+}
+
+#sonaar-player {
+  position: fixed;
+  bottom: 0;
+  transform: translate3d( 0, 94px, 0);
+  width: 100%;
+  height: 90px;
+  z-index: 8010;
+  @media only screen and (min-width: 540px) {
+    transition: transform 0.75s ease, height 0.75s ease;
+  }
+  &.enable {
+    transform: translate3d( 0, 0, 0);
+  }
+  &.show-list {
+    height: 100%;
+    z-index: 9999;
+  }
+  .close {
+    right: 55px;
+    top: 45px;
+    position: absolute;
+    cursor: pointer;
+    &:after {
+      content: '';
+      border: 3px solid #fff;
+      transform: rotate(-45deg);
+      width: 0;
+      height: 25px;
+      position: absolute;
+      border-top: none;
+      border-right: none;
+      @media only screen and (max-width: 860px) {
+        width: 0;
+        height: 16px;
+      }
+    }
+    &:before {
+      content: '';
+      border: 3px solid #fff;
+      transform: rotate(45deg);
+      width: 0;
+      height: 25px;
+      position: absolute;
+      border-top: none;
+      border-right: none;
+      @media only screen and (max-width: 860px) {
+        width: 0;
+        height: 16px;
+      }
+    }
+    @media only screen and (max-width: 860px) {
+      top: 15px;
+      right: 30px;
+      z-index: 9999;
+    }
+    &.btn-player {
+      width: 35px;
+      height: 35px;
+      right: 0;
+      bottom: 94px;
+      top: auto;
+      &:after, &:before {
+        display: none;
+      }
+      .audioBar {
+        display: block;
+        width: 16px;
+        height: 16px;
+        transform: rotate(180deg);
+        position: absolute;
+        top: 11px;
+        left: 9px;
+      }
+      &.enable {
+        width: 27px;
+        height: 21px;
+        &:after {
+          display: block;
+          position: absolute;
+          width: 0px;
+          height: 15px;
+          left: 12px;
+          top: 4px;
+          border: 1px solid;
+          border-top: none;
+          border-right: none;
+        }
+        &:before {
+          display: block;
+          position: absolute;
+          width: 0px;
+          height: 15px;
+          left: 12px;
+          top: 4px;
+          border: 1px solid;
+          border-top: none;
+          border-right: none;
+        }
+        .audioBar {
+          display: none;
+        }
+      }
+    }
+  }
+  .playerNowPlaying {
+    width: 342px;
+    .album-art {
+      height: 70px;
+      width: 70px;
+      position: absolute;
+      top: 10px;
+      left: 10px;
+      background: #222;
+      transition: all 0.5s ease;
+      @media only screen and (max-width: 540px) {
+        height: 90px;
+        width: 90px;
+        top: 2px;
+        left: 0;
+      }
+      .loading-icon {
+        color: #fff;
+        position: absolute;
+        width: 100%;
+        top: 20px;
+        opacity: 0;
+        transition: opacity 0.75s ease;
+      }
+      &.loading-enable.loading .loading-icon {
+        opacity: 1;
+      }
+      img {
+        width: 100%;
+        height: auto;
+        &.hover {
+          opacity: 0;
+          position: absolute;
+          bottom: 82px;
+          width: 200px;
+          transition: all 0.5s ease;
+          transform: translate3d( 0, 200px, 0);
+        }
+      }
+      @media only screen and (min-width: 540px) {
+        &:hover {
+          img {
+            &.hover {
+              opacity: 1;
+              transform: translate3d( 0, 0, 0);
+            }
+          }
+        }
+      }
+    }
+    .metadata {
+      position: absolute;
+      left: 100px;
+      letter-spacing: 1px;
+      width: 200px;
+      overflow: hidden;
+      white-space: nowrap;
+      padding: 0 0 5px;
+      line-height: 1.65em;
+      top: 50%;
+      transform: translateY(-50%);
+      .track-name,
+      .track-artist,
+      .track-album {
+        //font-weight: initial;
+        float: left;
+        display: inline;
+        clear: left;
+        &.scrolling {
+          transition: transform 5s linear;
+        }
+        .duplicate {
+          padding-left: 10px;
+        }
+      }
+      .track-artist,
+      .track-album {
+        font-size: 0.7em;
+        line-height: 1em;
+      }
+      @media only screen and (max-width: 860px) {
+        width: calc( 100% - 255px);
+      }
+      @media only screen and (max-width: 540px) {
+        font-size: 12px;
+      }
+    }
+    @media only screen and (max-width: 860px) {
+      width: auto;
+      flex: 1;
+    }
+  }
+  .playlist {
+    box-sizing: border-box;
+    height: calc(100vh - 94px);
+    position: absolute;
+    width: 100%;
+    .scroll {
+      height: calc(100vh - 320px);
+      width: 100%;
+      top: 100px;
+      position: absolute;
+      display: flex;
+      overflow-y: hidden;
+      @media only screen and (max-width: 860px) {}
+    }
+    .container {
+      min-height: 0;
+      width: 100%;
+      height: auto;
+      align-self: center;
+      margin: auto;
+      padding: 0 20px;
+      background-color: transparent;
+      .boxed {
+        height: auto;
+        width: 100%;
+      }
+    }
+    h1 {
+      display: block;
+      text-align: center;
+      font-size: 54px;
+      line-height: 1.265em;
+      @media only screen and (max-width: 860px) {
+        box-sizing: border-box;
+        font-size: 18px;
+        text-transform: uppercase;
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100vw;
+        margin: 0;
+        padding: 20px;
+      }
+    }
+    button.play {
+      padding: 12px 34px;
+      border-radius: 50px;
+      border: none;
+      font-family: Tahoma, sans-serif;
+      font-size: 14px;
+      text-transform: uppercase;
+      position: relative;
+      left: 50%;
+      transform: translate(-50%, 0);
+      margin: 0 auto 50px auto;
+      outline: none;
+      cursor: pointer;
+      @extend %hideMobileLarge;
+    }
+    .tracklist {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      display: table;
+      width: 100%;
+      @media only screen and (max-width: 540px) {
+        display: block;
+      }
+      li {
+        filter: brightness(70%);
+        font-weight: inherit;
+        display: table-row;
+        line-height: 2.4em;
+        cursor: pointer;
+        &.active {
+          filter: brightness(100%);
+          font-weight: 700;
+        }
+        @media only screen and (max-width: 860px) {
+          font-size: 15px;
+        }
+        @media only screen and (max-width: 540px) {
+          display: block;
+          line-height: 1.265em;
+          margin-bottom: 1.265em;
+          position: relative;
+        }
+      }
+      span {
+        display: table-cell;
+        .content {
+          @media only screen and (min-width: 540px) {
+            display: block;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            width: 90%;
+          }
+        }
+        @media only screen and (max-width: 540px) {
+          display: inline-block;
+        }
+      }
+      .track-status {
+        @media only screen and (max-width: 540px) {
+          position: absolute;
+          font-size: 12px;
+          font-weight: 300;
+        }
+      }
+      .track-lenght {
+        @media only screen and (max-width: 540px) {
+          font-size: 12px;
+          font-weight: 300;
+          position: absolute;
+          right: 0px;
+          top: 0;
+        }
+      }
+      .track-store {
+        text-align: right;
+        a {
+          font-size: 20px;
+          padding-left: 15px;
+        }
+        @extend %hideMobile;
+        @extend %hideMedium;
+      }
+      .track-title {
+        @media only screen and (max-width: 540px) {
+          display: block;
+          width: 100%;
+          padding-left: 30px;
+        }
+      }
+      .track-artist,
+      .track-album {
+        @media only screen and (max-width: 540px) {
+          font-size: 12px;
+          font-weight: 300;
+          padding-left: 30px;
+        }
+      }
+      .track-album {
+        @media only screen and (max-width: 540px) {
+          padding-left: 10px;
+        }
+      }
+    }
+  }
+  .player {
+    width: 100%;
+    height: 90px;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    top: auto;
+    border-width: 4px;
+    border-style: solid;
+    border-left: none;
+    border-bottom: none;
+    border-right: none;
+    .player-row {
+      display: flex;
+      height: 90px;
+    }
+    .wavesurfer {
+      width: auto;
+      height: 90px;
+      overflow: hidden;
+      position: relative;
+      flex: 1;
+      #sPlayer {
+        height: 90px;
+        opacity: 0;
+        transition: all 3000ms ease;
+        overflow: hidden;
+        width: calc( 100% - 60px);
+        &.hide {
+          opacity: 0;
+        }
+        &.reveal {
+          opacity: 1;
+        }
+      }
+      @media only screen and (max-width: 860px) {
+        display: none!important;
+      }
+    }
+    .progressLoading {
+      background: rgba(255, 255, 255, 0.25);
+      width: 0%;
+      height: 1px;
+      box-shadow: 0 0 2px rgba(255, 255, 255, 0.5);
+      width: calc( 100% - 562px);
+      position: absolute;
+      left: 552px;
+      top: 45px;
+      transition: opacity 3000ms ease;
+    }
+    .wave {
+      position: absolute;
+      left: 30px;
+      top: 28px;
+      wave {
+        position: absolute;
+        overflow-x: hidden!important;
+      }
+    }
+    @at-root {
+      .enable .store {
+        @extend %store;
+      }
+    }
+    .control {
+      position: relative;
+      width: 185px;
+      transition: all 0.5s ease;
+      @media only screen and (max-width: 540px) {
+        width: 120px;
+      }
+      @media only screen and (max-width: 860px) {
+        margin-right: 20px;
+      }
+      .play {
+        position: absolute;
+        right: 35px;
+        height: 100%;
+        width: 50px;
+        opacity: 1!important;
+        display: block;
+        cursor: pointer;
+        bottom: 0;
+        fill: #fff;
+        svg {
+          height: 25px;
+          top: 50%;
+          transform: translate(-50%, -50%);
+          position: absolute;
+          left: 50%;
+        }
+        path,
+        rect {
+          transition: all 300ms ease;
+        }
+        rect {
+          opacity: 0;
+        }
+        &.audio-playing {
+          path {
+            opacity: 0;
+          }
+          rect {
+            opacity: 1;
+          }
+        }
+      }
+      .previous {
+        position: absolute;
+        right: 95px;
+        bottom: 0;
+        opacity: 1!important;
+        width: 30px;
+        height: 100%;
+        display: block;
+        cursor: pointer;
+        fill: #fff;
+        svg {
+          height: 20px;
+          top: 50%;
+          transform: translate(-50%, -50%);
+          position: absolute;
+          left: 50%;
+        }
+        @extend %hideMobile;
+        @extend %hideMobileLarge;
+      }
+      .next {
+        position: absolute;
+        right: 0;
+        opacity: 1!important;
+        bottom: 0;
+        width: 30px;
+        height: 100%;
+        display: block;
+        cursor: pointer;
+        fill: #fff;
+        svg {
+          height: 20px;
+          top: 50%;
+          transform: translate(-50%, -50%);
+          position: absolute;
+          left: 50%;
+        }
+      }
+      .list {
+        position: absolute;
+        left: 0;
+        opacity: 1!important;
+        bottom: 0;
+        width: 24px;
+        height: 100%;
+        display: block;
+        cursor: pointer;
+        fill: #fff;
+        svg {
+          height: 20px;
+          top: 50%;
+          transform: translate(-50%, -50%);
+          position: absolute;
+          left: 50%;
+        }
+      }
+    }
+  }
+}
+
+.sonaar-player-slidefade-enter-active {
+  @media only screen and (min-width: 540px) {
+    transition: 1s 0.4s all ease;
+  }
+}
+
+.sonaar-player-slidefade-leave-active {
+  @media only screen and (min-width: 540px) {
+    transition: all .4s ease;
+  }
+}
+
+.sonaar-player-slidefade-enter {
+  @media only screen and (min-width: 540px) {
+    transform: scale(0.8);
+    opacity: 0;
+  }
+}
+
+.sonaar-player-slidefade-leave-to {
+  @media only screen and (min-width: 540px) {
+    opacity: 0;
+  }
+}
+
+#pusher-wrap.sonaar-list-active {
+  @media only screen and (min-width: 540px) {
+    -webkit-animation: blur 0.5s linear forwards;
+    -moz-animation: blur 0.5s linear forwards;
+    -ms-animation: blur 0.5s linear forwards;
+    -o-animation: blur 0.5s linear forwards;
+    animation: blur 0.5s linear forwards;
+  }
+}
+
+@-webkit-keyframes blur {
+  from {
+    -webkit-filter: blur(0);
+    filter: blur(0);
+  }
+  to {
+    -webkit-filter: blur(20px);
+    filter: blur(20px);
+  }
+}
+
+@-moz-keyframes blur {
+  from {
+    -webkit-filter: blur(0);
+    filter: blur(0);
+  }
+  to {
+    -moz-filter: blur(20px);
+    filter: blur(20px);
+  }
+}
+
+@keyframes blur {
+  from {
+    -webkit-filter: blur(0);
+    filter: blur(0);
+  }
+  to {
+    -webkit-filter: blur(20px);
+    -moz-filter: blur(20px);
+    filter: blur(20px);
+  }
+}
+
+.sonaar-list-active #pusher {
+  overflow-y: hidden;
+  overflow-x: hidden;
+  height: 100vh;
+}
+
+.ps-container:hover>.ps-scrollbar-y-rail:hover {
+  background-color: transparent;
+}

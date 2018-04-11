@@ -1,0 +1,123 @@
+
+
+.single-artist{
+    article {
+      position: relative;
+
+      &.no-banner{
+          margin-top: 250px;
+      }
+    }
+
+    h1.page-title {
+        font-size: 84px;
+        line-height:75px;
+        margin-bottom:40px;
+        color: #FFFFFF;
+    }
+    .page-subtitle {
+        font-size: 36px;
+        line-height:32px;
+        color: #FFFFFF;
+    }
+    .entry {
+      padding-top: 1px;
+      margin-top: -1px;
+    }
+
+    .artist-header {
+      overflow: hidden;
+      position: relative;
+      z-index: 10;
+      background-size: cover;
+    }
+
+    .artist_sidebar {
+      margin-top: 135px;
+
+        .sr_it-meta {
+          margin-bottom: 45px;
+        }
+
+        .fa {
+          font-size: 13px;
+          width: 13px;
+          text-align: left;
+          margin-right: 10px;
+        }
+
+        .social_icon {
+          margin-bottom: 10px;
+        }
+
+        h4 {
+          text-align: left;
+        }
+    }
+
+    .artist_content {
+        float:right;
+        margin-top: 162px;
+
+        @media screen and (max-width: 767px) {
+            margin-bottom: 70px;
+            float:none;
+
+
+            .wpb_column.vc_column_container.vc_col-sm-12{
+                padding-left:0px!important;
+                padding-right:0px!important;
+            }
+            &.padding.vc_col-sm-8{
+                @extend .wpb_column.vc_column_container.vc_col-sm-12;
+                width:100%;
+            }
+        }
+    }
+
+    .playlist_enabled .player {
+      display: none;
+    }
+
+    .vc_tta-container{ 
+      .iron_widget_radio .album-art {
+        margin: 0px !important;
+      }
+      .event-line-node{
+        font-size:20px;
+        line-height: 24px;
+      }
+    }
+
+    .vc_tta-tabs-container {
+      margin-bottom: 30px !important;
+    }
+
+    .iron_widget_radio {
+      margin-left: -15px;
+    }
+    .fa-th:hover {
+        cursor: pointer;
+
+    }
+
+}
+.sr_it-artist-nav {
+    @extend .sr_it-nav;
+}
+
+.sr_it-playlist-title{
+  font-size: 24px;
+  line-height: 25px;
+  text-transform: uppercase;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.sr_it-playlist-artists{
+  font-weight: bold
+}
+.sr_it-playlist-release-date, .sr_it-playlist-artists{
+  text-transform: uppercase;
+  font-style: italic;
+}

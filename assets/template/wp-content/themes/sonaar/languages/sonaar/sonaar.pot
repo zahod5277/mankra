@@ -1,0 +1,6471 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Sonaar\n"
+"POT-Creation-Date: 2018-02-13 13:40-0500\n"
+"PO-Revision-Date: 2018-01-25 11:22-0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:13
+msgid "Page not found"
+msgstr ""
+
+#: 404.php:19
+msgid "Are you lost? The content you were looking for is not here."
+msgstr ""
+
+#: 404.php:22
+msgid "Return to home page"
+msgstr ""
+
+#: archive-ajax.php:7 includes/classes/iron_sonaar_archive.class.php:318
+msgid "Nothing Found!"
+msgstr ""
+
+#: archive-ajax.php:8 includes/classes/iron_sonaar_archive.class.php:319
+msgid "Search keyword"
+msgstr ""
+
+#: archive-ajax.php:9 includes/classes/iron_sonaar_archive.class.php:320
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: archive-ajax.php:12
+msgid "More"
+msgstr ""
+
+#: comments.php:10
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:24
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:25
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:26
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:31
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:43
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:44
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: comments.php:45
+msgid "Cancel Reply"
+msgstr ""
+
+#: comments.php:46
+msgid "Post Comment"
+msgstr ""
+
+#: comments.php:48
+msgid "Comment"
+msgstr ""
+
+#: comments.php:55
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_groups.php:419
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/file.php:109
+msgid "Name"
+msgstr ""
+
+#: comments.php:60
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/email.php:19
+msgid "Email"
+msgstr ""
+
+#: footer.php:34 includes/classes/iron_sonaar_setup.class.php:400
+msgctxt "Theme Options"
+msgid "Default Footer"
+msgstr ""
+
+#: footer.php:35 includes/classes/iron_sonaar_setup.class.php:401
+#: includes/sonaar-music/admin/options.php:1567
+msgctxt "Theme Options"
+msgid "Site footer widget area."
+msgstr ""
+
+#: framework-customizations/theme/hooks.php:61
+#, php-format
+msgid ""
+"To import a demo,  %s. If you have previously imported a demo, you can "
+"deactivate the plugin \"Iron Demo Importer\" to dismiss this notice."
+msgstr ""
+
+#: includes/classes/iron_sonaar_archive.class.php:153
+#: includes/classes/iron_sonaar_archive.class.php:155
+msgid "Previous Posts"
+msgstr ""
+
+#: includes/classes/iron_sonaar_archive.class.php:154
+msgid "Next Posts"
+msgstr ""
+
+#: includes/classes/iron_sonaar_archive.class.php:178
+#: includes/classes/iron_sonaar_archive.class.php:179
+msgid "Previous"
+msgstr ""
+
+#: includes/classes/iron_sonaar_archive.class.php:180
+msgid "Next"
+msgstr ""
+
+#: includes/classes/iron_sonaar_archive.class.php:189
+msgid "More Events"
+msgstr ""
+
+#: includes/classes/iron_sonaar_archive.class.php:190
+msgid "Next Events"
+msgstr ""
+
+#: includes/classes/iron_sonaar_archive.class.php:191
+msgid "Previous Events"
+msgstr ""
+
+#: includes/classes/iron_sonaar_archive.class.php:199
+msgid "More Albums"
+msgstr ""
+
+#: includes/classes/iron_sonaar_archive.class.php:200
+msgid "Next Albums"
+msgstr ""
+
+#: includes/classes/iron_sonaar_archive.class.php:201
+msgid "Previous Albums"
+msgstr ""
+
+#: includes/classes/iron_sonaar_archive.class.php:208
+msgid "More Videos"
+msgstr ""
+
+#: includes/classes/iron_sonaar_archive.class.php:209
+msgid "Next Videos"
+msgstr ""
+
+#: includes/classes/iron_sonaar_archive.class.php:210
+msgid "Previous Videos"
+msgstr ""
+
+#: includes/classes/iron_sonaar_archive.class.php:217
+msgid "More Projects"
+msgstr ""
+
+#: includes/classes/iron_sonaar_archive.class.php:218
+msgid "Next Projects"
+msgstr ""
+
+#: includes/classes/iron_sonaar_archive.class.php:219
+msgid "Previous Projects"
+msgstr ""
+
+#: includes/classes/iron_sonaar_archive.class.php:281
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: includes/classes/iron_sonaar_archive.class.php:285
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: includes/classes/iron_sonaar_archive.class.php:285
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: includes/classes/iron_sonaar_archive.class.php:289
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: includes/classes/iron_sonaar_archive.class.php:289
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: includes/classes/iron_sonaar_archive.class.php:293
+msgid "Search Results"
+msgstr ""
+
+#: includes/classes/iron_sonaar_archive.class.php:313
+msgid "No events at this time"
+msgstr ""
+
+#: includes/classes/iron_sonaar_archive.class.php:314
+msgid "Check back at a later time"
+msgstr ""
+
+#: includes/classes/iron_sonaar_setup.class.php:388
+msgctxt "Theme Options"
+msgid "Default Blog Sidebar"
+msgstr ""
+
+#: includes/classes/iron_sonaar_setup.class.php:389
+#: includes/sonaar-music/admin/options.php:1561
+msgctxt "Theme Options"
+msgid "Sidebar widget area found on Blog post-related page templates."
+msgstr ""
+
+#: includes/classes/iron_sonaar_setup.class.php:394
+msgctxt "Theme Options"
+msgid "Default Video Sidebar"
+msgstr ""
+
+#: includes/classes/iron_sonaar_setup.class.php:395
+msgctxt "Theme Options"
+msgid "Sidebar widget area found on Video-related page templates."
+msgstr ""
+
+#: includes/classes/iron_sonaar_setup.class.php:424
+msgctxt "Theme Options"
+msgid "Default Languages Area"
+msgstr ""
+
+#: includes/classes/iron_sonaar_setup.class.php:425
+msgctxt "Theme Options"
+msgid "Site Languages widget area."
+msgstr ""
+
+#: includes/classes/iron_sonaar_setup.class.php:797
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: includes/classes/iron_sonaar_setup.class.php:849
+msgctxt "Josefin font: on or off"
+msgid "on"
+msgstr ""
+
+#: includes/classes/iron_sonaar_setup.class.php:850
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#: includes/classes/nav.class.php:7 parts/share.php:11
+msgid "Back"
+msgstr ""
+
+#: includes/classes/tgmpa.class.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: includes/classes/tgmpa.class.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: includes/classes/tgmpa.class.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: includes/classes/tgmpa.class.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: includes/classes/tgmpa.class.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: includes/classes/tgmpa.class.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/classes/tgmpa.class.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/classes/tgmpa.class.php:355
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/classes/tgmpa.class.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/classes/tgmpa.class.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/classes/tgmpa.class.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/classes/tgmpa.class.php:378
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/classes/tgmpa.class.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/classes/tgmpa.class.php:388
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/classes/tgmpa.class.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: includes/classes/tgmpa.class.php:393 includes/classes/tgmpa.class.php:912
+#: includes/classes/tgmpa.class.php:2618 includes/classes/tgmpa.class.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: includes/classes/tgmpa.class.php:394 includes/classes/tgmpa.class.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: includes/classes/tgmpa.class.php:395 includes/classes/tgmpa.class.php:3037
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/classes/tgmpa.class.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: includes/classes/tgmpa.class.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: includes/classes/tgmpa.class.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: includes/classes/tgmpa.class.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: includes/classes/tgmpa.class.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: includes/classes/tgmpa.class.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: includes/classes/tgmpa.class.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: includes/classes/tgmpa.class.php:608
+msgid "Update Required"
+msgstr ""
+
+#: includes/classes/tgmpa.class.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: includes/classes/tgmpa.class.php:1019 includes/classes/tgmpa.class.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: includes/classes/tgmpa.class.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: includes/classes/tgmpa.class.php:1206 includes/classes/tgmpa.class.php:3033
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: includes/classes/tgmpa.class.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: includes/classes/tgmpa.class.php:2358
+msgid "Required"
+msgstr ""
+
+#: includes/classes/tgmpa.class.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: includes/classes/tgmpa.class.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: includes/classes/tgmpa.class.php:2380
+msgid "External Source"
+msgstr ""
+
+#: includes/classes/tgmpa.class.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: includes/classes/tgmpa.class.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: includes/classes/tgmpa.class.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: includes/classes/tgmpa.class.php:2406
+msgid "Active"
+msgstr ""
+
+#: includes/classes/tgmpa.class.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: includes/classes/tgmpa.class.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: includes/classes/tgmpa.class.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#: includes/classes/tgmpa.class.php:2427
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: includes/classes/tgmpa.class.php:2473
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/classes/tgmpa.class.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/classes/tgmpa.class.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/classes/tgmpa.class.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/classes/tgmpa.class.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: includes/classes/tgmpa.class.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: includes/classes/tgmpa.class.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: includes/classes/tgmpa.class.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: includes/classes/tgmpa.class.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: includes/classes/tgmpa.class.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: includes/classes/tgmpa.class.php:2633
+msgid "Source"
+msgstr ""
+
+#: includes/classes/tgmpa.class.php:2634
+msgid "Type"
+msgstr ""
+
+#: includes/classes/tgmpa.class.php:2638
+msgid "Version"
+msgstr ""
+
+#: includes/classes/tgmpa.class.php:2639
+msgid "Status"
+msgstr ""
+
+#: includes/classes/tgmpa.class.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: includes/classes/tgmpa.class.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: includes/classes/tgmpa.class.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: includes/classes/tgmpa.class.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: includes/classes/tgmpa.class.php:2802
+msgid "Install"
+msgstr ""
+
+#: includes/classes/tgmpa.class.php:2808
+#: includes/sonaar-music/includes/advanced-custom-fields/core/api.php:1171
+msgid "Update"
+msgstr ""
+
+#: includes/classes/tgmpa.class.php:2811
+msgid "Activate"
+msgstr ""
+
+#: includes/classes/tgmpa.class.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: includes/classes/tgmpa.class.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: includes/classes/tgmpa.class.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: includes/classes/tgmpa.class.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: includes/classes/tgmpa.class.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: includes/classes/tgmpa.class.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: includes/classes/tgmpa.class.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#: includes/classes/tgmpa.class.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/classes/tgmpa.class.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: includes/classes/tgmpa.class.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: includes/classes/tgmpa.class.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: includes/classes/tgmpa.class.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: includes/classes/tgmpa.class.php:3594 includes/classes/tgmpa.class.php:3602
+msgid "Show Details"
+msgstr ""
+
+#: includes/classes/tgmpa.class.php:3594 includes/classes/tgmpa.class.php:3602
+msgid "Hide Details"
+msgstr ""
+
+#: includes/classes/tgmpa.class.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: includes/classes/tgmpa.class.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/classes/tgmpa.class.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: includes/classes/tgmpa.class.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: includes/classes/tgmpa.class.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#: includes/classes/tgmpa.class.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:99
+msgid ""
+"<p>Brought to you by <a target=\"_blank\" href=\"https://sonaar.io\">Sonaar."
+"io</a></p>"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:105
+msgid "Follow us on Twitter"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:134
+msgid "Sonaar Settings"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:138
+msgid "Sonaar Theme Options"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:210
+msgid "Dashboard"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:225
+#: includes/sonaar-music/includes/options.php:26
+msgid "General Settings"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:226
+msgid "These are some general settings that you can edit."
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:231
+msgid "Enable Continious Audio Player and AJAX"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:232
+msgid ""
+"This option enable the continuous audio player. When a user navigate through "
+"your site, the audio player will continue to play without stoping the music. "
+"It also make your theme ajaxified which mean your pages will load faster."
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:232
+msgid "* VERY IMPORTANT:"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:232
+msgid ""
+"Ajax loading is an advanced feature. Third party plugins that use Javascript "
+"might stop to work or make your site not works."
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:232
+msgid "If you have issues with your site, please turn off this feature."
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:239
+msgid "Enable Sonaar Vault"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:240
+msgid "If ON will enable Sonaar Visual Composer pre-builded templates"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:247
+#: includes/sonaar-music/includes/options.php:367
+msgid "Move Dynamic/Custom CSS Into External Stylesheet?"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:248
+msgid ""
+"This gives you the option move all the dynamic css that lives in the head by "
+"default into its own file for aesthetic & caching purposes. If you use this "
+"feature, you might have to clear your browser cache after any change you "
+"make in the theme options"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:256
+msgid "Theme name body class"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:265
+msgid "Look and feel"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:266
+msgid "These are some look & feel options that you can edit."
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:272
+msgid "Color 1"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:273
+msgid ""
+"Hyperlinks & Buttons color (eg: Buy Tracks, Buy Tickets, Back buttons, Share "
+"icons) + Hover color of the news list"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:290
+msgid "Color 2"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:291
+msgid ""
+"Background color of the news list & grid + Background color of the category "
+"labels + Store buttons (eg: iTunes) in the discography page"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:298
+msgid "Color 3"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:299
+msgid ""
+"Hover color of the Call-to-action buttons in Audio Player (eg: iTunes) & "
+"Event page (eg: Buy Tickets)"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:306
+msgid "Text Color 1"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:307
+msgid "Text color of the Call-To-Action buttons"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:314
+msgid "Text Color 2"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:315
+msgid ""
+"Text color of the categories and meta-tags of the posts + Event details "
+"(Date, Time, Venue)"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:323
+msgid "Content Background"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:324
+msgid ""
+"If you are using the \"Push-menu\", this is your page background. If you are "
+"using the \"Classic Menu\", use the \"Main Background\" below instead."
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:335
+msgid "Main Background"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:336
+msgid ""
+"This is your main background. *Important: If you do not see it on your site, "
+"make sure that the \"Content Background\" above is set to \"rgba(255, 255, "
+"255, 0). This is also the background you will see when you use the 3D Push "
+"Menu\"."
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:348
+msgid "Page Title Divider Image"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:349
+#: includes/sonaar-music/admin/options.php:380
+msgid "Upload a .jpg or .png image"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:356
+msgid "Page Title Divider Color"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:363
+msgid "Page Title Divider Margin Top"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:364
+#: includes/sonaar-music/admin/options.php:371
+#: includes/sonaar-music/admin/options.php:395
+#: includes/sonaar-music/admin/options.php:402
+msgid ""
+"Eg: 30. The value is in pixels. Do not add \"px\" after the value. Leave "
+"blank for theme default"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:370
+msgid "Page Title Divider Margin Bottom"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:379
+msgid "Widget Title Divider Image"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:387
+msgid "Widget Title Divider Color"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:394
+msgid "Widget Title Divider Margin Top"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:401
+msgid "Widget Title Divider Margin Bottom"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:411
+#: includes/sonaar-music/includes/options.php:52
+#: includes/sonaar-music/includes/options.php:105
+#: includes/sonaar-music/includes/options.php:271
+msgid "Typography"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:412
+msgid ""
+"These are some typography options that you can edit. These options will "
+"override the selected preset."
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:418
+msgid "Body Typography"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:419
+#: includes/sonaar-music/admin/options.php:427
+#: includes/sonaar-music/admin/options.php:444
+#: includes/sonaar-music/admin/options.php:462
+#: includes/sonaar-music/admin/options.php:480
+#: includes/sonaar-music/admin/options.php:494
+#: includes/sonaar-music/admin/options.php:508
+#: includes/sonaar-music/admin/options.php:522
+#: includes/sonaar-music/admin/options.php:544
+#: includes/sonaar-music/admin/options.php:558
+#: includes/sonaar-music/admin/options.php:748
+#: includes/sonaar-music/admin/options.php:1030
+#: includes/sonaar-music/admin/options.php:1098
+#: includes/sonaar-music/admin/options.php:1242
+#: includes/sonaar-music/includes/options.php:53
+#: includes/sonaar-music/includes/options.php:106
+#: includes/sonaar-music/includes/options.php:168
+#: includes/sonaar-music/includes/options.php:218
+msgid "Choose a font, font size and color"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:426
+msgid "Heading 1 Typography"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:436
+msgid "Heading 1 Letter Spacing"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:437
+msgid "Heading 1 Letter Spacing (px)"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:443
+msgid "Heading 2 Typography"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:454
+msgid "Heading 2 Letter Spacing"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:455
+msgid "Heading 2 Letter Spacing (px)"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:461
+msgid "Heading 3 Typography"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:472
+msgid "Heading 3 Letter Spacing"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:473
+msgid "Heading 3 Letter Spacing (px)"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:479
+msgid "Heading 4 Typography"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:486
+msgid "Heading 4 Letter Spacing"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:487
+msgid "Heading 4 Letter Spacing (px)"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:493
+msgid "Heading 5 Typography"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:500
+msgid "Heading 5 Letter Spacing"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:501
+msgid "Heading 5 Letter Spacing (px)"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:507
+msgid "Heading 6 Typography"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:514
+msgid "Heading 6 Letter Spacing"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:515
+msgid "Heading 6 Letter Spacing (px)"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:521
+msgid "Archive Post Titles"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:528
+msgid "Archive Post Titles Letter Spacing"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:529
+#: includes/sonaar-music/admin/options.php:551
+#: includes/sonaar-music/admin/options.php:565
+msgid "Letter Spacing (px)"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:535
+msgid "News title color on hover"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:537
+msgid ""
+"* This only apply on the page template: Blog Posts (list). Screenshot: "
+"http://d.pr/i/1gWvq "
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:543
+msgid "Widget Call To Action Button Typography"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:550
+msgid "Widget Call To Action Button Letter Spacing"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:557
+msgid "Button Widget Typography"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:564
+msgid "Button Widget Letter Spacing"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:574
+msgid "Logos"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:575
+msgid "These are some header options that you can edit."
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:580
+msgid "Use Logo"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:581
+msgid "Show logo and Site Title"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:588
+msgid "Logo Dark Version"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:595
+msgid "Retina Logo Dark Version"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:596
+msgid ""
+"Upload your dark logo version for retina devices. Retina logo is basically "
+"the same logo above but should be 2X larger."
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:603
+msgid "Logo Light Version"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:604
+msgid "Light version of your logo."
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:610
+msgid "Retina Logo Light Version"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:611
+msgid ""
+"Upload your light logo version for retina devices. Retina logo is basically "
+"the same logo above but should be 2X larger."
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:617
+msgid "Mobile Logo Version"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:618
+msgid ""
+"Upload your mobile logo version. If no mobile logo is selectioned the "
+"standard logo will be scalled down to fit the mobile header area."
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:625
+msgid "Which logo do you want to use accross your site ?"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:627
+msgid "Dark"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:628
+msgid "Light"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:635
+msgid "Use Light Logo Version when Responsive ?"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:636
+msgid "The light logo version will be used on tablet and mobile."
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:644
+msgid "Logo Height"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:645
+msgid "Put the desire height of your logo ex: 50px."
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:654
+msgid "Menu Options"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:655
+msgid "Choose between a classic or push menu."
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:660
+msgid "Menu Type"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:662
+msgid "Push Menu"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:663
+msgid "Classic Menu"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:671
+msgid "Menu Effect on Push"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:673
+msgid "Slide"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:674
+msgid "Overlay"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:675
+msgid "3D Perspective"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:685
+msgid "Fix menu at the top of the screen"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:686
+msgid "This will make the menu fixed on page scroll"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:694
+#: includes/sonaar-music/admin/options.php:811
+msgid "Menu Position"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:696
+#: includes/sonaar-music/admin/options.php:800
+#: includes/sonaar-music/admin/options.php:854
+#: includes/sonaar-music/admin/options.php:1428
+#: includes/sonaar-music/admin/options.php:1444
+#: includes/sonaar-music/admin/options.php:1460
+#: includes/sonaar-music/admin/options.php:1476
+#: includes/sonaar-music/includes/vc-extend/sonaar-responsive-alignment-param.php:57
+msgid "Left"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:697
+#: includes/sonaar-music/admin/options.php:801
+#: includes/sonaar-music/admin/options.php:855
+#: includes/sonaar-music/admin/options.php:1429
+#: includes/sonaar-music/admin/options.php:1445
+#: includes/sonaar-music/admin/options.php:1461
+#: includes/sonaar-music/admin/options.php:1477
+#: includes/sonaar-music/includes/vc-extend/sonaar-responsive-alignment-param.php:58
+msgid "Right"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:705
+msgid "Logo"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:706
+msgid "Upload your menu logo"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:713
+msgid "Retina Logo"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:714
+msgid "Upload your retina logo (should be 2x larger than your standard logo)"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:721
+#: includes/sonaar-music/admin/options/fields/typography/field_typography.php:239
+#: includes/sonaar-music/includes/options.php:321
+msgid "Background"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:722
+msgid "Menu background options / Upload a custom background image"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:733
+msgid "Menu Open Icon Color"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:740
+msgid "Menu Close Icon Color"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:747
+msgid "Menu Typography"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:755
+msgid "Item Margin (px)"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:756
+msgid "Set a menu item margin"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:763
+msgid "Display Main Menu Icon"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:765
+msgid "Show"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:766
+msgid "Show on mobile only"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:767
+msgid "Hide"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:779
+msgid "General Options"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:786
+msgid "Menu Width"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:788
+#: includes/sonaar-music/admin/options.php:1378
+msgid "Full Width"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:789
+msgid "In Container"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:798
+msgid "Items Alignment"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:802
+#: includes/sonaar-music/admin/options.php:856
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/google-map.php:162
+#: includes/sonaar-music/includes/vc-extend/sonaar-responsive-alignment-param.php:59
+msgid "Center"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:813
+msgid "Not Fixed"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:814
+msgid "Fixed"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:823
+msgid "Menu Effect On Scroll"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:825
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:95
+msgid "Default"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:826
+msgid "Mini"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:827
+msgid "Mini + Full Width"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:835
+msgid "Header Logo On Mini"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:836
+msgid ""
+"This will override the main logo by this logo when you will start scrolling "
+"your website. Menu Effect On Scroll above shall be set to Mini."
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:845
+msgid "Logo Options"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:852
+msgid "Logo Alignment"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:857
+msgid "Center & Above items"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:866
+msgid "Logo Padding Left (px)"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:873
+msgid "Logo Padding Right (px)"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:880
+msgid "Logo Padding Top (px)"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:887
+msgid "Logo Padding Bottom (px)"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:895
+msgid "Menu Container"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:902
+msgid "Menu Background Color"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:903
+msgid ""
+"If you would like to display the menu above or over your page content, go to "
+"your page > page settings > Show Classic Menu & Header Over Content."
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:910
+msgid ""
+"Menu Background Color When \"Menu Effect On Scroll > MINI is activated\""
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:917
+msgid "Menu Inner/boxed Background Color"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:925
+msgid "Top Margin (px)"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:932
+msgid "Bottom Margin (px)"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:939
+msgid "Horizontal Margin (px)"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:946
+msgid "Horizontal Padding (px)"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:953
+msgid "Vertical Padding (px)"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:962
+msgid "Mobile Settings"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:969
+msgid "Mobile Menu Background Color"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:976
+msgid "Mobile Menu Icon Color"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:983
+msgid "Mobile Menu Icon Hover Color"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:993
+msgid "Items"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1000
+msgid "Item Horizontal Margin (px)"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1007
+msgid "Item Vertical Margin (px)"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1015
+msgid "Item Horizontal Padding (px)"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1022
+msgid "Item Vertical Padding (px)"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1029
+msgid "Main Item Typography"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1039
+msgid "Item Letter Spacing (px)"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1046
+msgid "Main Item Hover Background Color"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1053
+msgid "Main Item Hover Text Color"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1060
+msgid "Main Item Active Background Color"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1067
+msgid "Main Item Active Text Color"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1074
+msgid "Menu Item Hover Effect"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1076
+#: includes/sonaar-music/admin/options.php:1380
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/taxonomy.php:374
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/taxonomy.php:383
+msgid "None"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1077
+msgid "Underline"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1078
+msgid "Strikethrough"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1090
+msgid "Sub Items"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1097
+msgid "Sub Item Typography"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1108
+msgid "Sub Item Hover Background Color"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1115
+msgid "Sub Item Hover Text Color"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1122
+msgid "Sub Item Active Background Color"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1129
+msgid "Sub Item Active Text Color"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1140
+msgid "Hot Links"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1147
+msgid "Enable Hot Links"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1155
+msgid "Hot Links Hide on scroll"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1163
+msgctxt "Theme Options"
+msgid "Hot Links Items"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1177
+msgctxt "Theme Options"
+msgid "Hot Links"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1184
+msgctxt "Theme Options"
+msgid "Hot Link Label"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1189
+msgctxt "Theme Options"
+msgid "Hide Label & Keep Icon Only"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1195
+msgctxt "Theme Options"
+msgid "Is menu toggle"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1201
+msgctxt "Theme Options"
+msgid "Page URL"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1208
+msgctxt "Theme Options"
+msgid "Page URL (External)"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1214
+msgctxt "Theme Options"
+msgid "Page URL Target)"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1225
+msgctxt "Theme Options"
+msgid "Page URL Icon Class"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1234
+msgid "Hot Links Background"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1241
+msgid "Hot Links Typography"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1250
+msgid "Social Icons"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1256
+msgctxt "Theme Options"
+msgid "Social Icons"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1257
+msgctxt "Theme Options"
+msgid "Add / update social media icons."
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1260
+#: includes/sonaar-music/admin/options.php:1632
+msgid "Facebook"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1267
+#: includes/sonaar-music/admin/options.php:1633
+msgid "Twitter"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1276
+msgctxt "Theme Options"
+msgid "Social Media"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1283
+msgctxt "Theme Options"
+msgid "Social Media Name"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1288
+msgctxt "Theme Options"
+msgid "Social Media URL"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1294
+msgctxt "Theme Options"
+msgid "Social Media Icon Class"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1299
+msgctxt "Theme Options"
+msgid "Social Media Icon Image"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1312
+msgid "Footer Options"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1313
+msgid "These are some footer options that you can edit."
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1318
+msgid "Site Footer"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1324
+msgid "Choose which block you want to use as a footer?"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1325
+#, php-format
+msgid "Add or modify your block %s"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1334
+msgid "Back To Top Button"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1343
+msgid "Music Player Settings"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1344
+#, php-format
+msgid "The music player settings can be %s"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1351
+msgid "Events Settings"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1352
+#, php-format
+msgid "The events settings can be %s"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1359
+msgid "Posts Settings"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1360
+msgid "These are some post options that you can edit."
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1365
+msgid "Posts Archive Default Template"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1367
+msgid "1-column (list)"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1368
+msgid "2-columns (grid)"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1376
+msgid "Single Post Featured Image"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1379
+msgid "Original"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1387
+msgid "Show post date in post archive and single posts"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1394
+msgid "Show post author in post archive and single posts"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1401
+msgid "Show post categories in post archive and single posts"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1408
+msgid "Show post tags in post archive and single posts"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1415
+msgid "Single Posts SideBar"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1420
+msgid "Single Post Default Sidebar"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1426
+msgid "Single Post Sidebar Position"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1436
+msgid "Single Video Default Sidebar"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1442
+msgid "Single VIdeo Sidebar Position"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1452
+msgid "Single Event Default Sidebar"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1458
+msgid "Single Event Sidebar Position"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1468
+msgid "Single Discography Default Sidebar"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1474
+msgid "Single Discography Sidebar Position"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1484
+msgid "Single Posts Page Titles"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1489
+msgid "Single Post Page Title"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1495
+msgid "Single Event Page Title"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1501
+msgid "Single Video Page Title"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1507
+msgid "Single Shop Page Title"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1515
+msgid "Pagination Settings"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1516
+msgid ""
+"You can control settings related to the reading and navigation of posts."
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1516
+msgid ""
+"Enter the number of posts per page for each content type to be displayed "
+"within archive page templates."
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1516
+msgid ""
+"You can control the number of posts for the Posts content type on the <a "
+"href=\"options-reading.php\">Reading Settings</a> page."
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1522
+msgid "Videos listings show at most"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1528
+msgid "Pagination Style"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1529
+msgid ""
+"Choose how to provide \"paged\" navigation of posts, categories, and archive "
+"pages."
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1529
+msgid ""
+"You can set how many posts to list on each page on the <a href=\"options-"
+"reading.php\">Reading Settings</a> page."
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1531
+msgid "Displays links for next and previous pages"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1531
+#: includes/sonaar-music/admin/options.php:1532
+#, php-format
+msgctxt "Abbreviation of Latin exemplī grātiā (“for example”)."
+msgid "e.g. : %s"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1531
+msgid "« Previous Page — Next Page »"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1532
+msgid "Displays a row of paginated links"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1532
+msgid "« Prev 1 … 3 4 5 6 7 … 9 Next »"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1550
+msgctxt "Theme Options"
+msgid "Widgets Areas"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1551
+msgctxt "Theme Options"
+msgid ""
+"Manage your WordPress Widget Areas and additional settings related to page "
+"templates and widgets."
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1556
+msgctxt "Theme Options"
+msgid "Widget Areas"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1557
+msgctxt "Theme Options"
+msgid "Manage dynamic sidebars for your widgets."
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1573
+msgctxt "Theme Options"
+msgid "Single Post widget area."
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1580
+msgctxt "Theme Options"
+msgid "Widget Area"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1587
+msgctxt "Theme Options"
+msgid "Sidebar name"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1592
+msgctxt "Theme Options"
+msgid "Sidebar description (optional)"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1605
+msgid "Social Media"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1606
+msgid "Here are some social settings that you can edit."
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1611
+msgid "Share buttons"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1616
+msgid "Enable share icons"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1617
+msgid ""
+"Share buttons will be shown on the single-post, single-event, single-album "
+"and single-video page only."
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1620
+msgid "Off"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1621
+msgid "On"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1629
+msgid "Custom Social Buttons"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1630
+msgid "Add your favorite drop-in bookmarking and social link-sharing"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1634
+msgid "Google+"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1635
+msgid "LinkedIn"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1636
+msgid "Pinterest"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1654
+msgid "Custom CSS / JS"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1655
+msgid "All the custom CSS goes here"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1660
+msgid "Custom CSS"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1667
+msgid "Custom Javascript"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1668
+msgid ""
+"This is for advanced users.<br>The code will be executed within "
+"jQuery(document).ready($);"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1682
+msgid "WooCommerce"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1683
+msgid "Here are some WooCommerce settings that you can edit."
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1688
+msgid "Enable WooCommerce Backgrounds"
+msgstr ""
+
+#: includes/sonaar-music/admin/options.php:1689
+msgid ""
+"This will add a background to product items and descriptions.<br><b>Primary "
+"Color 2</b> will be used for the background."
+msgstr ""
+
+#: includes/sonaar-music/admin/options/defaults.php:45
+#: includes/sonaar-music/admin/options/defaults.php:47
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_group.php:399
+msgid "Options"
+msgstr ""
+
+#: includes/sonaar-music/admin/options/defaults.php:58
+#, php-format
+msgid ""
+"<span id=\"footer-thankyou\">Options panel created using <a href=\"%s\" "
+"target=\"_blank\">Redux Framework</a> v%s</span>"
+msgstr ""
+
+#: includes/sonaar-music/admin/options/defaults.php:233
+#: includes/sonaar-music/admin/options/defaults.php:234
+#: includes/sonaar-music/admin/options/defaults.php:669
+#: includes/sonaar-music/includes/options.php:361
+msgid "Import / Export"
+msgstr ""
+
+#: includes/sonaar-music/admin/options/defaults.php:253
+#: includes/sonaar-music/admin/options/defaults.php:254
+#: includes/sonaar-music/admin/options/defaults.php:700
+#: includes/sonaar-music/admin/options/defaults.php:780
+msgid "Dev Mode Info"
+msgstr ""
+
+#: includes/sonaar-music/admin/options/defaults.php:345
+msgid "Are you sure? You will lose all custom values."
+msgstr ""
+
+#: includes/sonaar-music/admin/options/defaults.php:621
+#: includes/sonaar-music/admin/options/defaults.php:805
+msgid "Reset to Defaults"
+msgstr ""
+
+#: includes/sonaar-music/admin/options/defaults.php:627
+msgid "Settings Imported!"
+msgstr ""
+
+#: includes/sonaar-music/admin/options/defaults.php:629
+msgid "Settings Saved!"
+msgstr ""
+
+#: includes/sonaar-music/admin/options/defaults.php:634
+msgid "Settings have changed, you should save them!"
+msgstr ""
+
+#: includes/sonaar-music/admin/options/defaults.php:635
+msgid "error(s) were found!"
+msgstr ""
+
+#: includes/sonaar-music/admin/options/defaults.php:636
+msgid "warning(s) were found!"
+msgstr ""
+
+#: includes/sonaar-music/admin/options/defaults.php:718
+msgid "Import / Export Theme Options"
+msgstr ""
+
+#: includes/sonaar-music/admin/options/defaults.php:719
+msgid ""
+"This will not import or export the content of your website but rather the "
+"settings of all the tabs above such as the look and feel, custom css, menu "
+"options, etc..."
+msgstr ""
+
+#: includes/sonaar-music/admin/options/defaults.php:720
+msgid "Import Options"
+msgstr ""
+
+#: includes/sonaar-music/admin/options/defaults.php:721
+msgid "Import from file"
+msgstr ""
+
+#: includes/sonaar-music/admin/options/defaults.php:721
+msgid "Import from URL"
+msgstr ""
+
+#: includes/sonaar-music/admin/options/defaults.php:726
+msgid ""
+"Input your backup file below and hit Import to restore your sites options "
+"from a backup."
+msgstr ""
+
+#: includes/sonaar-music/admin/options/defaults.php:736
+msgid ""
+"Input the URL to another sites options set and hit Import to load the "
+"options from that site."
+msgstr ""
+
+#: includes/sonaar-music/admin/options/defaults.php:743
+msgid "Import"
+msgstr ""
+
+#: includes/sonaar-music/admin/options/defaults.php:743
+msgid ""
+"WARNING! This will overwrite any existing options, please proceed with "
+"caution!"
+msgstr ""
+
+#: includes/sonaar-music/admin/options/defaults.php:746
+msgid "Export Options"
+msgstr ""
+
+#: includes/sonaar-music/admin/options/defaults.php:748
+msgid ""
+"Here you can copy/download your current option settings. Keep this safe as "
+"you can use it as a backup should anything go wrong, or you can use it to "
+"restore your settings on this site (or any other site)."
+msgstr ""
+
+#: includes/sonaar-music/admin/options/defaults.php:757
+msgid "Copy"
+msgstr ""
+
+#: includes/sonaar-music/admin/options/defaults.php:757
+msgid "Copy Link"
+msgstr ""
+
+#: includes/sonaar-music/admin/options/fields/background/field_background.php:45
+#: includes/sonaar-music/admin/options/fields/upload/field_upload.php:30
+msgid "Upload"
+msgstr ""
+
+#: includes/sonaar-music/admin/options/fields/background/field_background.php:46
+#: includes/sonaar-music/admin/options/fields/upload/field_upload.php:31
+msgid "Remove Upload"
+msgstr ""
+
+#: includes/sonaar-music/admin/options/fields/background/field_background.php:50
+msgid "Upload Background Image"
+msgstr ""
+
+#: includes/sonaar-music/admin/options/fields/background/field_background.php:67
+msgid "Background Repeat"
+msgstr ""
+
+#: includes/sonaar-music/admin/options/fields/background/field_background.php:97
+msgid "Background Size"
+msgstr ""
+
+#: includes/sonaar-music/admin/options/fields/background/field_background.php:125
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:93
+msgid "Background Position"
+msgstr ""
+
+#: includes/sonaar-music/admin/options/fields/background/field_background.php:161
+msgid "Background Attachment"
+msgstr ""
+
+#: includes/sonaar-music/admin/options/fields/background/field_background.php:188
+#: includes/sonaar-music/includes/options.php:126
+#: includes/sonaar-music/includes/options.php:188
+msgid "Background Color"
+msgstr ""
+
+#: includes/sonaar-music/admin/options/fields/color_gradient/field_color_gradient.php:28
+#: includes/sonaar-music/admin/options/fields/color_gradient/field_color_gradient.php:33
+msgid "From:"
+msgstr ""
+
+#: includes/sonaar-music/admin/options/fields/color_gradient/field_color_gradient.php:29
+msgid "To:"
+msgstr ""
+
+#: includes/sonaar-music/admin/options/fields/color_gradient/field_color_gradient.php:35
+msgid " To:"
+msgstr ""
+
+#: includes/sonaar-music/admin/options/fields/fontawesome/field_fontawesome.php:29
+msgid ""
+"The icons provided below are free to use custom icons from the <a href="
+"\"http://fontawesome.io/\" target=\"_blank\">Font Awesome icons</a>"
+msgstr ""
+
+#: includes/sonaar-music/admin/options/fields/google_webfonts/field_google_webfonts.php:25
+msgid ""
+"The fonts provided below are free to use custom fonts from the <a href="
+"\"http://www.google.com/webfonts\" target=\"_blank\">Google Web Fonts "
+"directory</a>"
+msgstr ""
+
+#: includes/sonaar-music/admin/options/fields/group/field_group.php:63
+msgid "New"
+msgstr ""
+
+#: includes/sonaar-music/admin/options/fields/group/field_group.php:116
+#: includes/sonaar-music/includes/acf-addons/acf-repeater/views/options.php:85
+#: includes/sonaar-music/includes/advanced-custom-fields/core/views/meta_box_fields.php:110
+msgid "Delete"
+msgstr ""
+
+#: includes/sonaar-music/admin/options/fields/group/field_group.php:124
+msgid "Add"
+msgstr ""
+
+#: includes/sonaar-music/admin/options/fields/menu_location_select/field_menu_location_select.php:20
+#: includes/sonaar-music/admin/options/fields/pages_select/field_pages_select.php:19
+msgid "— Select —"
+msgstr ""
+
+#: includes/sonaar-music/admin/options/fields/multi_text/field_multi_text.php:31
+#: includes/sonaar-music/admin/options/fields/multi_text/field_multi_text.php:35
+#: includes/sonaar-music/admin/options/fields/multi_text/field_multi_text.php:38
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/image.php:90
+msgid "Remove"
+msgstr ""
+
+#: includes/sonaar-music/admin/options/fields/multi_text/field_multi_text.php:40
+msgid "Add More"
+msgstr ""
+
+#: includes/sonaar-music/admin/options/fields/typography/field_typography.php:79
+msgid "Text Align"
+msgstr ""
+
+#: includes/sonaar-music/admin/options/fields/typography/field_typography.php:103
+msgid "Font Size"
+msgstr ""
+
+#: includes/sonaar-music/admin/options/fields/typography/field_typography.php:126
+msgid "Transform"
+msgstr ""
+
+#: includes/sonaar-music/admin/options/fields/typography/field_typography.php:152
+msgid "Line Height"
+msgstr ""
+
+#: includes/sonaar-music/admin/options/fields/typography/field_typography.php:174
+msgid "Font Weight"
+msgstr ""
+
+#: includes/sonaar-music/admin/options/fields/typography/field_typography.php:218
+msgid "Font Color"
+msgstr ""
+
+#: includes/sonaar-music/admin/options/fields/widget_area_select/field_widget_area_select.php:21
+msgid "- None -"
+msgstr ""
+
+#: includes/sonaar-music/admin/options/validation/color/validation_color.php:13
+msgid "This field must be a valid color value."
+msgstr ""
+
+#: includes/sonaar-music/admin/options/validation/comma_numeric/validation_comma_numeric.php:13
+msgid ""
+"You must provide a comma seperated list of numerical values for this option."
+msgstr ""
+
+#: includes/sonaar-music/admin/options/validation/date/validation_date.php:13
+msgid "This field must be a valid date."
+msgstr ""
+
+#: includes/sonaar-music/admin/options/validation/email/validation_email.php:13
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: includes/sonaar-music/admin/options/validation/no_html/validation_no_html.php:13
+msgid ""
+"You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#: includes/sonaar-music/admin/options/validation/no_special_chars/validation_no_special_chars.php:13
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+
+#: includes/sonaar-music/admin/options/validation/numeric/validation_numeric.php:13
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: includes/sonaar-music/admin/options/validation/url/validation_url.php:13
+msgid "You must provide a valid URL for this option."
+msgstr ""
+
+#: includes/sonaar-music/includes/acf-addons/acf-repeater/repeater.php:22
+msgid "Repeater"
+msgstr ""
+
+#: includes/sonaar-music/includes/acf-addons/acf-repeater/repeater.php:23
+#: includes/sonaar-music/includes/acf-addons/acf-repeater/views/options.php:30
+#: includes/sonaar-music/includes/acf-addons/acf-repeater/views/options.php:356
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/checkbox.php:183
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/message.php:20
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/radio.php:212
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/tab.php:20
+msgid "Layout"
+msgstr ""
+
+#: includes/sonaar-music/includes/acf-addons/acf-repeater/repeater.php:29
+msgid "Add Row"
+msgstr ""
+
+#: includes/sonaar-music/includes/acf-addons/acf-repeater/repeater.php:32
+msgid "Minimum rows reached ( {min} rows )"
+msgstr ""
+
+#: includes/sonaar-music/includes/acf-addons/acf-repeater/repeater.php:33
+msgid "Maximum rows reached ( {max} rows )"
+msgstr ""
+
+#: includes/sonaar-music/includes/acf-addons/acf-repeater/views/options.php:22
+#: includes/sonaar-music/includes/advanced-custom-fields/core/views/meta_box_fields.php:24
+msgid "New Field"
+msgstr ""
+
+#: includes/sonaar-music/includes/acf-addons/acf-repeater/views/options.php:23
+msgid "new_field"
+msgstr ""
+
+#: includes/sonaar-music/includes/acf-addons/acf-repeater/views/options.php:44
+msgid "Repeater Fields"
+msgstr ""
+
+#: includes/sonaar-music/includes/acf-addons/acf-repeater/views/options.php:52
+#: includes/sonaar-music/includes/advanced-custom-fields/core/views/meta_box_fields.php:74
+msgid "Field Order"
+msgstr ""
+
+#: includes/sonaar-music/includes/acf-addons/acf-repeater/views/options.php:53
+#: includes/sonaar-music/includes/acf-addons/acf-repeater/views/options.php:101
+#: includes/sonaar-music/includes/advanced-custom-fields/core/views/meta_box_fields.php:75
+#: includes/sonaar-music/includes/advanced-custom-fields/core/views/meta_box_fields.php:126
+msgid "Field Label"
+msgstr ""
+
+#: includes/sonaar-music/includes/acf-addons/acf-repeater/views/options.php:54
+#: includes/sonaar-music/includes/acf-addons/acf-repeater/views/options.php:117
+#: includes/sonaar-music/includes/advanced-custom-fields/core/views/meta_box_fields.php:76
+#: includes/sonaar-music/includes/advanced-custom-fields/core/views/meta_box_fields.php:142
+msgid "Field Name"
+msgstr ""
+
+#: includes/sonaar-music/includes/acf-addons/acf-repeater/views/options.php:55
+#: includes/sonaar-music/includes/acf-addons/acf-repeater/views/options.php:132
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/taxonomy.php:464
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/user.php:298
+#: includes/sonaar-music/includes/advanced-custom-fields/core/views/meta_box_fields.php:77
+#: includes/sonaar-music/includes/advanced-custom-fields/core/views/meta_box_fields.php:158
+msgid "Field Type"
+msgstr ""
+
+#: includes/sonaar-music/includes/acf-addons/acf-repeater/views/options.php:63
+msgid ""
+"No fields. Click the \"+ Add Sub Field button\" to create your first field."
+msgstr ""
+
+#: includes/sonaar-music/includes/acf-addons/acf-repeater/views/options.php:79
+#: includes/sonaar-music/includes/acf-addons/acf-repeater/views/options.php:82
+#: includes/sonaar-music/includes/advanced-custom-fields/core/views/meta_box_fields.php:105
+#: includes/sonaar-music/includes/advanced-custom-fields/core/views/meta_box_fields.php:108
+msgid "Edit this Field"
+msgstr ""
+
+#: includes/sonaar-music/includes/acf-addons/acf-repeater/views/options.php:82
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/image.php:91
+#: includes/sonaar-music/includes/advanced-custom-fields/core/views/meta_box_fields.php:108
+msgid "Edit"
+msgstr ""
+
+#: includes/sonaar-music/includes/acf-addons/acf-repeater/views/options.php:83
+msgid "Read documentation for this field"
+msgstr ""
+
+#: includes/sonaar-music/includes/acf-addons/acf-repeater/views/options.php:83
+msgid "Docs"
+msgstr ""
+
+#: includes/sonaar-music/includes/acf-addons/acf-repeater/views/options.php:84
+#: includes/sonaar-music/includes/advanced-custom-fields/core/views/meta_box_fields.php:109
+msgid "Duplicate this Field"
+msgstr ""
+
+#: includes/sonaar-music/includes/acf-addons/acf-repeater/views/options.php:84
+#: includes/sonaar-music/includes/advanced-custom-fields/core/views/meta_box_fields.php:109
+msgid "Duplicate"
+msgstr ""
+
+#: includes/sonaar-music/includes/acf-addons/acf-repeater/views/options.php:85
+#: includes/sonaar-music/includes/advanced-custom-fields/core/views/meta_box_fields.php:110
+msgid "Delete this Field"
+msgstr ""
+
+#: includes/sonaar-music/includes/acf-addons/acf-repeater/views/options.php:102
+msgid "This is the name which will appear on the edit page"
+msgstr ""
+
+#: includes/sonaar-music/includes/acf-addons/acf-repeater/views/options.php:118
+#: includes/sonaar-music/includes/advanced-custom-fields/core/views/meta_box_fields.php:143
+msgid "Single word, no spaces. Underscores and dashes allowed"
+msgstr ""
+
+#: includes/sonaar-music/includes/acf-addons/acf-repeater/views/options.php:147
+#: includes/sonaar-music/includes/advanced-custom-fields/core/views/meta_box_fields.php:172
+msgid "Field Instructions"
+msgstr ""
+
+#: includes/sonaar-music/includes/acf-addons/acf-repeater/views/options.php:166
+#: includes/sonaar-music/includes/advanced-custom-fields/core/views/meta_box_fields.php:186
+msgid "Required?"
+msgstr ""
+
+#: includes/sonaar-music/includes/acf-addons/acf-repeater/views/options.php:174
+#: includes/sonaar-music/includes/acf-addons/acf-repeater/views/options.php:219
+#: includes/sonaar-music/includes/acf-addons/acf-widget-area/widget-area-v4.php:74
+#: includes/sonaar-music/includes/acf-addons/acf-widget-area/widget-area-v5.php:68
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_group.php:463
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/page_link.php:137
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/page_link.php:158
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/post_object.php:339
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/post_object.php:360
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/select.php:223
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/select.php:242
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/taxonomy.php:498
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/user.php:331
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/wysiwyg.php:344
+#: includes/sonaar-music/includes/advanced-custom-fields/core/views/meta_box_fields.php:194
+#: includes/sonaar-music/includes/advanced-custom-fields/core/views/meta_box_fields.php:217
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:12
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:29
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:58
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:362
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:379
+msgid "Yes"
+msgstr ""
+
+#: includes/sonaar-music/includes/acf-addons/acf-repeater/views/options.php:175
+#: includes/sonaar-music/includes/acf-addons/acf-repeater/views/options.php:220
+#: includes/sonaar-music/includes/acf-addons/acf-widget-area/widget-area-v4.php:75
+#: includes/sonaar-music/includes/acf-addons/acf-widget-area/widget-area-v5.php:69
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_group.php:462
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/page_link.php:138
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/page_link.php:159
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/post_object.php:340
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/post_object.php:361
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/select.php:224
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/select.php:243
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/taxonomy.php:499
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/user.php:332
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/wysiwyg.php:345
+#: includes/sonaar-music/includes/advanced-custom-fields/core/views/meta_box_fields.php:195
+#: includes/sonaar-music/includes/advanced-custom-fields/core/views/meta_box_fields.php:218
+msgid "No"
+msgstr ""
+
+#: includes/sonaar-music/includes/acf-addons/acf-repeater/views/options.php:184
+msgid "Column Width"
+msgstr ""
+
+#: includes/sonaar-music/includes/acf-addons/acf-repeater/views/options.php:211
+#: includes/sonaar-music/includes/advanced-custom-fields/core/views/meta_box_fields.php:209
+msgid "Conditional Logic"
+msgstr ""
+
+#: includes/sonaar-music/includes/acf-addons/acf-repeater/views/options.php:262
+#: includes/sonaar-music/includes/advanced-custom-fields/core/views/meta_box_fields.php:260
+#: includes/sonaar-music/includes/advanced-custom-fields/core/views/meta_box_location.php:117
+msgid "is equal to"
+msgstr ""
+
+#: includes/sonaar-music/includes/acf-addons/acf-repeater/views/options.php:263
+#: includes/sonaar-music/includes/advanced-custom-fields/core/views/meta_box_fields.php:261
+#: includes/sonaar-music/includes/advanced-custom-fields/core/views/meta_box_location.php:118
+msgid "is not equal to"
+msgstr ""
+
+#: includes/sonaar-music/includes/acf-addons/acf-repeater/views/options.php:281
+#: includes/sonaar-music/includes/advanced-custom-fields/core/views/meta_box_fields.php:279
+msgid "Show this field when"
+msgstr ""
+
+#: includes/sonaar-music/includes/acf-addons/acf-repeater/views/options.php:287
+#: includes/sonaar-music/includes/advanced-custom-fields/core/views/meta_box_fields.php:285
+msgid "all"
+msgstr ""
+
+#: includes/sonaar-music/includes/acf-addons/acf-repeater/views/options.php:288
+#: includes/sonaar-music/includes/advanced-custom-fields/core/views/meta_box_fields.php:286
+msgid "any"
+msgstr ""
+
+#: includes/sonaar-music/includes/acf-addons/acf-repeater/views/options.php:291
+#: includes/sonaar-music/includes/advanced-custom-fields/core/views/meta_box_fields.php:289
+msgid "these rules are met"
+msgstr ""
+
+#: includes/sonaar-music/includes/acf-addons/acf-repeater/views/options.php:300
+msgid "Save Field"
+msgstr ""
+
+#: includes/sonaar-music/includes/acf-addons/acf-repeater/views/options.php:305
+#: includes/sonaar-music/includes/advanced-custom-fields/core/views/meta_box_fields.php:303
+msgid "Close Field"
+msgstr ""
+
+#: includes/sonaar-music/includes/acf-addons/acf-repeater/views/options.php:305
+msgid "Close Sub Field"
+msgstr ""
+
+#: includes/sonaar-music/includes/acf-addons/acf-repeater/views/options.php:320
+#: includes/sonaar-music/includes/advanced-custom-fields/core/views/meta_box_fields.php:316
+msgid "Drag and drop to reorder"
+msgstr ""
+
+#: includes/sonaar-music/includes/acf-addons/acf-repeater/views/options.php:321
+msgid "+ Add Sub Field"
+msgstr ""
+
+#: includes/sonaar-music/includes/acf-addons/acf-repeater/views/options.php:328
+msgid "Minimum Rows"
+msgstr ""
+
+#: includes/sonaar-music/includes/acf-addons/acf-repeater/views/options.php:342
+msgid "Maximum Rows"
+msgstr ""
+
+#: includes/sonaar-music/includes/acf-addons/acf-repeater/views/options.php:366
+msgid "Table"
+msgstr ""
+
+#: includes/sonaar-music/includes/acf-addons/acf-repeater/views/options.php:367
+msgid "Row"
+msgstr ""
+
+#: includes/sonaar-music/includes/acf-addons/acf-repeater/views/options.php:375
+msgid "Button Label"
+msgstr ""
+
+#: includes/sonaar-music/includes/acf-addons/acf-widget-area/acf-widget-area.php:90
+#, php-format
+msgid ""
+"ACF Widget Area is missing requirements and has been <a href=\"%s"
+"\">deactivated</a>. Please make sure all requirements are available."
+msgstr ""
+
+#: includes/sonaar-music/includes/acf-addons/acf-widget-area/widget-area-v4.php:27
+#: includes/sonaar-music/includes/acf-addons/acf-widget-area/widget-area-v5.php:27
+msgid "Widget Area"
+msgstr ""
+
+#: includes/sonaar-music/includes/acf-addons/acf-widget-area/widget-area-v4.php:28
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/file.php:20
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/image.php:20
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/wysiwyg.php:20
+msgid "Content"
+msgstr ""
+
+#: includes/sonaar-music/includes/acf-addons/acf-widget-area/widget-area-v4.php:65
+#: includes/sonaar-music/includes/acf-addons/acf-widget-area/widget-area-v5.php:64
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/page_link.php:127
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/post_object.php:329
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/select.php:214
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/taxonomy.php:489
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/user.php:322
+msgid "Allow Null?"
+msgstr ""
+
+#: includes/sonaar-music/includes/acf-addons/acf-widget-area/widget-area-v4.php:84
+#: includes/sonaar-music/includes/acf-addons/acf-widget-area/widget-area-v5.php:75
+msgid "Display Widget Area HTML or Return Widget Area Name"
+msgstr ""
+
+#: includes/sonaar-music/includes/acf-addons/acf-widget-area/widget-area-v4.php:93
+#: includes/sonaar-music/includes/acf-addons/acf-widget-area/widget-area-v5.php:79
+msgid "Display Widget Area HTML"
+msgstr ""
+
+#: includes/sonaar-music/includes/acf-addons/acf-widget-area/widget-area-v4.php:94
+#: includes/sonaar-music/includes/acf-addons/acf-widget-area/widget-area-v5.php:80
+msgid "Return Widget Name"
+msgstr ""
+
+#: includes/sonaar-music/includes/acf-addons/acf-widget-area/widget-area-v4.php:119
+#: includes/sonaar-music/includes/acf-addons/acf-widget-area/widget-area-v5.php:104
+msgctxt "ACF Widget Area Null Select Option"
+msgid "- Select - "
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/acf.php:509
+msgid "Field&nbsp;Groups"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/acf.php:510
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_groups.php:213
+msgid "Advanced Custom Fields"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/acf.php:511
+#: includes/sonaar-music/includes/posttypes.php:41
+#: includes/sonaar-music/includes/posttypes.php:91
+#: includes/sonaar-music/includes/posttypes.php:155
+msgid "Add New"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/acf.php:512
+msgid "Add New Field Group"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/acf.php:513
+msgid "Edit Field Group"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/acf.php:514
+msgid "New Field Group"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/acf.php:515
+msgid "View Field Group"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/acf.php:516
+msgid "Search Field Groups"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/acf.php:517
+msgid "No Field Groups found"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/acf.php:518
+msgid "No Field Groups found in Trash"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/acf.php:607
+#: includes/sonaar-music/includes/advanced-custom-fields/core/views/meta_box_options.php:99
+msgid "Custom Fields"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/acf.php:625
+#: includes/sonaar-music/includes/advanced-custom-fields/acf.php:628
+msgid "Field group updated."
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/acf.php:626
+#: includes/sonaar-music/includes/posttypes.php:227
+msgid "Custom field updated."
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/acf.php:627
+#: includes/sonaar-music/includes/posttypes.php:228
+msgid "Custom field deleted."
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/acf.php:630
+#, php-format
+msgid "Field group restored to revision from %s"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/acf.php:631
+msgid "Field group published."
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/acf.php:632
+msgid "Field group saved."
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/acf.php:633
+msgid "Field group submitted."
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/acf.php:634
+msgid "Field group scheduled for."
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/acf.php:635
+msgid "Field group draft updated."
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/acf.php:770
+msgid "Thumbnail"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/acf.php:771
+msgid "Medium"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/acf.php:772
+msgid "Large"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/acf.php:773
+msgid "Full"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/actions/export.php:26
+#: includes/sonaar-music/includes/advanced-custom-fields/core/views/meta_box_fields.php:58
+msgid "Error"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/actions/export.php:33
+msgid "No ACF groups selected"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/api.php:1172
+msgid "Post updated"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/addons.php:42
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_groups.php:306
+msgid "Add-ons"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/addons.php:130
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_groups.php:428
+msgid "Repeater Field"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/addons.php:131
+msgid "Create infinite rows of repeatable data with this versatile interface!"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/addons.php:137
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_groups.php:436
+msgid "Gallery Field"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/addons.php:138
+msgid "Create image galleries in a simple and intuitive interface!"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/addons.php:144
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_groups.php:444
+msgid "Options Page"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/addons.php:145
+msgid "Create global data to use throughout your website!"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/addons.php:151
+msgid "Flexible Content Field"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/addons.php:152
+msgid "Create unique designs with a flexible content layout manager!"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/addons.php:161
+msgid "Gravity Forms Field"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/addons.php:162
+msgid "Creates a select field populated with Gravity Forms!"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/addons.php:168
+msgid "Date & Time Picker"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/addons.php:169
+msgid "jQuery date & time picker"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/addons.php:175
+msgid "Google Map Extended"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/addons.php:176
+msgid "Find addresses and coordinates of a desired location"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/addons.php:182
+msgid "Contact Form 7 Field"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/addons.php:183
+msgid "Assign one or more contact form 7 forms to a post"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/addons.php:193
+msgid "Advanced Custom Fields Add-Ons"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/addons.php:196
+msgid ""
+"The following Add-ons are available to increase the functionality of the "
+"Advanced Custom Fields plugin."
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/addons.php:197
+msgid ""
+"Each Add-on can be installed as a separate plugin (receives updates) or "
+"included in your theme (does not receive updates)."
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/addons.php:219
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/addons.php:240
+msgid "Installed"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/addons.php:221
+msgid "Purchase & Install"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/addons.php:242
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_groups.php:421
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_groups.php:430
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_groups.php:438
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_groups.php:446
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_groups.php:454
+msgid "Download"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/export.php:50
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/export.php:159
+msgid "Export"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/export.php:216
+msgid "Export Field Groups"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/export.php:221
+msgid "Field Groups"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/export.php:222
+msgid "Select the field groups to be exported"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/export.php:239
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/export.php:252
+msgid "Export to XML"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/export.php:242
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/export.php:267
+msgid "Export to PHP"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/export.php:253
+msgid ""
+"ACF will create a .xml export file which is compatible with the native WP "
+"import plugin."
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/export.php:254
+msgid ""
+"Imported field groups <b>will</b> appear in the list of editable field "
+"groups. This is useful for migrating fields groups between Wp websites."
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/export.php:256
+msgid "Select field group(s) from the list and click \"Export XML\""
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/export.php:257
+msgid "Save the .xml file when prompted"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/export.php:258
+msgid "Navigate to Tools &raquo; Import and select WordPress"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/export.php:259
+msgid "Install WP import plugin if prompted"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/export.php:260
+msgid "Upload and import your exported .xml file"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/export.php:261
+msgid "Select your user and ignore Import Attachments"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/export.php:262
+msgid "That's it! Happy WordPressing"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/export.php:268
+msgid "ACF will create the PHP code to include in your theme."
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/export.php:269
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/export.php:310
+msgid ""
+"Registered field groups <b>will not</b> appear in the list of editable field "
+"groups. This is useful for including fields in themes."
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/export.php:270
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/export.php:311
+msgid ""
+"Please note that if you export and register field groups within the same WP, "
+"you will see duplicate fields on your edit screens. To fix this, please move "
+"the original field group to the trash or remove the code from your functions."
+"php file."
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/export.php:272
+msgid "Select field group(s) from the list and click \"Create PHP\""
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/export.php:273
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/export.php:302
+msgid "Copy the PHP code generated"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/export.php:274
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/export.php:303
+msgid "Paste into your functions.php file"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/export.php:275
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/export.php:304
+msgid "To activate any Add-ons, edit and use the code in the first few lines."
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/export.php:295
+msgid "Export Field Groups to PHP"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/export.php:300
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/tab.php:65
+msgid "Instructions"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/export.php:309
+msgid "Notes"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/export.php:316
+msgid "Include in theme"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/export.php:317
+msgid ""
+"The Advanced Custom Fields plugin can be included within a theme. To do so, "
+"move the ACF plugin inside your theme and add the following code to your "
+"functions.php file:"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/export.php:323
+msgid ""
+"To remove all visual interfaces from the ACF plugin, you can use a constant "
+"to enable lite mode. Add the following code to your functions.php file "
+"<b>before</b> the include_once code:"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/export.php:331
+msgid "Back to export"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/export.php:400
+msgid "No field groups were selected"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_group.php:359
+msgid "Move to trash. Are you sure?"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_group.php:360
+msgid "checked"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_group.php:361
+msgid "No toggle fields available"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_group.php:362
+msgid "Field group title is required"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_group.php:363
+msgid "copy"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_group.php:364
+#: includes/sonaar-music/includes/advanced-custom-fields/core/views/meta_box_location.php:62
+#: includes/sonaar-music/includes/advanced-custom-fields/core/views/meta_box_location.php:159
+msgid "or"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_group.php:365
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_group.php:397
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_group.php:459
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_groups.php:148
+msgid "Fields"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_group.php:366
+msgid "Parent fields"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_group.php:367
+msgid "Sibling fields"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_group.php:368
+msgid "Hide / Show All"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_group.php:398
+msgid "Location"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_group.php:461
+msgid "Show Field Key:"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_group.php:635
+msgid "Front Page"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_group.php:636
+msgid "Posts Page"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_group.php:637
+msgid "Top Level Page (parent of 0)"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_group.php:638
+msgid "Parent Page (has children)"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_group.php:639
+msgid "Child Page (has parent)"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_group.php:647
+msgid "Default Template"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_group.php:729
+#: includes/sonaar-music/includes/posttypes.php:608
+#: includes/sonaar-music/includes/posttypes.php:672
+msgid "Published"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_group.php:730
+msgid "Pending Review"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_group.php:731
+msgid "Draft"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_group.php:732
+msgid "Future"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_group.php:733
+msgid "Private"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_group.php:734
+msgid "Revision"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_group.php:735
+msgid "Trash"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_group.php:748
+msgid "Super Admin"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_group.php:763
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_group.php:784
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_group.php:791
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/file.php:186
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/image.php:177
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/page_link.php:109
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/post_object.php:286
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/post_object.php:310
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/relationship.php:582
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/relationship.php:606
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/user.php:276
+#: includes/sonaar-music/includes/vc-extend/vc-templates-panel-editor.php:73
+#: parts/categories.php:28
+msgid "All"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_groups.php:147
+msgid "Title"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_groups.php:215
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_groups.php:252
+msgid "Changelog"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_groups.php:216
+#, php-format
+msgid "See what's new in %1$sversion %2$s%3$s"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_groups.php:218
+msgid "Resources"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_groups.php:220
+msgid "Getting Started"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_groups.php:221
+msgid "Field Types"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_groups.php:222
+msgid "Functions"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_groups.php:223
+msgid "Actions"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_groups.php:224
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/relationship.php:625
+msgid "Filters"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_groups.php:225
+msgid "'How to' guides"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_groups.php:226
+msgid "Tutorials"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_groups.php:231
+msgid "Created by"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_groups.php:243
+msgid "Welcome to Advanced Custom Fields"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_groups.php:244
+msgid "Thank you for updating to the latest version!"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_groups.php:244
+#, php-format
+msgid ""
+"ACF %s is more polished and enjoyable than ever before. We hope you like it."
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_groups.php:251
+msgid "What’s New"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_groups.php:254
+msgid "Download Add-ons"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_groups.php:308
+msgid "Activation codes have grown into plugins!"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_groups.php:309
+msgid ""
+"Add-ons are now activated by downloading and installing individual plugins. "
+"Although these plugins will not be hosted on the wordpress.org repository, "
+"each Add-on will continue to receive updates in the usual way."
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_groups.php:315
+msgid "All previous Add-ons have been successfully installed"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_groups.php:319
+msgid "This website uses premium Add-ons which need to be downloaded"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_groups.php:319
+msgid "Download your activated Add-ons"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_groups.php:324
+msgid ""
+"This website does not use premium Add-ons and will not be affected by this "
+"change."
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_groups.php:334
+msgid "Easier Development"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_groups.php:336
+msgid "New Field Types"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_groups.php:338
+msgid "Taxonomy Field"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_groups.php:339
+msgid "User Field"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_groups.php:340
+msgid "Email Field"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_groups.php:341
+msgid "Password Field"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_groups.php:343
+msgid "Custom Field Types"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_groups.php:344
+msgid ""
+"Creating your own field type has never been easier! Unfortunately, version 3 "
+"field types are not compatible with version 4."
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_groups.php:345
+#, php-format
+msgid ""
+"Migrating your field types is easy, please %sfollow this tutorial%s to learn "
+"more."
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_groups.php:347
+msgid "Actions &amp; Filters"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_groups.php:348
+#, php-format
+msgid ""
+"All actions & filters have received a major facelift to make customizing ACF "
+"even easier! Please %sread this guide%s to find the updated naming "
+"convention."
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_groups.php:350
+msgid "Preview draft is now working!"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_groups.php:351
+msgid "This bug has been squashed along with many other little critters!"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_groups.php:351
+msgid "See the full changelog"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_groups.php:355
+msgid "Important"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_groups.php:357
+msgid "Database Changes"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_groups.php:358
+msgid ""
+"Absolutely <strong>no</strong> changes have been made to the database "
+"between versions 3 and 4. This means you can roll back to version 3 without "
+"any issues."
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_groups.php:360
+msgid "Potential Issues"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_groups.php:361
+#, php-format
+msgid ""
+"Due to the sizable changes surrounding Add-ons, field types and action/"
+"filters, your website may not operate correctly. It is important that you "
+"read the full %sMigrating from v3 to v4%s guide to view the full list of "
+"changes."
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_groups.php:364
+msgid "Really Important!"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_groups.php:364
+#, php-format
+msgid ""
+"If you updated the ACF plugin without prior knowledge of such changes, "
+"please roll back to the latest %sversion 3%s of this plugin."
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_groups.php:369
+msgid "Thank You"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_groups.php:370
+msgid ""
+"A <strong>BIG</strong> thank you to everyone who has helped test the version "
+"4 beta and for all the support I have received."
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_groups.php:371
+msgid "Without you all, this release would not have been possible!"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_groups.php:375
+msgid "Changelog for"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_groups.php:392
+msgid "Learn more"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_groups.php:398
+msgid "Overview"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_groups.php:400
+msgid ""
+"Previously, all Add-ons were unlocked via an activation code (purchased from "
+"the ACF Add-ons store). New to v4, all Add-ons act as separate plugins which "
+"need to be individually downloaded, installed and updated."
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_groups.php:402
+msgid ""
+"This page will assist you in downloading and installing each available Add-"
+"on."
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_groups.php:404
+msgid "Available Add-ons"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_groups.php:406
+msgid "The following Add-ons have been detected as activated on this website."
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_groups.php:420
+msgid "Activation Code"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_groups.php:452
+msgid "Flexible Content"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_groups.php:462
+msgid "Installation"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_groups.php:464
+msgid "For each Add-on available, please perform the following:"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_groups.php:466
+msgid "Download the Add-on plugin (.zip file) to your desktop"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_groups.php:467
+#, php-format
+msgid "Navigate to %sPlugins > Add New > Upload%s"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_groups.php:468
+msgid "Use the uploader to browse, select and install your Add-on (.zip file)"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_groups.php:469
+msgid ""
+"Once the plugin has been uploaded and installed, click the 'Activate Plugin' "
+"link"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_groups.php:470
+msgid "The Add-on is now installed and activated!"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/field_groups.php:484
+msgid "Awesome. Let's get to work"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/input.php:63
+msgid "Expand Details"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/input.php:64
+msgid "Collapse Details"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/input.php:67
+msgid "Validation Failed. One or more fields below are required."
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/upgrade.php:77
+msgid "Upgrade"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/upgrade.php:599
+msgid "Modifying field group options 'show on page'"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/upgrade.php:653
+msgid "Modifying field option 'taxonomy'"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/controllers/upgrade.php:750
+msgid "Moving user custom fields from wp_options to wp_usermeta"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/_base.php:124
+#: includes/sonaar-music/includes/advanced-custom-fields/core/views/meta_box_location.php:74
+msgid "Basic"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/checkbox.php:19
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/taxonomy.php:475
+msgid "Checkbox"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/checkbox.php:20
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/radio.php:19
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/select.php:19
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/true_false.php:20
+msgid "Choice"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/checkbox.php:146
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/radio.php:147
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/select.php:177
+msgid "Choices"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/checkbox.php:147
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/select.php:178
+msgid "Enter each choice on a new line."
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/checkbox.php:148
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/select.php:179
+msgid "For more control, you may specify both a value and label like this:"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/checkbox.php:149
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/radio.php:153
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/select.php:180
+msgid "red : Red"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/checkbox.php:149
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/radio.php:154
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/select.php:180
+msgid "blue : Blue"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/checkbox.php:166
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/color_picker.php:89
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/email.php:106
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/number.php:116
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/radio.php:196
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/select.php:197
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/text.php:116
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/textarea.php:103
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/true_false.php:94
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/wysiwyg.php:287
+msgid "Default Value"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/checkbox.php:167
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/select.php:198
+msgid "Enter each default value on a new line"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/checkbox.php:194
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/radio.php:223
+msgid "Vertical"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/checkbox.php:195
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/radio.php:224
+msgid "Horizontal"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/color_picker.php:19
+msgid "Color Picker"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/color_picker.php:20
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/date_picker/date_picker.php:20
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/google-map.php:19
+msgid "jQuery"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/date_picker/date_picker.php:19
+msgid "Date Picker"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/date_picker/date_picker.php:55
+msgid "Done"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/date_picker/date_picker.php:56
+msgid "Today"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/date_picker/date_picker.php:59
+msgid "Show a different month"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/date_picker/date_picker.php:126
+msgid "Save format"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/date_picker/date_picker.php:127
+msgid ""
+"This format will determine the value saved to the database and returned via "
+"the API"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/date_picker/date_picker.php:128
+msgid "\"yymmdd\" is the most versatile save format. Read more about"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/date_picker/date_picker.php:128
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/date_picker/date_picker.php:144
+msgid "jQuery date formats"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/date_picker/date_picker.php:142
+msgid "Display format"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/date_picker/date_picker.php:143
+msgid "This format will be seen by the user when entering a value"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/date_picker/date_picker.php:144
+msgid ""
+"\"dd/mm/yy\" or \"mm/dd/yy\" are the most used display formats. Read more "
+"about"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/date_picker/date_picker.php:158
+msgid "Week Starts On"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/dummy.php:19
+msgid "Dummy"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/email.php:107
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/number.php:117
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/text.php:117
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/textarea.php:104
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/wysiwyg.php:288
+msgid "Appears when creating a new post"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/email.php:123
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/number.php:133
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/password.php:105
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/text.php:131
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/textarea.php:118
+msgid "Placeholder Text"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/email.php:124
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/number.php:134
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/password.php:106
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/text.php:132
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/textarea.php:119
+msgid "Appears within the input"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/email.php:138
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/number.php:148
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/password.php:120
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/text.php:146
+msgid "Prepend"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/email.php:139
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/number.php:149
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/password.php:121
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/text.php:147
+msgid "Appears before the input"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/email.php:153
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/number.php:163
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/password.php:135
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/text.php:161
+msgid "Append"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/email.php:154
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/number.php:164
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/password.php:136
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/text.php:162
+msgid "Appears after the input"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/file.php:19
+msgid "File"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/file.php:26
+msgid "Select File"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/file.php:27
+msgid "Edit File"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/file.php:28
+msgid "Update File"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/file.php:29
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/image.php:30
+msgid "Uploaded to this post"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/file.php:113
+msgid "Size"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/file.php:123
+msgid "No File Selected"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/file.php:123
+msgid "Add File"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/file.php:153
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/image.php:125
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/taxonomy.php:523
+msgid "Return Value"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/file.php:164
+msgid "File Object"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/file.php:165
+msgid "File URL"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/file.php:166
+msgid "File ID"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/file.php:175
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/image.php:165
+msgid "Library"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/file.php:187
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/image.php:178
+msgid "Uploaded to post"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/google-map.php:18
+msgid "Google Map"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/google-map.php:33
+msgid "Locating"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/google-map.php:34
+msgid "Sorry, this browser does not support geolocation"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/google-map.php:120
+msgid "Clear location"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/google-map.php:125
+msgid "Find current location"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/google-map.php:126
+msgid "Search for address..."
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/google-map.php:163
+msgid "Center the initial map"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/google-map.php:199
+msgid "Zoom"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/google-map.php:200
+msgid "Set the initial zoom level"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/google-map.php:217
+msgid "Height"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/google-map.php:218
+msgid "Customise the map height"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/image.php:19
+msgid "Image"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/image.php:27
+msgid "Select Image"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/image.php:28
+msgid "Edit Image"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/image.php:29
+msgid "Update Image"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/image.php:97
+msgid "No image selected"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/image.php:97
+msgid "Add Image"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/image.php:126
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/relationship.php:557
+msgid "Specify the returned value on front end"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/image.php:136
+msgid "Image Object"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/image.php:137
+msgid "Image URL"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/image.php:138
+msgid "Image ID"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/image.php:146
+msgid "Preview Size"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/image.php:147
+msgid "Shown when entering data"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/image.php:166
+msgid "Limit the media library choice"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/message.php:19
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/message.php:70
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/true_false.php:79
+msgid "Message"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/message.php:71
+msgid "Text &amp; HTML entered here will appear inline with the fields"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/message.php:72
+msgid "Please note that all text will first be passed through the wp function "
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/number.php:19
+msgid "Number"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/number.php:178
+msgid "Minimum Value"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/number.php:194
+msgid "Maximum Value"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/number.php:210
+msgid "Step Size"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/page_link.php:18
+msgid "Page Link"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/page_link.php:19
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/post_object.php:19
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/relationship.php:19
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/taxonomy.php:19
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/user.php:19
+msgid "Relational"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/page_link.php:103
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/post_object.php:280
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/relationship.php:576
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/relationship.php:655
+#: includes/sonaar-music/includes/advanced-custom-fields/core/views/meta_box_location.php:75
+msgid "Post Type"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/page_link.php:148
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/post_object.php:350
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/select.php:233
+msgid "Select multiple values?"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/password.php:19
+msgid "Password"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/post_object.php:18
+msgid "Post Object"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/post_object.php:194
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/relationship.php:164
+msgid "(no title)"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/post_object.php:304
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/relationship.php:600
+msgid "Filter from Taxonomy"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/radio.php:18
+msgid "Radio Button"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/radio.php:105
+#: includes/sonaar-music/includes/advanced-custom-fields/core/views/meta_box_location.php:91
+msgid "Other"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/radio.php:148
+msgid "Enter your choices one per line"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/radio.php:150
+msgid "Red"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/radio.php:151
+msgid "Blue"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/radio.php:175
+msgid "Add 'other' choice to allow for custom values"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/radio.php:187
+msgid "Save 'other' values to the field's choices"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/relationship.php:18
+msgid "Relationship"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/relationship.php:29
+msgid "Maximum values reached ( {max} values )"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/relationship.php:451
+msgid "Search..."
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/relationship.php:462
+msgid "Filter by post type"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/relationship.php:556
+msgid "Return Format"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/relationship.php:567
+msgid "Post Objects"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/relationship.php:568
+msgid "Post IDs"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/relationship.php:634
+msgid "Search"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/relationship.php:635
+msgid "Post Type Select"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/relationship.php:643
+msgid "Elements"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/relationship.php:644
+msgid "Selected elements will be displayed in each result"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/relationship.php:653
+#: includes/sonaar-music/includes/advanced-custom-fields/core/views/meta_box_options.php:106
+msgid "Featured Image"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/relationship.php:654
+msgid "Post Title"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/relationship.php:666
+msgid "Maximum posts"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/select.php:18
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/select.php:109
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/taxonomy.php:480
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/user.php:313
+msgid "Select"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/tab.php:19
+msgid "Tab"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/tab.php:68
+msgid ""
+"Use \"Tab Fields\" to better organize your edit screen by grouping your "
+"fields together under separate tab headings."
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/tab.php:69
+msgid ""
+"All the fields following this \"tab field\" (or until another \"tab field\" "
+"is defined) will be grouped together."
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/tab.php:70
+msgid "Use multiple tabs to divide your fields into sections."
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/taxonomy.php:18
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/taxonomy.php:430
+msgid "Taxonomy"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/taxonomy.php:474
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/user.php:307
+msgid "Multiple Values"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/taxonomy.php:476
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/user.php:309
+msgid "Multi Select"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/taxonomy.php:478
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/user.php:311
+msgid "Single Value"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/taxonomy.php:479
+msgid "Radio Buttons"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/taxonomy.php:508
+msgid "Load & Save Terms to Post"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/taxonomy.php:516
+msgid ""
+"Load value based on the post's terms and update the post's terms on save"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/taxonomy.php:533
+msgid "Term Object"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/taxonomy.php:534
+msgid "Term ID"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/text.php:19
+msgid "Text"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/text.php:176
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/textarea.php:164
+msgid "Formatting"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/text.php:177
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/textarea.php:165
+msgid "Affects value on front end"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/text.php:186
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/textarea.php:174
+msgid "No formatting"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/text.php:187
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/textarea.php:176
+msgid "Convert HTML into tags"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/text.php:195
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/textarea.php:133
+msgid "Character Limit"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/text.php:196
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/textarea.php:134
+msgid "Leave blank for no limit"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/textarea.php:19
+msgid "Text Area"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/textarea.php:148
+msgid "Rows"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/textarea.php:149
+msgid "Sets the textarea height"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/textarea.php:175
+msgid "Convert new lines into &lt;br /&gt; tags"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/true_false.php:19
+msgid "True / False"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/true_false.php:80
+msgid "eg. Show extra content"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/user.php:18
+#: includes/sonaar-music/includes/advanced-custom-fields/core/views/meta_box_location.php:94
+msgid "User"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/user.php:271
+msgid "Filter by role"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/wysiwyg.php:19
+msgid "Wysiwyg Editor"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/wysiwyg.php:302
+msgid "Toolbar"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/fields/wysiwyg.php:334
+msgid "Show Media Upload Buttons?"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/views/meta_box_fields.php:58
+msgid "Field type does not exist"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/views/meta_box_fields.php:78
+msgid "Field Key"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/views/meta_box_fields.php:90
+msgid ""
+"No fields. Click the <strong>+ Add Field</strong> button to create your "
+"first field."
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/views/meta_box_fields.php:127
+msgid "This is the name which will appear on the EDIT page"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/views/meta_box_fields.php:173
+msgid "Instructions for authors. Shown when submitting data"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/views/meta_box_fields.php:317
+msgid "+ Add Field"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/views/meta_box_location.php:48
+msgid "Rules"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/views/meta_box_location.php:49
+msgid ""
+"Create a set of rules to determine which edit screens will use these "
+"advanced custom fields"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/views/meta_box_location.php:60
+msgid "Show this field group if"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/views/meta_box_location.php:76
+msgid "Logged in User Type"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/views/meta_box_location.php:78
+#: includes/sonaar-music/includes/advanced-custom-fields/core/views/meta_box_location.php:79
+msgid "Post"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/views/meta_box_location.php:80
+msgid "Post Category"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/views/meta_box_location.php:81
+msgid "Post Format"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/views/meta_box_location.php:82
+msgid "Post Status"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/views/meta_box_location.php:83
+msgid "Post Taxonomy"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/views/meta_box_location.php:85
+#: includes/sonaar-music/includes/advanced-custom-fields/core/views/meta_box_location.php:86
+msgid "Page"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/views/meta_box_location.php:87
+msgid "Page Type"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/views/meta_box_location.php:88
+msgid "Page Parent"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/views/meta_box_location.php:89
+msgid "Page Template"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/views/meta_box_location.php:92
+msgid "Attachment"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/views/meta_box_location.php:93
+msgid "Taxonomy Term"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/views/meta_box_location.php:146
+msgid "and"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/views/meta_box_location.php:161
+msgid "Add rule group"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/views/meta_box_options.php:25
+msgid "Order No."
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/views/meta_box_options.php:26
+msgid "Field groups are created in order <br />from lowest to highest"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/views/meta_box_options.php:42
+msgid "Position"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/views/meta_box_options.php:52
+msgid "High (after title)"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/views/meta_box_options.php:53
+msgid "Normal (after content)"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/views/meta_box_options.php:54
+msgid "Side"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/views/meta_box_options.php:64
+msgid "Style"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/views/meta_box_options.php:74
+msgid "Seamless (no metabox)"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/views/meta_box_options.php:75
+msgid "Standard (WP metabox)"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/views/meta_box_options.php:84
+msgid "Hide on screen"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/views/meta_box_options.php:85
+msgid "<b>Select</b> items to <b>hide</b> them from the edit screen"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/views/meta_box_options.php:86
+msgid ""
+"If multiple field groups appear on an edit screen, the first field group's "
+"options will be used. (the one with the lowest order number)"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/views/meta_box_options.php:96
+msgid "Permalink"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/views/meta_box_options.php:97
+msgid "Content Editor"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/views/meta_box_options.php:98
+msgid "Excerpt"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/views/meta_box_options.php:100
+msgid "Discussion"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/views/meta_box_options.php:101
+msgid "Comments"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/views/meta_box_options.php:102
+msgid "Revisions"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/views/meta_box_options.php:103
+msgid "Slug"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/views/meta_box_options.php:104
+msgid "Author"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/views/meta_box_options.php:105
+msgid "Format"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/views/meta_box_options.php:107
+#: includes/sonaar-music/includes/widgets.php:1084
+msgid "Categories"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/views/meta_box_options.php:108
+msgid "Tags"
+msgstr ""
+
+#: includes/sonaar-music/includes/advanced-custom-fields/core/views/meta_box_options.php:109
+msgid "Send Trackbacks"
+msgstr ""
+
+#: includes/sonaar-music/includes/custom-fields.php:409
+msgid "This will override global settings"
+msgstr ""
+
+#: includes/sonaar-music/includes/custom-fields.php:428
+msgid "This will override global settings. For classic menu only"
+msgstr ""
+
+#: includes/sonaar-music/includes/custom-fields.php:437
+msgid "Set the menu opacity between 0 and 1. For classic menu only"
+msgstr ""
+
+#: includes/sonaar-music/includes/custom-fields.php:448
+msgid "This will override global settings. For push menu only"
+msgstr ""
+
+#: includes/sonaar-music/includes/custom-fields.php:524
+#, php-format
+msgid "0 for transparent and 1 for 100% solid."
+msgstr ""
+
+#: includes/sonaar-music/includes/custom-fields.php:846
+#: includes/sonaar-music/includes/custom-fields.php:1302
+msgid ""
+"If you want to redirect the user to an external link instead of this page, "
+"enter the URL below (eg: https://www.your-url.com)."
+msgstr ""
+
+#: includes/sonaar-music/includes/custom-fields.php:1175
+msgid "Event Date / Time"
+msgstr ""
+
+#: includes/sonaar-music/includes/functions.php:86
+msgid "All artists"
+msgstr ""
+
+#: includes/sonaar-music/includes/functions.php:261
+#, php-format
+msgid ""
+"Thanks for using Sonaar. Make sure to enter your license key in Sonaar "
+"Settings > Dashboard. The license key used is currently empty, expired or "
+"invalid. Login to your account at %s and make sure you have a valid "
+"subscription."
+msgstr ""
+
+#: includes/sonaar-music/includes/options.php:11
+#: includes/sonaar-music/includes/options.php:12
+msgid "Events & Music Settings"
+msgstr ""
+
+#: includes/sonaar-music/includes/options.php:19
+#: includes/sonaar-music/includes/options.php:20
+#: includes/sonaar-music/includes/posttypes.php:37
+#: includes/sonaar-music/includes/posttypes.php:38
+#: includes/sonaar-music/includes/posttypes.php:39
+#: includes/sonaar-music/includes/posttypes.php:49
+#: includes/sonaar-music/includes/widgets.php:47
+msgid "Events"
+msgstr ""
+
+#: includes/sonaar-music/includes/options.php:31
+msgid "Events slug name"
+msgstr ""
+
+#: includes/sonaar-music/includes/options.php:33
+msgid "eg: http://www.domain.com/SLUG/event-title"
+msgstr ""
+
+#: includes/sonaar-music/includes/options.php:39
+msgid "How many events per page ?"
+msgstr ""
+
+#: includes/sonaar-music/includes/options.php:40
+msgid "This setting apply on your event page template."
+msgstr ""
+
+#: includes/sonaar-music/includes/options.php:47
+msgid "Look and Feel"
+msgstr ""
+
+#: includes/sonaar-music/includes/options.php:65
+#: includes/sonaar-music/includes/options.php:118
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:355
+msgid "Letter Spacing"
+msgstr ""
+
+#: includes/sonaar-music/includes/options.php:66
+#: includes/sonaar-music/includes/options.php:181
+msgid "enter value with px (eg: 2px)"
+msgstr ""
+
+#: includes/sonaar-music/includes/options.php:73
+msgid "Item Background Color"
+msgstr ""
+
+#: includes/sonaar-music/includes/options.php:80
+msgid "Item Hover Background Color"
+msgstr ""
+
+#: includes/sonaar-music/includes/options.php:87
+msgid "Item Hover Text Color"
+msgstr ""
+
+#: includes/sonaar-music/includes/options.php:94
+#: includes/sonaar-music/includes/vc-extend/vc-templates.php:675
+msgid "Countdown"
+msgstr ""
+
+#: includes/sonaar-music/includes/options.php:99
+msgid "Show countdown on rollover"
+msgstr ""
+
+#: includes/sonaar-music/includes/options.php:100
+msgid ""
+"When option is checked, an animated countdown will be shown when user "
+"rollover your event. This global setting may be overridden in each of your "
+"individual events."
+msgstr ""
+
+#: includes/sonaar-music/includes/options.php:119
+msgid "enter value with px"
+msgstr ""
+
+#: includes/sonaar-music/includes/options.php:133
+msgid "Outline Color"
+msgstr ""
+
+#: includes/sonaar-music/includes/options.php:134
+msgid "For separators"
+msgstr ""
+
+#: includes/sonaar-music/includes/options.php:140
+msgid "Padding between items"
+msgstr ""
+
+#: includes/sonaar-music/includes/options.php:141
+msgid "enter value with px. eg: 5px"
+msgstr ""
+
+#: includes/sonaar-music/includes/options.php:148
+msgid "Artist Dropdown"
+msgstr ""
+
+#: includes/sonaar-music/includes/options.php:153
+msgid "Show Artist Dropdown"
+msgstr ""
+
+#: includes/sonaar-music/includes/options.php:154
+msgid ""
+"Show an artist dropdown selector above your list of events. If you have "
+"multiple artists, this can be usefull to filter your events by artists. This "
+"option only apply in pages that use the \"Event Posts\" template."
+msgstr ""
+
+#: includes/sonaar-music/includes/options.php:160
+msgid "Text Label"
+msgstr ""
+
+#: includes/sonaar-music/includes/options.php:161
+msgid "eg: Select an artist"
+msgstr ""
+
+#: includes/sonaar-music/includes/options.php:167
+msgid "Label Typography"
+msgstr ""
+
+#: includes/sonaar-music/includes/options.php:180
+msgid "Label Letter Spacing"
+msgstr ""
+
+#: includes/sonaar-music/includes/options.php:195
+msgid "Event filter Outline Color"
+msgstr ""
+
+#: includes/sonaar-music/includes/options.php:196
+msgid "For dropdown outlines and arrow color"
+msgstr ""
+
+#: includes/sonaar-music/includes/options.php:205
+#: includes/sonaar-music/includes/options.php:206
+msgid "Music Player"
+msgstr ""
+
+#: includes/sonaar-music/includes/options.php:212
+msgid "Music Player Color Setting"
+msgstr ""
+
+#: includes/sonaar-music/includes/options.php:217
+#: includes/sonaar-music/includes/posttypes.php:87
+#: includes/sonaar-music/includes/posttypes.php:89
+msgid "Playlist"
+msgstr ""
+
+#: includes/sonaar-music/includes/options.php:230
+msgid "Button Colors"
+msgstr ""
+
+#: includes/sonaar-music/includes/options.php:237
+msgid "Player Control"
+msgstr ""
+
+#: includes/sonaar-music/includes/options.php:244
+#: includes/sonaar-music/includes/options.php:307
+msgid "SoundWave Background"
+msgstr ""
+
+#: includes/sonaar-music/includes/options.php:251
+msgid "SoundWave Progress Bar"
+msgstr ""
+
+#: includes/sonaar-music/includes/options.php:259
+msgid "Continuous Music Player Setting"
+msgstr ""
+
+#: includes/sonaar-music/includes/options.php:264
+msgid "Featured Color"
+msgstr ""
+
+#: includes/sonaar-music/includes/options.php:272
+msgid "Choose a font and font size"
+msgstr ""
+
+#: includes/sonaar-music/includes/options.php:285
+msgid "Label and Button"
+msgstr ""
+
+#: includes/sonaar-music/includes/options.php:293
+msgid "Hide Artist Name in the player/playlist"
+msgstr ""
+
+#: includes/sonaar-music/includes/options.php:300
+msgid "Hide Playlist Icon in the Footer Player "
+msgstr ""
+
+#: includes/sonaar-music/includes/options.php:314
+msgid "SoundWave Progress"
+msgstr ""
+
+#: includes/sonaar-music/includes/options.php:331
+#: includes/sonaar-music/includes/options.php:332
+msgid "Discography"
+msgstr ""
+
+#: includes/sonaar-music/includes/options.php:338
+msgid "Discography Features"
+msgstr ""
+
+#: includes/sonaar-music/includes/options.php:343
+msgid "Discography Slug Name"
+msgstr ""
+
+#: includes/sonaar-music/includes/options.php:345
+msgid "eg: http://www.domain.com/SLUG-NAME/album-title"
+msgstr ""
+
+#: includes/sonaar-music/includes/options.php:368
+msgid ""
+"This gives you the option move all the dynamic css that lives in the head by "
+"default into its own file for aesthetic & caching purposes"
+msgstr ""
+
+#: includes/sonaar-music/includes/options.php:373
+msgid "Data to import"
+msgstr ""
+
+#: includes/sonaar-music/includes/options.php:379
+msgid "Data to export"
+msgstr ""
+
+#: includes/sonaar-music/includes/posttypes.php:40
+msgid "New events"
+msgstr ""
+
+#: includes/sonaar-music/includes/posttypes.php:42
+msgid "Add New events"
+msgstr ""
+
+#: includes/sonaar-music/includes/posttypes.php:43
+msgid "Edit events"
+msgstr ""
+
+#: includes/sonaar-music/includes/posttypes.php:44
+msgid "View events"
+msgstr ""
+
+#: includes/sonaar-music/includes/posttypes.php:45
+msgid "Search events"
+msgstr ""
+
+#: includes/sonaar-music/includes/posttypes.php:46
+msgid "No events found"
+msgstr ""
+
+#: includes/sonaar-music/includes/posttypes.php:47
+msgid "No events found in trash"
+msgstr ""
+
+#: includes/sonaar-music/includes/posttypes.php:48
+msgid "Parent events"
+msgstr ""
+
+#: includes/sonaar-music/includes/posttypes.php:86
+msgid "Playlists"
+msgstr ""
+
+#: includes/sonaar-music/includes/posttypes.php:88
+msgctxt "add new on admin bar"
+msgid "Playlist"
+msgstr ""
+
+#: includes/sonaar-music/includes/posttypes.php:90
+msgid "All Playlists"
+msgstr ""
+
+#: includes/sonaar-music/includes/posttypes.php:92
+msgid "Add New Playlist"
+msgstr ""
+
+#: includes/sonaar-music/includes/posttypes.php:93
+msgid "Edit Playlist"
+msgstr ""
+
+#: includes/sonaar-music/includes/posttypes.php:94
+msgid "New Playlist"
+msgstr ""
+
+#: includes/sonaar-music/includes/posttypes.php:95
+msgid "View playlist"
+msgstr ""
+
+#: includes/sonaar-music/includes/posttypes.php:96
+msgid "Search Playlists"
+msgstr ""
+
+#: includes/sonaar-music/includes/posttypes.php:97
+msgid "No playlists found."
+msgstr ""
+
+#: includes/sonaar-music/includes/posttypes.php:98
+msgid "No playlists found in the Trash."
+msgstr ""
+
+#: includes/sonaar-music/includes/posttypes.php:99
+msgid "Parent Playlist:"
+msgstr ""
+
+#: includes/sonaar-music/includes/posttypes.php:118
+#: includes/sonaar-music/includes/posttypes.php:121
+msgid "Artists"
+msgstr ""
+
+#: includes/sonaar-music/includes/posttypes.php:119
+#: includes/sonaar-music/includes/vc-extend/vc-templates-panel-editor.php:75
+msgid "Artist"
+msgstr ""
+
+#: includes/sonaar-music/includes/posttypes.php:120
+msgctxt "add new on admin bar"
+msgid "Artist"
+msgstr ""
+
+#: includes/sonaar-music/includes/posttypes.php:122
+msgid "All Artists"
+msgstr ""
+
+#: includes/sonaar-music/includes/posttypes.php:123
+msgid "Add Artist"
+msgstr ""
+
+#: includes/sonaar-music/includes/posttypes.php:124
+msgid "Add New Artist"
+msgstr ""
+
+#: includes/sonaar-music/includes/posttypes.php:125
+msgid "Edit Artist"
+msgstr ""
+
+#: includes/sonaar-music/includes/posttypes.php:126
+msgid "New Project"
+msgstr ""
+
+#: includes/sonaar-music/includes/posttypes.php:127
+msgid "View Artist"
+msgstr ""
+
+#: includes/sonaar-music/includes/posttypes.php:128
+msgid "Search Artist"
+msgstr ""
+
+#: includes/sonaar-music/includes/posttypes.php:129
+msgid "No artists found."
+msgstr ""
+
+#: includes/sonaar-music/includes/posttypes.php:130
+msgid "No artists found in the Trash."
+msgstr ""
+
+#: includes/sonaar-music/includes/posttypes.php:131
+msgid "Parent Artist:"
+msgstr ""
+
+#: includes/sonaar-music/includes/posttypes.php:139
+msgid "artist"
+msgstr ""
+
+#: includes/sonaar-music/includes/posttypes.php:150
+#: includes/sonaar-music/includes/posttypes.php:153
+#: includes/sonaar-music/includes/widgets.php:1583
+msgid "Videos"
+msgstr ""
+
+#: includes/sonaar-music/includes/posttypes.php:151
+msgid "Video"
+msgstr ""
+
+#: includes/sonaar-music/includes/posttypes.php:152
+msgctxt "add new on admin bar"
+msgid "Video"
+msgstr ""
+
+#: includes/sonaar-music/includes/posttypes.php:154
+msgid "All Videos"
+msgstr ""
+
+#: includes/sonaar-music/includes/posttypes.php:156
+msgid "Add New Video"
+msgstr ""
+
+#: includes/sonaar-music/includes/posttypes.php:157
+msgid "Edit Video"
+msgstr ""
+
+#: includes/sonaar-music/includes/posttypes.php:158
+msgid "New Video"
+msgstr ""
+
+#: includes/sonaar-music/includes/posttypes.php:159
+msgid "View Video"
+msgstr ""
+
+#: includes/sonaar-music/includes/posttypes.php:160
+msgid "Search Video"
+msgstr ""
+
+#: includes/sonaar-music/includes/posttypes.php:161
+msgid "No videos found."
+msgstr ""
+
+#: includes/sonaar-music/includes/posttypes.php:162
+msgid "No videos found in the Trash."
+msgstr ""
+
+#: includes/sonaar-music/includes/posttypes.php:163
+msgid "Parent Video:"
+msgstr ""
+
+#: includes/sonaar-music/includes/posttypes.php:179
+msgid "videos"
+msgstr ""
+
+#: includes/sonaar-music/includes/posttypes.php:190
+#: includes/sonaar-music/includes/vc-extend/vc-templates-panel-editor.php:81
+msgid "Footers"
+msgstr ""
+
+#: includes/sonaar-music/includes/posttypes.php:191
+msgid "Footer"
+msgstr ""
+
+#: includes/sonaar-music/includes/posttypes.php:226
+#, php-format
+msgid "Events updated. <a target=\"_blank\" href=\"%s\">View events</a>"
+msgstr ""
+
+#: includes/sonaar-music/includes/posttypes.php:229
+msgid "Events updated."
+msgstr ""
+
+#: includes/sonaar-music/includes/posttypes.php:231
+#, php-format
+msgid "Events restored to revision from %s"
+msgstr ""
+
+#: includes/sonaar-music/includes/posttypes.php:232
+#, php-format
+msgid "Events published. <a href=\"%s\">View events</a>"
+msgstr ""
+
+#: includes/sonaar-music/includes/posttypes.php:233
+msgid "Events saved."
+msgstr ""
+
+#: includes/sonaar-music/includes/posttypes.php:234
+#, php-format
+msgid "Events submitted. <a target=\"_blank\" href=\"%s\">Preview events</a>"
+msgstr ""
+
+#: includes/sonaar-music/includes/posttypes.php:235
+#, php-format
+msgid ""
+"Events scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s"
+"\">Preview events</a>"
+msgstr ""
+
+#: includes/sonaar-music/includes/posttypes.php:237
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: includes/sonaar-music/includes/posttypes.php:238
+#, php-format
+msgid ""
+"Events draft updated. <a target=\"_blank\" href=\"%s\">Preview events</a>"
+msgstr ""
+
+#: includes/sonaar-music/includes/posttypes.php:481
+msgid "Date"
+msgstr ""
+
+#: includes/sonaar-music/includes/posttypes.php:482
+msgid "City"
+msgstr ""
+
+#: includes/sonaar-music/includes/posttypes.php:483
+msgid "Venue"
+msgstr ""
+
+#: includes/sonaar-music/includes/posttypes.php:484
+msgid "Artist(s)"
+msgstr ""
+
+#: includes/sonaar-music/includes/posttypes.php:494
+msgid "Event"
+msgstr ""
+
+#: includes/sonaar-music/includes/posttypes.php:515
+msgid "Unpublished"
+msgstr ""
+
+#: includes/sonaar-music/includes/posttypes.php:517
+msgid "Y/m/d g:i:s A"
+msgstr ""
+
+#: includes/sonaar-music/includes/posttypes.php:530
+#: includes/sonaar-music/includes/posttypes.php:540
+#: includes/sonaar-music/includes/posttypes.php:553
+#: includes/sonaar-music/includes/posttypes.php:630
+#: includes/sonaar-music/includes/posttypes.php:637
+msgid "N/A"
+msgstr ""
+
+#: includes/sonaar-music/includes/posttypes.php:589
+msgid "# Tracks"
+msgstr ""
+
+#: includes/sonaar-music/includes/posttypes.php:590
+msgid "# Stores"
+msgstr ""
+
+#: includes/sonaar-music/includes/posttypes.php:642
+#: includes/sonaar-music/includes/posttypes.php:689
+#, php-format
+msgid "Edit &#8220;%s&#8221;"
+msgstr ""
+
+#: includes/sonaar-music/includes/posttypes.php:741
+msgctxt "Taxonomy : name"
+msgid "Video Categories"
+msgstr ""
+
+#: includes/sonaar-music/includes/posttypes.php:742
+#: includes/sonaar-music/includes/posttypes.php:759
+#: includes/sonaar-music/includes/posttypes.php:777
+#: includes/sonaar-music/includes/posttypes.php:794
+msgctxt "Taxonomy : all_items"
+msgid "All Categories"
+msgstr ""
+
+#: includes/sonaar-music/includes/posttypes.php:743
+#: includes/sonaar-music/includes/posttypes.php:760
+#: includes/sonaar-music/includes/posttypes.php:778
+#: includes/sonaar-music/includes/posttypes.php:795
+msgctxt "Taxonomy : singular_name"
+msgid "Category"
+msgstr ""
+
+#: includes/sonaar-music/includes/posttypes.php:744
+#: includes/sonaar-music/includes/posttypes.php:761
+#: includes/sonaar-music/includes/posttypes.php:779
+#: includes/sonaar-music/includes/posttypes.php:796
+msgctxt "Taxonomy : add_new_item"
+msgid "Add New Category"
+msgstr ""
+
+#: includes/sonaar-music/includes/posttypes.php:745
+#: includes/sonaar-music/includes/posttypes.php:762
+#: includes/sonaar-music/includes/posttypes.php:780
+#: includes/sonaar-music/includes/posttypes.php:797
+msgctxt "Taxonomy : not_found"
+msgid "No categories found."
+msgstr ""
+
+#: includes/sonaar-music/includes/posttypes.php:758
+msgctxt "Taxonomy : name"
+msgid "Playlist Categories"
+msgstr ""
+
+#: includes/sonaar-music/includes/posttypes.php:776
+msgctxt "Taxonomy : name"
+msgid "Artists Categories"
+msgstr ""
+
+#: includes/sonaar-music/includes/posttypes.php:793
+msgctxt "Taxonomy : name"
+msgid "Events Categories"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/sonaar-responsive-alignment-param.php:60
+msgid "Justify"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/sonaar-responsive-alignment-param.php:85
+msgid "Device"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/sonaar-responsive-alignment-param.php:88
+msgid "Alignment"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/sonaar-responsive-alignment-param.php:127
+msgid "No offset"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/sonaar-responsive-alignment-param.php:127
+msgid "Inherit from smaller"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/sonaar-responsive-param.php:49
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:18
+msgid "Responsive Options"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:9
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:56
+msgid "Enable Responsive Css Box"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:10
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:57
+msgid "Will enable small dekstop, tablet and mobile css options"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:11
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:30
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:41
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:59
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:66
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:107
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:115
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:128
+msgid "Design Options"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:16
+msgid "Responsive CSS Box"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:26
+msgid "Use gradient background?"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:28
+msgid "If checked, gradient color will be used as row background color."
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:34
+msgid "Gradient Picker"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:36
+msgid "Set gradient color"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:64
+msgid "Responsive CSS box"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:75
+msgid "Text align"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:76
+msgid "Text alignment inside the column"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:96
+msgid "Center Bottom"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:97
+msgid "Center Center"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:98
+msgid "Center Top"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:99
+msgid "Left Bottom"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:100
+msgid "Left Center"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:101
+msgid "Left Top"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:102
+msgid "Right Bottom"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:103
+msgid "Right Center"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:104
+msgid "Right Top"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:105
+msgid "Custom Position"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:113
+msgid "Horizontal Position"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:114
+msgid "Enter custom horizontal position in px or %"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:126
+msgid "Vertical Position"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:127
+msgid "Enter custom vertical position in px or %"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:139
+msgid "Z-index"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:140
+msgid "Add z-index for this element"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:356
+msgid "Add letter spacing. eg: 2px"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:361
+msgid "Enable fitText"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:363
+msgid "Text will automagically resize to fit the width of the device"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:368
+msgid "fitText Max Font Size"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:369
+msgid "The max font size that your text can go. ex. 75px"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:378
+msgid "Enable inline-block display"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:380
+msgid ""
+"Inline-block is useful if you want to apply a border or background to fit "
+"the heading."
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:393
+msgid "Force Full Width"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:396
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:455
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:468
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:481
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:816
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1166
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1180
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1194
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1208
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1222
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1236
+msgctxt "VC"
+msgid "No"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:397
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:456
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:469
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:482
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:817
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1167
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1181
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1195
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1209
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1223
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1237
+msgctxt "VC"
+msgid "Yes"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:409
+msgctxt "VC"
+msgid "Choose an album"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:412
+msgctxt "VC"
+msgid "Which album do you want to play when user clicks on your button ?"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:422
+msgctxt "VC"
+msgid "Audio Player"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:426
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:501
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:637
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:680
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:756
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:844
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:886
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1093
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1144
+msgctxt "VC"
+msgid "IRON Widgets"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:432
+msgctxt "VC"
+msgid "Title of your Playlist"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:442
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:563
+msgctxt "VC"
+msgid "Albums"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:452
+msgctxt "VC"
+msgid "Auto Play"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:465
+msgctxt "VC"
+msgid "Show Playlist"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:478
+msgctxt "VC"
+msgid "Show album store"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:497
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:740
+msgctxt "VC"
+msgid "Grid"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:506
+msgctxt "VC"
+msgid "Use Grid for:"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:509
+msgctxt "VC"
+msgid "Artists"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:510
+msgctxt "VC"
+msgid "Playlists"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:518
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:545
+msgctxt "VC"
+msgid "Display Grid for:"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:521
+msgctxt "VC"
+msgid "All Artists"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:522
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:788
+msgctxt "VC"
+msgid "Choose Specific Artist(s)..."
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:532
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:714
+msgctxt "VC"
+msgid "Filter by Artists"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:548
+msgctxt "VC"
+msgid "All Albums"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:549
+msgctxt "VC"
+msgid "Choose Specific Album(s)..."
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:575
+msgctxt "VC"
+msgid "Number of column"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:579
+msgctxt "VC"
+msgid "3 columns"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:580
+msgctxt "VC"
+msgid "2 columns"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:586
+msgctxt "VC"
+msgid "Parallax"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:590
+msgctxt "VC"
+msgid "Enable"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:591
+msgctxt "VC"
+msgid "Disable"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:599
+msgctxt "VC"
+msgid "Speed of columns"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:602
+msgctxt "VC"
+msgid ""
+"Adjust the speed of the parallax of each column by entering a value "
+"separated by a comma. Negative values accepted. (default value: 2,-2,1)"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:614
+msgctxt "VC"
+msgid "Element ID"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:616
+msgctxt "VC"
+msgid ""
+"Enter element ID (Note: make sure it is unique and valid according to w3c "
+"specification)."
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:620
+msgctxt "VC"
+msgid "Extra class name"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:622
+msgctxt "VC"
+msgid ""
+"Style particular content element differently - add a class name and refer to "
+"it in custom CSS."
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:632
+msgctxt "VC"
+msgid "External Audio Player"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:635
+msgctxt "VC"
+msgid "SoundCloud, Spotify, MixCloud or ReverbNation player"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:643
+msgctxt "VC"
+msgid "Tracks/Playlist Url"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:653
+msgctxt "VC"
+msgid "Width"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:662
+msgctxt "VC"
+msgid "Height"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:676
+msgctxt "VC"
+msgid "Videos"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:686
+msgctxt "VC"
+msgid "Number of videos to show (*apply only for categories):"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:696
+msgctxt "VC"
+msgid "Select one or multiple categories"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:705
+msgctxt "VC"
+msgid "Select Videos"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:722
+msgctxt "VC"
+msgid "What happens when you click the video's thumbnails ?"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:725
+msgctxt "VC"
+msgid "Go to detailed video page"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:726
+msgctxt "VC"
+msgid "Open video in a LightBox"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:727
+msgctxt "VC"
+msgid "Replace image by video"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:736
+msgctxt "VC"
+msgid "View As"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:739
+msgctxt "VC"
+msgid "List"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:752
+msgctxt "VC"
+msgid "Events"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:762
+msgctxt "VC"
+msgid "Number of events to show"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:771
+msgctxt "VC"
+msgid "Filter by"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:774
+msgctxt "VC"
+msgid "Upcoming Events"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:775
+msgctxt "VC"
+msgid "Past Events"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:784
+msgctxt "VC"
+msgid "Display Events for:"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:787
+msgctxt "VC"
+msgid "Show All"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:798
+msgctxt "VC"
+msgid "Select One or Multiple Artist(s)"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:813
+msgctxt "VC"
+msgid "Enable Artist Dropdown Filter on the front-end "
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:840
+msgctxt "VC"
+msgid "Newsletter"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:850
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:899
+msgctxt "VC"
+msgid "Title"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:852
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:861
+msgctxt "VC"
+msgid ""
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:859
+msgctxt "VC"
+msgid "Description"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:868
+msgctxt "VC"
+msgid "Newsletters"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:882
+msgctxt "VC"
+msgid "Promotion"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:891
+msgctxt "VC"
+msgid "Image"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:906
+msgctxt "VC"
+msgid "Title Tag Name"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:920
+msgctxt "VC"
+msgid "Title Color"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:929
+msgctxt "VC"
+msgid "Subtitle"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:936
+msgctxt "VC"
+msgid "Subtitle Tag Name"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:950
+msgctxt "VC"
+msgid "Subtitle Color"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:957
+msgctxt "VC"
+msgid "Title Align"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:959
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1112
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1300
+msgctxt "VC"
+msgid "Left"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:960
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1113
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1301
+msgctxt "VC"
+msgid "Center"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:961
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1114
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1302
+msgctxt "VC"
+msgid "Right"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:969
+msgctxt "VC"
+msgid "Line height"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:976
+msgctxt "VC"
+msgid "Overlay Color"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:986
+msgctxt "VC"
+msgid "Link Page"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:996
+msgctxt "VC"
+msgid "Link Product"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1005
+msgctxt "VC"
+msgid "Link External"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1012
+msgctxt "VC"
+msgid "Hover Animation"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1014
+msgctxt "VC"
+msgid "Slide"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1015
+msgctxt "VC"
+msgid "Zoom"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1089
+msgctxt "VC"
+msgid "Image Divider"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1098
+msgctxt "VC"
+msgid "Divider Image"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1104
+msgctxt "VC"
+msgid "Divider Color"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1110
+msgctxt "VC"
+msgid "Divider Align"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1123
+msgctxt "VC"
+msgid "Divider Padding Top"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1132
+msgctxt "VC"
+msgid "Divider Padding Bottom"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1140
+msgctxt "VC"
+msgid "Countdown"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1152
+msgctxt "VC"
+msgid "End Time"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1155
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1170
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1184
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1198
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1212
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1226
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1240
+msgctxt "VC"
+msgid "General"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1164
+msgctxt "VC"
+msgid "Show Months"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1178
+msgctxt "VC"
+msgid "Show Days"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1192
+msgctxt "VC"
+msgid "Show Hours"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1206
+msgctxt "VC"
+msgid "Show Minutes"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1220
+msgctxt "VC"
+msgid "Show Seconds"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1234
+msgctxt "VC"
+msgid "Show labels under countdown"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1260
+msgctxt "VC"
+msgid "Numbers Font Style"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1263
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1273
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1281
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1291
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1305
+msgctxt "VC"
+msgid "Design"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1270
+msgctxt "VC"
+msgid "Labels Font Style"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1277
+msgctxt "VC"
+msgid "Font Color"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1288
+msgctxt "VC"
+msgid "Countdown Separator"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1298
+msgctxt "VC"
+msgid "Align labels"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1316
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1397
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1478
+msgctxt "VC"
+msgid "Numbers Font Size (px)"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1319
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1329
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1339
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1349
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1359
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1369
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1379
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1389
+msgctxt "VC"
+msgid "Desktop"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1326
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1407
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1488
+msgctxt "VC"
+msgid "Numbers Line Height (px)"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1336
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1417
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1498
+msgctxt "VC"
+msgid "Numbers Letter Spacing (px)"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1346
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1427
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1509
+msgctxt "VC"
+msgid "Labels Font Size (px)"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1356
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1437
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1519
+msgctxt "VC"
+msgid "Labels Line Height (px)"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1366
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1447
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1529
+msgctxt "VC"
+msgid "Labels Letter Spacing (px)"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1376
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1457
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1539
+msgctxt "VC"
+msgid "Spacing between Numbers (px)"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1386
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1467
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1549
+msgctxt "VC"
+msgid "Margin between Numbers and sub labels (px)"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1400
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1410
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1420
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1430
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1440
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1450
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1460
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1470
+msgctxt "VC"
+msgid "Tablet"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1481
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1491
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1501
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1512
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1522
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1532
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1542
+#: includes/sonaar-music/includes/vc-extend/vc-map.php:1552
+msgctxt "VC"
+msgid "Mobile"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-templates-panel-editor.php:54
+msgid "Sonaar Vault"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-templates-panel-editor.php:74
+msgid "Audio Players"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-templates-panel-editor.php:76
+msgid "Banners"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-templates-panel-editor.php:77
+msgid "Band Members"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-templates-panel-editor.php:78
+msgid "Biography"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-templates-panel-editor.php:79
+msgid "Contact & Booking"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-templates-panel-editor.php:80
+msgid "Form"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-templates-panel-editor.php:82
+msgid "Headings"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-templates-panel-editor.php:83
+msgid "Misc"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-templates-panel-editor.php:84
+msgid "Newsletter"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-templates-panel-editor.php:85
+msgid "Shop"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-templates-panel-editor.php:86
+msgid "Team"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-templates-panel-editor.php:87
+msgid "Tour dates"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-templates-panel-editor.php:88
+msgid "Video Players"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-templates-panel-editor.php:517
+msgid "No title"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-templates.php:23
+msgid "Artist 1"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-templates.php:34
+msgid "Artist 2"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-templates.php:48
+msgid "Biography 1"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-templates.php:60
+msgid "Biography 2"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-templates.php:72
+msgid "Biography 3"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-templates.php:84
+msgid "Biography 4"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-templates.php:95
+msgid "Biography 5"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-templates.php:106
+msgid "Biography 6"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-templates.php:117
+msgid "Biography 7"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-templates.php:133
+msgid "MP3 Player - Minimal"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-templates.php:144
+msgid "MP3 Player - With Tracklist"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-templates.php:155
+msgid "MP3 Player - With Side Infos"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-templates.php:167
+msgid "SoundCloud Player"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-templates.php:178
+msgid "Spotify Player"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-templates.php:189
+msgid "BandCamp Player"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-templates.php:205
+msgid "Quote and Signature 1"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-templates.php:216
+msgid "Quote and Signature 2"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-templates.php:227
+msgid "Shop Banner 1"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-templates.php:239
+msgid "Banner with Video Background"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-templates.php:252
+msgid "Banner with Gradient Background 01"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-templates.php:263
+msgid "Banner with Gradient Background 02"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-templates.php:274
+msgid "Banner with Gradient Background 03"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-templates.php:290
+msgid "Contact 1"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-templates.php:313
+msgid "Contact 2"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-templates.php:337
+msgid "Contact 3"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-templates.php:348
+msgid "Contact 4"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-templates.php:368
+msgid "Contact 5"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-templates.php:386
+msgid "Team 1"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-templates.php:429
+msgid "Band Members 1"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-templates.php:440
+msgid "Band Members 2"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-templates.php:451
+msgid "Band Members 3"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-templates.php:462
+msgid "Band Members 4"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-templates.php:473
+msgid "Band Members 5"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-templates.php:484
+msgid "Band Members 6"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-templates.php:495
+msgid "Band Member Fullwidth"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-templates.php:506
+msgid "Band Member Offset"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-templates.php:521
+msgid "Video Player - YouTube"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-templates.php:533
+msgid "Video Player - Vimeo"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-templates.php:544
+msgid "Video Player - With Infos"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-templates.php:557
+msgid "Video Player - Simple Grid"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-templates.php:572
+msgid "Footer 01"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-templates.php:583
+msgid "Footer 02"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-templates.php:594
+msgid "Footer 03"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-templates.php:605
+msgid "Footer 04"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-templates.php:616
+msgid "Footer 05"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-templates.php:627
+msgid "Footer 06"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-templates.php:638
+msgid "Social media footer"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-templates.php:653
+msgid "Square pictures on 4 columns"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-templates.php:664
+msgid "Square pictures on 3 columns"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-templates.php:686
+msgid "Text and image 01"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-templates.php:699
+msgid "Text and image 02"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-templates.php:712
+msgid "Text on 2 columns + image 01"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-templates.php:727
+msgid "Text on 2 columns + image 02"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-templates.php:746
+msgid "Align left underlined heading"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-templates.php:757
+msgid "Align center underlined heading"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-templates.php:768
+msgid "Bold heading with button"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-templates.php:779
+msgid "2 headings boxed full-width"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-templates.php:794
+msgid "Tour dates with video background"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-templates.php:806
+msgid "Tour dates with image background"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-templates.php:822
+msgid "Newsletter 01"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-templates.php:834
+msgid "Newsletter 02"
+msgstr ""
+
+#: includes/sonaar-music/includes/vc-extend/vc-templates.php:846
+msgid "Newsletter 03"
+msgstr ""
+
+#: includes/sonaar-music/includes/widget-form/grid.php:2
+#: includes/sonaar-music/includes/widgets.php:748
+msgctxt "Widget"
+msgid "Album:"
+msgstr ""
+
+#: includes/sonaar-music/includes/widget-form/grid.php:10
+#: includes/sonaar-music/includes/widget-form/grid.php:16
+#: includes/sonaar-music/includes/widgets.php:223
+#: includes/sonaar-music/includes/widgets.php:1602
+msgid "Filter By Artists:"
+msgstr ""
+
+#: includes/sonaar-music/includes/widgets.php:32
+msgctxt "Widget"
+msgid "List upcoming or past events on your site."
+msgstr ""
+
+#: includes/sonaar-music/includes/widgets.php:149
+msgid "No upcoming events scheduled yet. Stay tuned!"
+msgstr ""
+
+#: includes/sonaar-music/includes/widgets.php:151
+#: includes/sonaar-music/sonaar-music.php:169
+msgid "No events scheduled yet. Stay tuned!"
+msgstr ""
+
+#: includes/sonaar-music/includes/widgets.php:206
+#: includes/sonaar-music/includes/widgets.php:1083
+#: includes/sonaar-music/includes/widgets.php:1292
+#: includes/sonaar-music/includes/widgets.php:1582
+msgid "Title:"
+msgstr ""
+
+#: includes/sonaar-music/includes/widgets.php:207
+msgid "Upcoming Events"
+msgstr ""
+
+#: includes/sonaar-music/includes/widgets.php:211
+msgid "Number of events to show:"
+msgstr ""
+
+#: includes/sonaar-music/includes/widgets.php:216
+msgid "Filter By:"
+msgstr ""
+
+#: includes/sonaar-music/includes/widgets.php:218
+msgctxt "Widget"
+msgid "Upcoming Events"
+msgstr ""
+
+#: includes/sonaar-music/includes/widgets.php:219
+msgctxt "Widget"
+msgid "Past Events"
+msgstr ""
+
+#: includes/sonaar-music/includes/widgets.php:229
+#: includes/sonaar-music/includes/widgets.php:768
+#: includes/sonaar-music/includes/widgets.php:1323
+#: includes/sonaar-music/includes/widgets.php:1625
+msgctxt "Widget"
+msgid "Call To Action Title:"
+msgstr ""
+
+#: includes/sonaar-music/includes/widgets.php:230
+#: includes/sonaar-music/includes/widgets.php:769
+#: includes/sonaar-music/includes/widgets.php:1324
+#: includes/sonaar-music/includes/widgets.php:1626
+msgid "View More"
+msgstr ""
+
+#: includes/sonaar-music/includes/widgets.php:233
+#: includes/sonaar-music/includes/widgets.php:772
+#: includes/sonaar-music/includes/widgets.php:1328
+#: includes/sonaar-music/includes/widgets.php:1629
+msgctxt "Widget"
+msgid "Call To Call To Action Page:"
+msgstr ""
+
+#: includes/sonaar-music/includes/widgets.php:239
+#: includes/sonaar-music/includes/widgets.php:778
+#: includes/sonaar-music/includes/widgets.php:1335
+#: includes/sonaar-music/includes/widgets.php:1635
+msgctxt "Widget"
+msgid "Call To Action External Link:"
+msgstr ""
+
+#: includes/sonaar-music/includes/widgets.php:268
+msgctxt "Widget"
+msgid "A grid view of your selected albums."
+msgstr ""
+
+#: includes/sonaar-music/includes/widgets.php:279
+#: includes/sonaar-music/includes/widgets.php:1317
+#: includes/sonaar-music/includes/widgets.php:1620
+msgctxt "Widget"
+msgid "Grid"
+msgstr ""
+
+#: includes/sonaar-music/includes/widgets.php:406
+#: includes/sonaar-music/includes/widgets.php:785
+#, php-format
+msgctxt "Widget"
+msgid "No albums have been created yet. <a href=\"%s\">Create some</a>."
+msgstr ""
+
+#: includes/sonaar-music/includes/widgets.php:431
+#: includes/sonaar-music/includes/widgets.php:504
+msgctxt "Widget"
+msgid "sonaar: Radio Player"
+msgstr ""
+
+#: includes/sonaar-music/includes/widgets.php:432
+msgctxt "Widget"
+msgid "sonaar: Terms"
+msgstr ""
+
+#: includes/sonaar-music/includes/widgets.php:433
+#: includes/sonaar-music/includes/widgets.php:1153
+msgctxt "Widget"
+msgid "sonaar: News"
+msgstr ""
+
+#: includes/sonaar-music/includes/widgets.php:434
+#: includes/sonaar-music/includes/widgets.php:1388
+msgctxt "Widget"
+msgid "sonaar: Videos"
+msgstr ""
+
+#: includes/sonaar-music/includes/widgets.php:486
+msgctxt "Widget"
+msgid "A simple radio that plays a list of songs from selected albums."
+msgstr ""
+
+#: includes/sonaar-music/includes/widgets.php:519 single-album-sidecover.php:85
+#: single-album.php:78
+msgid "Available now on"
+msgstr ""
+
+#: includes/sonaar-music/includes/widgets.php:558
+msgctxt "Widget"
+msgid "Loading tracks..."
+msgstr ""
+
+#: includes/sonaar-music/includes/widgets.php:560
+msgctxt "Widget"
+msgid "No tracks founds..."
+msgstr ""
+
+#: includes/sonaar-music/includes/widgets.php:669
+msgid "By"
+msgstr ""
+
+#: includes/sonaar-music/includes/widgets.php:671
+msgid "Release date"
+msgstr ""
+
+#: includes/sonaar-music/includes/widgets.php:744
+#: includes/sonaar-music/includes/widgets.php:1876
+msgctxt "Widget"
+msgid "Title:"
+msgstr ""
+
+#: includes/sonaar-music/includes/widgets.php:745
+#: includes/sonaar-music/includes/widgets.php:1877
+msgid "Popular Songs"
+msgstr ""
+
+#: includes/sonaar-music/includes/widgets.php:760
+msgid "Auto Play"
+msgstr ""
+
+#: includes/sonaar-music/includes/widgets.php:765
+msgid "Show Playlist"
+msgstr ""
+
+#: includes/sonaar-music/includes/widgets.php:947
+msgctxt "Widget"
+msgid "A list or dropdown of terms"
+msgstr ""
+
+#: includes/sonaar-music/includes/widgets.php:958
+msgid "sonaar: Terms"
+msgstr ""
+
+#: includes/sonaar-music/includes/widgets.php:1002
+msgid "Select Term"
+msgstr ""
+
+#: includes/sonaar-music/includes/widgets.php:1078
+msgid "No taxonomies have been created yet."
+msgstr ""
+
+#: includes/sonaar-music/includes/widgets.php:1087
+msgid "Select Taxonomy:"
+msgstr ""
+
+#: includes/sonaar-music/includes/widgets.php:1099
+msgid "Display as dropdown"
+msgstr ""
+
+#: includes/sonaar-music/includes/widgets.php:1102
+msgid "Show post counts"
+msgstr ""
+
+#: includes/sonaar-music/includes/widgets.php:1137
+msgctxt "Widget"
+msgid "The most recent posts on your site."
+msgstr ""
+
+#: includes/sonaar-music/includes/widgets.php:1293
+msgid "Latest News"
+msgstr ""
+
+#: includes/sonaar-music/includes/widgets.php:1295
+msgid "Number of posts to show:"
+msgstr ""
+
+#: includes/sonaar-music/includes/widgets.php:1300
+msgid "Display excerpts?"
+msgstr ""
+
+#: includes/sonaar-music/includes/widgets.php:1304
+msgid "Display post date?"
+msgstr ""
+
+#: includes/sonaar-music/includes/widgets.php:1307
+#: includes/sonaar-music/includes/widgets.php:1589
+msgctxt "Widget"
+msgid "Select one or multiple categories:"
+msgstr ""
+
+#: includes/sonaar-music/includes/widgets.php:1314
+#: includes/sonaar-music/includes/widgets.php:1617
+msgid "View As:"
+msgstr ""
+
+#: includes/sonaar-music/includes/widgets.php:1316
+#: includes/sonaar-music/includes/widgets.php:1619
+msgctxt "Widget"
+msgid "List"
+msgstr ""
+
+#: includes/sonaar-music/includes/widgets.php:1318
+msgctxt "Widget"
+msgid "Simple"
+msgstr ""
+
+#: includes/sonaar-music/includes/widgets.php:1371
+msgctxt "Widget"
+msgid "The most recent videos on your site."
+msgstr ""
+
+#: includes/sonaar-music/includes/widgets.php:1585
+msgid "Number of videos to show (*apply only for categories):"
+msgstr ""
+
+#: includes/sonaar-music/includes/widgets.php:1596
+msgctxt "Widget"
+msgid "Or Manually Select Videos:"
+msgstr ""
+
+#: includes/sonaar-music/includes/widgets.php:1608
+msgid "What happens when you click the video's thumbnails ?"
+msgstr ""
+
+#: includes/sonaar-music/includes/widgets.php:1610
+msgctxt "Widget"
+msgid "Go to detailed video page"
+msgstr ""
+
+#: includes/sonaar-music/includes/widgets.php:1611
+msgctxt "Widget"
+msgid "Open video in a LightBox"
+msgstr ""
+
+#: includes/sonaar-music/includes/widgets.php:1612
+msgctxt "Widget"
+msgid "Replace image by video"
+msgstr ""
+
+#: includes/sonaar-music/includes/widgets.php:1669
+msgctxt "Widget"
+msgid "Touch Enabled, Responsive jQuery Horizontal Image Slider/Carousel."
+msgstr ""
+
+#: includes/sonaar-music/includes/widgets.php:1680
+msgctxt "Widget"
+msgid "sonaar: IOS Slider"
+msgstr ""
+
+#: includes/sonaar-music/includes/widgets.php:1880
+msgctxt "Widget"
+msgid "IOS Sliders:"
+msgstr ""
+
+#: includes/sonaar-music/includes/widgets.php:1895
+#, php-format
+msgctxt "Widget"
+msgid "No photo albums have been created yet. <a href=\"%s\">Create some</a>."
+msgstr ""
+
+#: includes/sonaar-music/sonaar-music.php:160
+msgctxt "Countdown label"
+msgid "Years"
+msgstr ""
+
+#: includes/sonaar-music/sonaar-music.php:160
+msgctxt "Countdown label"
+msgid "Months"
+msgstr ""
+
+#: includes/sonaar-music/sonaar-music.php:160
+msgctxt "Countdown label"
+msgid "Weeks"
+msgstr ""
+
+#: includes/sonaar-music/sonaar-music.php:160
+msgctxt "Countdown label"
+msgid "Days"
+msgstr ""
+
+#: includes/sonaar-music/sonaar-music.php:160
+msgctxt "Countdown label"
+msgid "Hours"
+msgstr ""
+
+#: includes/sonaar-music/sonaar-music.php:160
+msgctxt "Countdown label"
+msgid "Minutes"
+msgstr ""
+
+#: includes/sonaar-music/sonaar-music.php:160
+msgctxt "Countdown label"
+msgid "Seconds"
+msgstr ""
+
+#: includes/sonaar-music/sonaar-music.php:161
+msgctxt "Countdown label"
+msgid "Year"
+msgstr ""
+
+#: includes/sonaar-music/sonaar-music.php:161
+msgctxt "Countdown label"
+msgid "Month"
+msgstr ""
+
+#: includes/sonaar-music/sonaar-music.php:161
+msgctxt "Countdown label"
+msgid "Week"
+msgstr ""
+
+#: includes/sonaar-music/sonaar-music.php:161
+msgctxt "Countdown label"
+msgid "Day"
+msgstr ""
+
+#: includes/sonaar-music/sonaar-music.php:161
+msgctxt "Countdown label"
+msgid "Hour"
+msgstr ""
+
+#: includes/sonaar-music/sonaar-music.php:161
+msgctxt "Countdown label"
+msgid "Minute"
+msgstr ""
+
+#: includes/sonaar-music/sonaar-music.php:161
+msgctxt "Countdown label"
+msgid "Second"
+msgstr ""
+
+#: includes/sonaar-music/sonaar-music.php:162
+msgctxt "Countdown label"
+msgid "y"
+msgstr ""
+
+#: includes/sonaar-music/sonaar-music.php:162
+msgctxt "Countdown label"
+msgid "m"
+msgstr ""
+
+#: includes/sonaar-music/sonaar-music.php:162
+msgctxt "Countdown label"
+msgid "w"
+msgstr ""
+
+#: includes/sonaar-music/sonaar-music.php:162
+msgctxt "Countdown label"
+msgid "d"
+msgstr ""
+
+#: items/event.php:49
+msgid "D"
+msgstr ""
+
+#: items/event.php:49
+msgid "H"
+msgstr ""
+
+#: items/event.php:49
+msgid "M"
+msgstr ""
+
+#: items/event.php:49
+msgid "S"
+msgstr ""
+
+#: items/grid.php:22
+msgid "listen"
+msgstr ""
+
+#: items/post.php:26 items/post_classic.php:21 items/post_default.php:20
+#: items/post_grid.php:16 items/post_isotope.php:17
+#: single-album-sidecover.php:47 single-album.php:42 single-post.php:95
+msgid "by"
+msgstr ""
+
+#: items/post_classic.php:36 items/post_default.php:35
+msgid "Read More"
+msgstr ""
+
+#: items/post_classic.php:37 page.php:56 single-album-sidecover.php:76
+#: single-album.php:69 single-artists-blank.php:121 single-event.php:120
+#: single-post.php:111 single-video.php:65 single.php:15
+msgid "Pages:"
+msgstr ""
+
+#: parts/categories.php:23
+msgid "CATEGORIES"
+msgstr ""
+
+#: parts/push-menu.php:13
+msgid "Menu"
+msgstr ""
+
+#: searchform.php:3
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:4
+msgctxt "placeholder"
+msgid "Search Keyword and hit 'Enter'"
+msgstr ""
+
+#: searchform.php:6
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: single-album-sidecover.php:99 single-album.php:94
+msgid "Album Review"
+msgstr ""
+
+#: single-artist.php:88
+msgid "Follow"
+msgstr ""
+
+#: single-artist.php:104
+msgid "Website"
+msgstr ""
+
+#: single-artist.php:118
+msgid "CONTACT & BOOKING"
+msgstr ""
+
+#: single-artist.php:125
+msgid "Downloads"
+msgstr ""
+
+#: single-artist.php:148
+msgid "Previous Artist"
+msgstr ""
+
+#: single-artist.php:161
+msgid "Next Artist"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Sonaar"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://sonaar.io/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Music and Creative WordPress Theme - sonaar is a creative theme specialized "
+"for musicians and the music industry."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Sonaar Music"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://sonaar.io"
+msgstr ""

@@ -1,0 +1,32 @@
+.field_type-true_false{
+    overflow:hidden;
+}
+.field_type-true_false label {
+    float: left;
+}
+.field_type-true_false .acf-checkbox-list.true_false  { float: left; display:inline-block; margin-top:-13px; margin-left:15px;}
+
+table.acf-input-table.row_layout > tbody > tr > td{
+	width:100%;
+}
+
+.acf_postbox .row:before,
+.acf_postbox .row:after{
+	content:none;
+	display:inherit;
+}
+.acf_postbox {
+    display: block;
+    border: 5px solid #d4d4d4;
+}
+#poststuff .acf_postbox h2 {
+    font-size: 16px;
+}
+#acf-alb_tracklist {
+    background-color: #d4d4d4;
+}
+
+.acf_postbox .repeater > table > tbody > tr > td.order {
+    width: 28px !important;
+    font-size: 24px;
+}

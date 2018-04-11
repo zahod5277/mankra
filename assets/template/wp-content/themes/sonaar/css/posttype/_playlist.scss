@@ -1,0 +1,93 @@
+.single-album {
+    span.heading-b3{
+        margin-bottom:0px;
+    }
+    .sr_it-single-post.featured{
+        @media (max-width: 768px) {
+            padding: 80px 0px 0;
+        }
+    }
+    .sr_it-single-post{
+
+        &.no-banner{
+            margin-top:40px;
+        }
+    }
+    .sr_it-singlealbum-content-wrapper{
+        padding: 0px 50px 0px 50px;
+        margin: 50px 0px 50px 0px;
+        @media (max-width: 768px) {
+            padding: 10px;
+        }
+    }
+
+
+}
+
+@media (min-width: $screen_tablet){
+    .single-album{
+        .sr_it-single-post{
+            &.no-banner{
+                margin-top:80px;
+            }
+        }
+    }
+}
+
+@media (min-width: $screen_desktop){
+    .single-album{
+        .sr_it-single-post{
+            &.no-banner{
+                margin-top:160px;
+            }
+        }
+    }
+}
+
+.album-template.album-template-single-album-sidecover {
+    .sr_it-singlealbum-content-wrapper{
+        padding: 50px;
+        @media (max-width: 768px) {
+            padding: 10px;
+        }
+    }
+     .content-box, .sr_it-single-post.featured{
+        background:none;
+    }
+    .container>.boxed {
+        margin-top: 120px;
+        padding: 75px 30px 75px 30px;
+        @media (max-width: 768px) {
+            padding: 75px 0px 75px 0px;
+        }
+    }
+    .heading-b3{
+        display:none;
+    }
+    .iron-audioplayer .playlist ul {
+        margin-top: 40px;
+    }
+    .sr_it-single-post.no-banner {
+        padding-top: 0px;
+        margin-top: 0px;
+        @media (max-width: 768px) {
+                padding-top: 0px;
+                margin-top: 0px;
+        }
+    }
+    
+    .playlist {
+        padding: 0px 0px 0px 20px;
+        @media (max-width: 991px) {
+                margin-top:20px;
+                padding: 0px; 
+        }
+    }
+
+    .title-album-enabled{ 
+        .sr_it-playlist-title, .sr_it-playlist-artists { 
+            display: none !important;
+        }
+    }
+
+}
