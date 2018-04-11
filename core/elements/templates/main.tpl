@@ -23,7 +23,6 @@
                                [[$mainServices]]
                                [[$welcome]]
                                [[$studios]]
-                               [[$featured]]
                                [[$clients]]
                             <div class="vc_row-full-width vc_clearfix"></div>
                             </div>

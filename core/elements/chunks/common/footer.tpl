@@ -18,8 +18,8 @@
             <div class="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-4 vc_col-md-4 vc_col-xs-12 text-lg-left text-md-center text-sm-center text-xs-center sonaar-column-responsive-5abfd21ab5784">
                 <div class="vc_column-inner vc_custom_1518732597758" style="">
                     <div class="wpb_wrapper">
-                        <h2 style="font-size: 36px;color: #dfd9df;line-height: 36px;text-align: left;letter-spacing:2px" class="vc_custom_heading vc_custom_1518729902060" data-fittext="true" data-max-fontsize="36px">NEWSLETTER</h2>
-                        <div style="font-size: 16px;color: #dfd9df;line-height: 18px;text-align: left;font-family:Montserrat;font-weight:500;font-style:normal;letter-spacing:1px" class="vc_custom_heading">STAY TUNED WITH OUR MAILING LIST</div>
+                        <h2 style="font-size: 36px;color: #dfd9df;line-height: 36px;text-align: left;letter-spacing:2px" class="vc_custom_heading vc_custom_1518729902060" data-fittext="true" data-max-fontsize="36px">Есть вопросы?</h2>
+                        <div style="font-size: 16px;color: #dfd9df;line-height: 18px;text-align: left;font-family:Montserrat;font-weight:500;font-style:normal;letter-spacing:1px" class="vc_custom_heading">Оставьте номер телефона - мы вам перезвоним!</div>
                     </div>
                 </div>
             </div>
@@ -36,12 +36,9 @@
                                 <form id="mc4wp-form-1" class="mc4wp-form mc4wp-form-1306" method="post" data-id="1306" data-name="Newsletter">
                                     <div class="mc4wp-form-fields">
                                         <p>
-                                            <input type="email" name="EMAIL" placeholder="email@domain.com" required="">
-                                            <input type="submit" value="Subscribe" style="background-color: rgb(0, 173, 142);">
+                                            <input type="email" name="EMAIL" placeholder="+7 (000) 333-55-88" required="">
+                                            <input type="submit" value="Перезвоните мне" style="background-color: rgb(0, 173, 142);">
                                         </p>
-                                        <label style="display: none !important;">Leave this field empty if you're human:
-                                            <input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off">
-                                        </label>
                                         <input type="hidden" name="_mc4wp_timestamp" value="1522520602">
                                         <input type="hidden" name="_mc4wp_form_id" value="1306">
                                         <input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-1">
@@ -65,7 +62,7 @@
                     <div class="wpb_wrapper">
                         <div class="wpb_text_column wpb_content_element  footercredit">
                             <div class="wpb_wrapper">
-                                <p style="text-align: center;">2018 © SONAAR MUSIC – music wordpress theme by <a href="//sonaar.io" target="_blank" rel="noopener">sonaar.io</a></p>
+                                <p style="text-align: center;">2018 © Репетиционная база Mankra. Сайт сделан <a href="//sonaar.io" target="_blank" rel="noopener">Creon Web Agency</a></p>
                             </div>
                         </div>
                     </div>

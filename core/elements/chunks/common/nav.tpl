@@ -1,12 +1,12 @@
 <div class="classic-menu mini-fullwidth-active fixed classic_menu_width fullwidth classic_menu_align-pull-center classic_menu_logo_align-pull-left">
 
     <ul id="menu-main-menu" class="menu-level-0">
-        <li id="menu-item-2979" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2979"><a href="/studio/#studios">Studios</a></li>
-        <li id="menu-item-2960" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2960"><a href="http://zahod5277.bget.ru/services/">Services</a></li>
-        <li id="menu-item-2983" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2983"><a href="http://zahod5277.bget.ru/work/">Work</a></li>
-        <li id="menu-item-2980" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2980"><a href="http://zahod5277.bget.ru/team/">Team</a></li>
-        <li id="menu-item-2961" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2961"><a href="http://zahod5277.bget.ru/booking/">Booking</a></li>
-        <li id="menu-item-1732" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1732"><a href="http://zahod5277.bget.ru/news-2-columns/">News</a>
+        <li id="menu-item-2979" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2979"><a href="/studio/#studios">Залы</a></li>
+        <li id="menu-item-2960" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2960"><a href="http://zahod5277.bget.ru/services/">Оборудование</a></li>
+        <li id="menu-item-2980" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2980"><a href="http://zahod5277.bget.ru/team/">Цены</a></li>
+        <li id="menu-item-2983" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2983"><a href="http://zahod5277.bget.ru/work/">Аренда оборудования</a></li>
+        <li id="menu-item-2961" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2961"><a href="http://zahod5277.bget.ru/booking/">Контакты</a></li>
+        <!--<li id="menu-item-1732" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1732"><a href="http://zahod5277.bget.ru/news-2-columns/">News</a>
             <ul class="sub-menu">
                 <li id="menu-item-64" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-64"><a href="http://zahod5277.bget.ru/news-2-columns/">News – 2 Columns</a></li>
                 <li id="menu-item-1707" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1707"><a href="http://zahod5277.bget.ru/news-3-columns/">News – 3 Columns</a></li>
@@ -93,7 +93,7 @@
                 </li>
                 <li id="menu-item-808" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-808"><a href="http://zahod5277.bget.ru/shop/">Shop</a></li>
             </ul>
-        </li>
+        </li>-->
     </ul>
     <!-- social-networks -->
 

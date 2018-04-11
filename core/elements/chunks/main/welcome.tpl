@@ -2,9 +2,11 @@
     <div class="wpb_column vc_column_container vc_col-sm-4 text-lg-right text-md-right text-sm-center text-xs-center">
         <div class="vc_column-inner vc_custom_1518644054185" style="">
             <div class="wpb_wrapper">
-                <h2 style="font-size: 72px;color: #00ad8e;line-height: 68px;text-align: right;font-family:Oswald;font-weight:700;font-style:normal" class="vc_custom_heading">welcome<br />
-                    to OUR<br />
-                    STUDIO</h2></div>
+                <h2 style="font-size: 60px;color: #00ad8e;line-height: 58px;text-align: right;font-family:Oswald;font-weight:700;font-style:normal" class="vc_custom_heading">
+                    Добро<br />
+                    пожаловать
+                </h2>
+            </div>
         </div>
     </div>
     <div class="wpb_column vc_column_container vc_col-sm-8 text-sm-center text-xs-center sonaar-column-responsive-5abd4e4898606">
@@ -12,8 +14,12 @@
             <div class="wpb_wrapper">
                 <div class="wpb_text_column wpb_content_element  vc_custom_1518640841929">
                     <div class="wpb_wrapper">
-                        <p><span style="color: #d7d7d7;">We are a recording studio located in New York City. We cover everything from epic original tracks to talent management, licensing, sound recording and design.</span></p>
-
+                        <p>
+                            <span style="color: #d7d7d7;">
+                               Мы находимся в самом центре Санкт-Петербурга, в 5 минутах ходьбы от станции метро Горьковская.
+                               У нас царит творческая атмосфера, образцовая чистота и вообще у нас хорошо. Приходите!
+                            </span>
+                        </p>
                     </div>
                 </div>
             </div>

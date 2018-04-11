@@ -5,11 +5,16 @@
             <div class="wpb_wrapper">
                 <a href="http://zahod5277.bget.ru/services/" class="promobox animation-zoom ">
                     <div class="promo-overlay" style="background:rgba(0,0,0,0.45)"></div>
-                    <img src="http://zahod5277.bget.ru/wp-content/uploads/2018/02/promo_01.jpg" class="promopic" alt="h5">
+                    <img src="http://zahod5277.bget.ru/wp-content/uploads/2018/02/promo_02.jpg" class="promopic" alt="h5">
                     <div class="promocontent center">
                         <div class="promotext">
-                            <h5 style="color:#b9b9b9;">SOUND<br />
-                                DESIGN</h5></div>
+                            <h5 style="color:#b9b9b9;">
+                                Создана для творчества<br />
+                            </h5>
+                            <h5 style="color:#b9b9b9;font-size:20px;padding-top:10px;">
+                                У нас идеальная чистота и порядок. Никто и ничто не будет мешать вам создавать шедевры.
+                            </h5>
+                        </div>
                         <div class="promosubtext">
                             <h3></h3></div>
                     </div>
@@ -30,8 +35,11 @@
                     <img src="http://zahod5277.bget.ru/wp-content/uploads/2018/02/promo_02.jpg" class="promopic" alt="h5">
                     <div class="promocontent center">
                         <div class="promotext">
-                            <h5 style="color:#b9b9b9;">SOUND<br />
-                                RECORDING</h5></div>
+                            <h5 style="color:#b9b9b9;">
+                                5 минут ходьбы<br />
+                                от метро Горьковская
+                            </h5>
+                        </div>
                         <div class="promosubtext">
                             <h3></h3></div>
                     </div>
@@ -49,11 +57,16 @@
             <div class="wpb_wrapper">
                 <a href="http://zahod5277.bget.ru/services/" class="promobox animation-zoom ">
                     <div class="promo-overlay" style="background:rgba(0,0,0,0.45)"></div>
-                    <img src="http://zahod5277.bget.ru/wp-content/uploads/2018/02/promo_03.jpg" class="promopic" alt="h5">
+                    <img src="http://zahod5277.bget.ru/wp-content/uploads/2018/02/promo_02.jpg" class="promopic" alt="h5">
                     <div class="promocontent center">
                         <div class="promotext">
-                            <h5 style="color:#b9b9b9;">TALENT<br />
-                                MANAGEMENT</h5></div>
+                            <h5 style="color:#b9b9b9;">
+                                Крутое оборудование
+                            </h5>
+                            <h5 style="color:#b9b9b9;font-size:20px;padding-top:10px;">
+                                Peavy, Mesa Boogie, Marshall, Bogner, Yamaha, Tama, AKG, Shure
+                            </h5>
+                        </div>
                         <div class="promosubtext">
                             <h3></h3></div>
                     </div>
