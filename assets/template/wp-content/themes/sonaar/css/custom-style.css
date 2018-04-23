@@ -593,7 +593,7 @@ h3, h3.widgettitle, .sr_it-playlist-title {
     color: #ffffff;
 }
 h4 { 
-    font-family: Montserrat;
+    font-family: 'Montserrat', sans-serif;
     font-weight: 500;
     font-size: 18px;
     line-height: 24px;
@@ -603,8 +603,9 @@ h4 {
     border-color: #ffffff;
 }
 h5 { 
-    font-family: Oswald;
+    font-family: 'Montserrat', sans-serif;
     font-weight: 700;
+    font-size: 16px;
     text-transform: uppercase;
     letter-spacing: 0px;
 }
@@ -1003,7 +1004,6 @@ span.heading-b3 {
 }
 
 .vc_custom_1518635929480 {
-    margin-top: -125px !important;
     padding-top: 10px !important;
     padding-right: 10px !important;
     padding-bottom: 10px !important;
@@ -1011,7 +1011,6 @@ span.heading-b3 {
 }
 
 .vc_custom_1518635946581 {
-    margin-top: -125px !important;
     padding-top: 10px !important;
     padding-right: 10px !important;
     padding-bottom: 10px !important;
@@ -1019,7 +1018,6 @@ span.heading-b3 {
 }
 
 .vc_custom_1518635962857 {
-    margin-top: -125px !important;
     padding-top: 10px !important;
     padding-right: 10px !important;
     padding-bottom: 10px !important;
@@ -1675,4 +1673,9 @@ a.eg-henryharrison-element-2 {
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat
+}
+
+.studio__text{
+    font-size: 20px!important;
+    line-height: 28px!important;
 }

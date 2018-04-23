@@ -11,9 +11,6 @@
                             <h5 style="color:#b9b9b9;">
                                 Создана для творчества<br />
                             </h5>
-                            <h5 style="color:#b9b9b9;font-size:20px;padding-top:10px;">
-                                У нас идеальная чистота и порядок. Никто и ничто не будет мешать вам создавать шедевры.
-                            </h5>
                         </div>
                         <div class="promosubtext">
                             <h3></h3></div>
@@ -23,9 +20,11 @@
         </div>
     </div>
     <script type="text/javascript">
+        {ignore}
         (function ($) {
             $("head").append("<style>@media (max-width: 991px) and (min-width: 768px) { .sonaar-column-responsive-5abd4e489685c > .vc_column-inner {margin-top:0px !important;  }  } @media (max-width: 767px) { .sonaar-column-responsive-5abd4e489685c > .vc_column-inner {margin-top:0px !important;  }  } </style>");
         })(jQuery);
+        {/ignore}
     </script>
     <div class="wpb_column vc_column_container vc_col-sm-4 sonaar-column-responsive-5abd4e4896ed8">
         <div class="vc_column-inner vc_custom_1518635946581" style="">
@@ -49,7 +48,7 @@
     </div>
     <script type="text/javascript">
         (function ($) {
-            $("head").append("<style>@media (max-width: 991px) and (min-width: 768px) { .sonaar-column-responsive-5abd4e4896ed8 > .vc_column-inner {margin-top:0px !important;  }  } @media (max-width: 767px) { .sonaar-column-responsive-5abd4e4896ed8 > .vc_column-inner {margin-top:0px !important;  }  } </style>");
+            $("head").append("<style>@media (max-width: 991px) and (min-width: 768px) { .sonaar-column-responsive-5abd4e4896ed8 > .vc_column-inner { margin-top:0px !important;  }  } @media (max-width: 767px) { .sonaar-column-responsive-5abd4e4896ed8 > .vc_column-inner { margin-top:0px !important;  }  } </style>");
         })(jQuery);
     </script>
     <div class="wpb_column vc_column_container vc_col-sm-4 sonaar-column-responsive-5abd4e4897419">
@@ -63,9 +62,6 @@
                             <h5 style="color:#b9b9b9;">
                                 Крутое оборудование
                             </h5>
-                            <h5 style="color:#b9b9b9;font-size:20px;padding-top:10px;">
-                                Peavy, Mesa Boogie, Marshall, Bogner, Yamaha, Tama, AKG, Shure
-                            </h5>
                         </div>
                         <div class="promosubtext">
                             <h3></h3></div>
@@ -76,7 +72,7 @@
     </div>
     <script type="text/javascript">
         (function ($) {
-            $("head").append("<style>@media (max-width: 991px) and (min-width: 768px) { .sonaar-column-responsive-5abd4e4897419 > .vc_column-inner {margin-top:0px !important;  }  } @media (max-width: 767px) { .sonaar-column-responsive-5abd4e4897419 > .vc_column-inner {margin-top:0px !important;  }  } </style>");
+            $("head").append("<style>@media (max-width: 991px) and (min-width: 768px) { .sonaar-column-responsive-5abd4e4897419 > .vc_column-inner { margin-top:0px !important;  }  } @media (max-width: 767px) { .sonaar-column-responsive-5abd4e4897419 > .vc_column-inner { margin-top:0px !important;  }  } </style>");
         })(jQuery);
     </script>
 </div>

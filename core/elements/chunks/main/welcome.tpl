@@ -27,7 +27,7 @@
     </div>
     <script type="text/javascript">
         (function ($) {
-            $("head").append("<style>@media (max-width: 991px) and (min-width: 768px) { .sonaar-column-responsive-5abd4e4898606 > .vc_column-inner {padding-right:20px !important; padding-left:20px !important;  }  } @media (max-width: 767px) { .sonaar-column-responsive-5abd4e4898606 > .vc_column-inner {padding-right:15px !important; padding-left:15px !important;  }  } </style>");
+            $("head").append("<style>@media (max-width: 991px) and (min-width: 768px) { .sonaar-column-responsive-5abd4e4898606 > .vc_column-inner { padding-right:20px !important; padding-left:20px !important;  }  } @media (max-width: 767px) { .sonaar-column-responsive-5abd4e4898606 > .vc_column-inner { padding-right:15px !important; padding-left:15px !important;  }  } </style>");
         })(jQuery);
     </script>
 </div>

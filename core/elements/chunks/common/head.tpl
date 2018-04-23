@@ -1,6 +1,6 @@
 <meta charset="UTF-8"> 
 <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"> 
-<title>[[*pagetitle]]</title> 
+<title>{$_modx->resource.pagetitle}</title> 
 <link rel='dns-prefetch' href='//fonts.googleapis.com' /> 
 
 <script type='text/javascript' src='assets/template/wp-content/themes/sonaar/includes/sonaar-music/js/ironMusic.min.js?ver=4.9.5'></script>

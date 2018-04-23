@@ -14,7 +14,7 @@
 <script type='text/javascript' src='assets/template/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=5.4.7'></script>
 <script type='text/javascript'>
     /* <![CDATA[ */
-    var iron_vars = {
+    var iron_vars = { 
         "sonaar_debug": "",
         "enable_ajax": "1",
         "theme_url": "http:\/\/zahod5277.bget.ru\/wp-content\/themes\/sonaar",
@@ -32,7 +32,7 @@
             "classic_menu_hmargin": "40px"
         },
         "lang": "ru",
-        "custom_js": "\/*Heading Responsive*\/\r\nIRON.responsiveText([\r\n        {\r\n            selector: 'h1, h2',          \r\n            newFontSizeSmall: '48px', \r\n            newFontSizeMedium: '54px',\r\n            smallBreakPoint: '767px', \r\n            mediumBreakPoint: '915px'\r\n        }\r\n    ]);\r\n\r\n$('.studio-skin .esg-filterbutton, .studio-skin .esg-navigationbutton, .studio-skin .esg-sortbutton, .studio-skin .esg-cartbutton').css('color', iron_vars.look_and_feel.color_1);\r\n\r\n$('.mc4wp-form input[type=submit]').css('background-color', iron_vars.look_and_feel.color_1);",
+        "custom_js": "\/*Heading Responsive*\/\r\nIRON.responsiveText([\r\n { \r\n            selector: 'h1, h2',          \r\n            newFontSizeSmall: '48px', \r\n            newFontSizeMedium: '54px',\r\n            smallBreakPoint: '767px', \r\n            mediumBreakPoint: '915px'\r\n        }\r\n    ]);\r\n\r\n$('.studio-skin .esg-filterbutton, .studio-skin .esg-navigationbutton, .studio-skin .esg-sortbutton, .studio-skin .esg-cartbutton').css('color', iron_vars.look_and_feel.color_1);\r\n\r\n$('.mc4wp-form input[type=submit]').css('background-color', iron_vars.look_and_feel.color_1);",
         "plugins_url": "http:\/\/zahod5277.bget.ru\/wp-content\/themes\/sonaar\/includes\/sonaar-music\/",
         "slug": {
             "events": "event",
@@ -127,7 +127,7 @@
 
             var content = "";
 
-            data = {};
+            data = { };
 
             data.action = 'revslider_ajax_call_front';
             data.client_action = 'get_slider_html';

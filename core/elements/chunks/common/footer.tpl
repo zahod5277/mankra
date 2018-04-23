@@ -1,6 +1,6 @@
 <footer id="footer">
     <div class="container">
-        [[$footerStyles]]
+        {include 'file:chunks/common/footerStyles.tpl'}
         <div style="position: relative; left: 0px; box-sizing: border-box; width: 1349px;" data-vc-full-width="true" data-vc-full-width-init="true" data-vc-stretch-content="true" class="vc_row wpb_row vc_row-fluid vc_custom_1518709822252 vc_row-has-fill vc_row-o-equal-height vc_row-o-content-middle vc_row-flex">
             <div class="wpb_column vc_column_container vc_col-sm-12">
                 <div class="vc_column-inner " style="">
@@ -25,7 +25,7 @@
             </div>
             <script type="text/javascript">
                 (function($) {
-                    $("head").append("<style>@media (max-width: 767px) { .sonaar-column-responsive-5abfd21ab5784 > .vc_column-inner {margin-bottom:30px !important;  }  } </style>");
+                    $("head").append("<style>@media (max-width: 767px) { .sonaar-column-responsive-5abfd21ab5784 > .vc_column-inner { margin-bottom:30px !important;  }  } </style>");
                 })(jQuery);
             </script>
             <div class="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-8 vc_col-md-8 vc_col-xs-12 text-lg-left text-md-center text-sm-center text-xs-center sonaar-column-responsive-5abfd21ab5c7a">
@@ -51,8 +51,8 @@
                 </div>
             </div>
             <script type="text/javascript">
-                (function($) {
-                    $("head").append("<style>@media (max-width: 1199px) and (min-width: 992px) { .sonaar-column-responsive-5abfd21ab5c7a > .vc_column-inner {padding-right:15px !important; padding-left:15px !important;  }  } @media (max-width: 991px) and (min-width: 768px) { .sonaar-column-responsive-5abfd21ab5c7a > .vc_column-inner {padding-right:15px !important; padding-left:15px !important;  }  } </style>");
+                (function($) { 
+                    $("head").append("<style>@media (max-width: 1199px) and (min-width: 992px) { .sonaar-column-responsive-5abfd21ab5c7a > .vc_column-inner { padding-right:15px !important; padding-left:15px !important;  }  } @media (max-width: 991px) and (min-width: 768px) { .sonaar-column-responsive-5abfd21ab5c7a > .vc_column-inner { padding-right:15px !important; padding-left:15px !important;  }  } </style>");
                 })(jQuery);
             </script>
         </div>

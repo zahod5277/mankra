@@ -24,7 +24,7 @@
         </div>
         <script type="text/javascript">
             (function ($) {
-                $("head").append("<style>@media (max-width: 991px) and (min-width: 768px) { .sonaar-column-responsive-5abd4e48a99cf > .vc_column-inner {padding-right:20px !important; padding-left:20px !important;  }  } @media (max-width: 767px) { .sonaar-column-responsive-5abd4e48a99cf > .vc_column-inner {padding-right:15px !important; padding-left:15px !important;  }  } </style>");
+                $("head").append("<style>@media (max-width: 991px) and (min-width: 768px) { .sonaar-column-responsive-5abd4e48a99cf > .vc_column-inner { padding-right:20px !important; padding-left:20px !important;  }  } @media (max-width: 767px) { .sonaar-column-responsive-5abd4e48a99cf > .vc_column-inner { padding-right:15px !important; padding-left:15px !important;  }  } </style>");
             })(jQuery);
         </script>
     </div>
@@ -80,7 +80,7 @@
     </div>
     <script type="text/javascript">
         (function ($) {
-            $("head").append("<style>@media (max-width: 991px) and (min-width: 768px) { .sonaar-row-responsive-5abd4e48a9c10 {margin-right:100px !important; margin-left:100px !important;  }  } @media (max-width: 767px) { .sonaar-row-responsive-5abd4e48a9c10 {margin-right:15px !important; margin-left:15px !important;  }  } </style>");
+            $("head").append("<style>@media (max-width: 991px) and (min-width: 768px) { .sonaar-row-responsive-5abd4e48a9c10 { margin-right:100px !important; margin-left:100px !important;  }  } @media (max-width: 767px) { .sonaar-row-responsive-5abd4e48a9c10 { margin-right:15px !important; margin-left:15px !important;  }  } </style>");
         })(jQuery);
     </script>
 </section>
