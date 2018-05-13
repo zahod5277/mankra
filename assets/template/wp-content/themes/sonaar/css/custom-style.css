@@ -969,7 +969,7 @@ ul.header-top-menu li a {
 }
 
 #page-banner {
-    height: 350px;
+    height: 90vh;
 }
 
 span.heading-b3 {
@@ -1685,4 +1685,31 @@ a.eg-henryharrison-element-2 {
 .studio__text{
     font-size: 20px!important;
     line-height: 28px!important;
+}
+
+.page-banner-bg{
+    background-position: center!important;
+}
+
+@media(min-width:980px){
+ .post__margin{
+     margin-top:-150px;
+     background-color: #16141a;
+ }   
+}
+
+@media(min-width:980px){
+    .post__heading{
+        padding-top: 90px !important;
+        padding-right: 90px !important;
+        padding-left: 90px !important;
+    }
+}
+
+@media(min-width:980px){
+    .post__content{
+        padding-botton: 90px !important;
+        padding-right: 90px !important;
+        padding-left: 90px !important;
+    }
 }
