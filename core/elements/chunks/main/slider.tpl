@@ -11,9 +11,14 @@
                                 <!-- SLIDE  -->
                                 <li data-index="rs-14" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="300" data-thumb="http://zahod5277.bget.ru/wp-content/uploads/2018/02/hero-booking-100x50.jpg" data-rotate="0" data-saveperformance="off" data-title="Slide">
                                     <!-- MAIN IMAGE -->
-                                    <img src="assets/images/banners/4.jpg" alt="" title="hero-booking" width="1920" height="975" data-bgposition="top" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+                                    <img src="assets/images/banners/main.jpg" alt="" title="hero-booking" width="1920" height="975" data-bgposition="top" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
                                     <!-- LAYERS -->
                                 </li>
+{*                                <li data-index="rs-13" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="300" data-thumb="http://zahod5277.bget.ru/wp-content/uploads/2018/02/hero-services-100x50.jpg" data-rotate="0" data-saveperformance="off" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+                                    <!-- MAIN IMAGE -->
+                                    <img src="assets/images/banners/main2.jpg" alt="" title="hero-services" width="1920" height="976" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+                                    <!-- LAYERS -->
+                                </li>*}
                             </ul>
                             {ignore}
                             <script>
@@ -115,7 +120,7 @@
                                             fullScreenAutoWidth: "off",
                                             fullScreenAlignForce: "off",
                                             fullScreenOffsetContainer: "",
-                                            fullScreenOffset: "15%",
+                                            fullScreenOffset: "0%",
                                             hideThumbsOnMobile: "off",
                                             hideSliderAtLimit: 0,
                                             hideCaptionAtLimit: 0,

@@ -111,7 +111,6 @@
             row: 9999,
             apiName: "essapi_54",
             loadMoreAjaxToken: "7a9e13c64e",
-            loadMoreAjaxUrl: "http://zahod5277.bget.ru/wp-admin/admin-ajax.php",
             loadMoreAjaxAction: "Essential_Grid_Front_request_ajax",
             ajaxContentTarget: "ess-grid-ajax-container-",
             ajaxScrollToOffset: "0",

@@ -4,7 +4,7 @@
     background-size: cover;
     background-position: center center;
     background-attachment: initial;
-    background-color: #000000;
+    background-color: #16141a;
 }
 #overlay .perspective { 
     background-attachment: initial;
@@ -688,9 +688,9 @@ span.heading-t3, span.heading-b3 {
 }
 .classic-menu .logo { 
     padding-left: 30px;
-    padding-top: 0px;
+    padding-top: 10px;
     padding-right: 45px;
-    padding-bottom: 0px;
+    padding-bottom: 10px;
 }
 .responsive-header { 
     background-color: #000000;
@@ -702,7 +702,7 @@ span.heading-t3, span.heading-b3 {
     color: #ffffff;
 }
 .classic-menu.mini { 
-    background-color: #000000;
+    background-color: #16141a;
 }
 .classic-menu > ul > li a, .classic-menu > ul > li.languages-selector > ul > li a { 
     font-family: Montserrat;
@@ -711,12 +711,19 @@ span.heading-t3, span.heading-b3 {
     text-transform: uppercase;
     color: #ffffff;
 }
+
+@media(min-width:1000px) and (max-width:1200px){
+    .classic-menu > ul > li a, .classic-menu > ul > li.languages-selector > ul > li a {
+    font-size: 13px;
+    }
+}
+
 .classic-menu > ul > li > ul > li a { 
     color: #ffffff;
     background-color: #000000;
 }
 .classic-menu > ul > li a:hover, .classic-menu > ul > li.languages-selector > ul > li a:hover { 
-    background-color: rgb(0, 173, 142);
+    background-color: rgb(255, 141, 105);
     color: #ffffff;
 }
 .classic-menu > ul > li.current-menu-item > a[href*="#"] { 
@@ -1000,7 +1007,7 @@ span.heading-b3 {
 }
 
 .vc_custom_1518643097470 {
-    padding-bottom: 325px !important;
+    padding-bottom: 100px !important;
 }
 
 .vc_custom_1518635929480 {

@@ -3,7 +3,7 @@
         margin-top: 30px !important;
         padding-top: 10px !important;
         padding-bottom: 20px !important;
-        background-color: #000000 !important;
+        background-color: #16141a !important;
     }
 
     .vc_custom_1518748899964 {

@@ -1,5 +1,5 @@
 <div class="classic-menu mini-fullwidth-active fixed classic_menu_width fullwidth classic_menu_align-pull-center classic_menu_logo_align-pull-left">
-
+    <div class="logo pull-left"><a href="http://zahod5277.bget.ru/"><img class="classic-menu-logo" src="//zahod5277.bget.ru/wp-content/uploads/2018/02/logo-light.png" srcset="//zahod5277.bget.ru/wp-content/uploads/2018/02/logo-light.png 1x, //zahod5277.bget.ru/wp-content/uploads/2018/02/logo-light_x2.png 2x" alt="Mankra Demo Site"></a></div>
     <ul id="menu-main-menu" class="menu-level-0">
         <li id="menu-item-2979" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2979"><a href="/studio/#studios">Залы</a></li>
         <li id="menu-item-2960" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2960"><a href="http://zahod5277.bget.ru/services/">Оборудование</a></li>

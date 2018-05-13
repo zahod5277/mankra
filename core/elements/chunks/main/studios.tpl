@@ -7,7 +7,7 @@
     <div class="wpb_column vc_column_container vc_col-sm-6 text-lg-center text-md-center text-sm-center text-xs-center">
         <div class="vc_column-inner vc_custom_1518624270633" style="">
             <div class="wpb_wrapper">
-                <h2 style="text-align: center" class="vc_custom_heading vc_custom_1518624138519 sr_it-inline-block">Studio 1</h2>
+                <h2 style="text-align: center" class="vc_custom_heading vc_custom_1518624138519 sr_it-inline-block">Studio 1, 23 м.<sup>2</sup></h2>
                 <div class="wpb_text_column wpb_content_element  vc_custom_1518624128081">
                     <div class="wpb_wrapper">
                         <p class="studio__text">
@@ -19,7 +19,7 @@
                     </div>
                 </div>
                 <div class="vc_btn3-container vc_btn3-inline ">
-                    <a style="background-color:#00ad8e; color:#ffffff;" class="vc_general vc_btn3 vc_btn3-size-md vc_btn3-shape-round vc_btn3-style-custom" href="https://demo.sonaar.io/studio/booking/" title="">Забронировать зал</a></div>
+                    <a style="background-color:#FF8D69; color:#000;" class="vc_general vc_btn3 vc_btn3-size-md vc_btn3-shape-round vc_btn3-style-custom" href="https://demo.sonaar.io/studio/booking/" title="">Забронировать зал</a></div>
             </div>
         </div>
     </div>
@@ -34,7 +34,7 @@
     <div class="wpb_column vc_column_container vc_col-sm-6 text-lg-center text-md-center text-sm-center text-xs-center">
         <div class="vc_column-inner vc_custom_1518624270633" style="">
             <div class="wpb_wrapper">
-                <h2 style="text-align: center" class="vc_custom_heading vc_custom_1518624949730 sr_it-inline-block">Studio 2</h2>
+                <h2 style="text-align: center" class="vc_custom_heading vc_custom_1518624949730 sr_it-inline-block">Studio 2, 35 м.<sup>2</sup></h2>
                 <div class="wpb_text_column wpb_content_element  vc_custom_1518624128081">
                     <div class="wpb_wrapper">
                         <p class="studio__text">
@@ -45,7 +45,7 @@
                     </div>
                 </div>
                 <div class="vc_btn3-container vc_btn3-inline ">
-                    <a style="background-color:#00ad8e; color:#ffffff;" class="vc_general vc_btn3 vc_btn3-size-md vc_btn3-shape-round vc_btn3-style-custom" href="https://demo.sonaar.io/studio/booking/" title="">Забронировать зал</a></div>
+                    <a style="background-color:#FF8D69; color:#000;" class="vc_general vc_btn3 vc_btn3-size-md vc_btn3-shape-round vc_btn3-style-custom" href="https://demo.sonaar.io/studio/booking/" title="">Забронировать зал</a></div>
             </div>
         </div>
     </div>
@@ -60,7 +60,7 @@
     <div class="wpb_column vc_column_container vc_col-sm-6 text-lg-center text-md-center text-sm-center text-xs-center">
         <div class="vc_column-inner vc_custom_1518624270633" style="">
             <div class="wpb_wrapper">
-                <h2 style="text-align: center" class="vc_custom_heading vc_custom_1518624942609 sr_it-inline-block">Studio 3</h2>
+                <h2 style="text-align: center" class="vc_custom_heading vc_custom_1518624942609 sr_it-inline-block">Studio 3, 10 м.<sup>2</sup></h2>
                 <div class="wpb_text_column wpb_content_element  vc_custom_1518624128081">
                     <div class="wpb_wrapper">
                         <p class="studio__text">
@@ -69,9 +69,11 @@
                     </div>
                 </div>
                 <div class="vc_btn3-container vc_btn3-inline ">
-                    <a style="background-color:#00ad8e; color:#ffffff;" class="vc_general vc_btn3 vc_btn3-size-md vc_btn3-shape-round vc_btn3-style-custom" href="https://demo.sonaar.io/studio/booking/" title="">Забронировать зал</a></div>
+                    <a style="background-color:#FF8D69; color:#000;" class="vc_general vc_btn3 vc_btn3-size-md vc_btn3-shape-round vc_btn3-style-custom" href="https://demo.sonaar.io/studio/booking/" title="">Забронировать зал</a></div>
             </div>
         </div>
     </div>
 </div>
 <div class="vc_row-full-width vc_clearfix"></div>
+
+

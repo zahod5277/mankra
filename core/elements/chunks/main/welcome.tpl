@@ -2,7 +2,7 @@
     <div class="wpb_column vc_column_container vc_col-sm-4 text-lg-right text-md-right text-sm-center text-xs-center">
         <div class="vc_column-inner vc_custom_1518644054185" style="">
             <div class="wpb_wrapper">
-                <h2 style="font-size: 60px;color: #00ad8e;line-height: 58px;text-align: right;font-family:Oswald;font-weight:700;font-style:normal" class="vc_custom_heading">
+                <h2 style="font-size: 50px;color: #FF8D69;line-height: 58px;text-align: right;font-family:Oswald;font-weight:700;font-style:normal" class="vc_custom_heading">
                     Добро<br />
                     пожаловать
                 </h2>

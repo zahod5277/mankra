@@ -17,8 +17,8 @@
     var iron_vars = { 
         "sonaar_debug": "",
         "enable_ajax": "1",
-        "theme_url": "http:\/\/zahod5277.bget.ru\/wp-content\/themes\/sonaar",
-        "ajaxurl": "http:\/\/zahod5277.bget.ru\/wp-admin\/admin-ajax.php?lang=ru",
+        "theme_url": "http:\/\/s13322.h6.modhost.pro\/wp-content\/themes\/sonaar",
+        "ajaxurl": "http:\/\/s13322.h6.modhost.pro\/wp-admin\/admin-ajax.php?lang=ru",
         "enable_nice_scroll": "",
         "enable_fixed_header": "1",
         "header_top_menu_hide_on_scroll": "1",
@@ -33,7 +33,7 @@
         },
         "lang": "ru",
         "custom_js": "\/*Heading Responsive*\/\r\nIRON.responsiveText([\r\n { \r\n            selector: 'h1, h2',          \r\n            newFontSizeSmall: '48px', \r\n            newFontSizeMedium: '54px',\r\n            smallBreakPoint: '767px', \r\n            mediumBreakPoint: '915px'\r\n        }\r\n    ]);\r\n\r\n$('.studio-skin .esg-filterbutton, .studio-skin .esg-navigationbutton, .studio-skin .esg-sortbutton, .studio-skin .esg-cartbutton').css('color', iron_vars.look_and_feel.color_1);\r\n\r\n$('.mc4wp-form input[type=submit]').css('background-color', iron_vars.look_and_feel.color_1);",
-        "plugins_url": "http:\/\/zahod5277.bget.ru\/wp-content\/themes\/sonaar\/includes\/sonaar-music\/",
+        "plugins_url": "http:\/\/s13322.h6.modhost.pro\/wp-content\/themes\/sonaar\/includes\/sonaar-music\/",
         "slug": {
             "events": "event",
             "discography": false,
@@ -51,17 +51,17 @@
             "continuous_playlist_icon": false
         },
         "wp_admin_bar": "",
-        "site_url": "http:\/\/zahod5277.bget.ru\/",
+        "site_url": "http:\/\/s13322.h6.modhost.pro\/",
         "site_name": "Mankra Demo Site",
         "logo": {
-            "enable": true,
+            "enable": false,
             "dark": {
-                "url": "http:\/\/zahod5277.bget.ru\/wp-content\/uploads\/2018\/02\/logo-dark.png",
-                "url_retina": "http:\/\/zahod5277.bget.ru\/wp-content\/uploads\/2018\/02\/logo-dark_x2.png"
+                "url": "http:\/\/s13322.h6.modhost.pro\/assets\/images\/template\/logo.png",
+                "url_retina": "http:\/\/s13322.h6.modhost.pro\/assets\/images\/template\/logo.png"
             },
             "light": {
-                "url": "http:\/\/zahod5277.bget.ru\/wp-content\/uploads\/2018\/02\/logo-light.png",
-                "url_retina": "http:\/\/zahod5277.bget.ru\/wp-content\/uploads\/2018\/02\/logo-light_x2.png"
+                "url": "http:\/\/s13322.h6.modhost.pro\/assets\/images\/template\/logo.png",
+                "url_retina": "http:\/\/s13322.h6.modhost.pro\/assets\/images\/template\/logo.png"
             },
             "logo_select": "light",
             "light_responsive": true,
@@ -78,10 +78,10 @@
         },
         "social_enabled": "1",
         "look_and_feel": {
-            "color_1": "rgb(0, 173, 142)",
+            "color_1": "rgb(255, 141, 105)",
             "color_2": null,
             "color_3": "#000000",
-            "color_4": "rgb(0, 173, 142)",
+            "color_4": "rgb(255, 142, 105)",
             "text_color_1": "#d7d7d7",
             "text_color_2": "rgb(215, 215, 215)",
             "body_background": {

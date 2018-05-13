@@ -1,9 +1,9 @@
-<section data-vc-full-width="true" data-vc-full-width-init="false" data-vc-parallax="2" data-vc-parallax-image="assets/images/banners/clients.jpg" class="vc_section vc_custom_1518643097470 vc_section-has-fill vc_general vc_parallax vc_parallax-content-moving">
+<section data-vc-full-width="true" data-vc-full-width-init="false" data-vc-parallax="2" class="vc_section vc_custom_1518643097470 vc_section-has-fill vc_general vc_parallax vc_parallax-content-moving">
     <div style="" class="vc_row wpb_row vc_row-fluid special-big-text vc_custom_1518643703020 vc_row-o-equal-height vc_row-o-content-middle vc_row-flex">
         <div class="wpb_column vc_column_container vc_col-sm-4 text-lg-right text-md-right text-sm-center text-xs-center">
             <div class="vc_column-inner vc_custom_1518644114975" style="">
                 <div class="wpb_wrapper">
-                    <h2 style="font-size: 72px;color: #00ad8e;line-height: 68px;text-align: right;font-family:Oswald;font-weight:700;font-style:normal" class="vc_custom_heading">
+                    <h2 style="font-size: 72px;color: #FF8D69;line-height: 68px;text-align: right;font-family:Oswald;font-weight:700;font-style:normal" class="vc_custom_heading">
                         Наши<br />
                         клиенты</h2></div>
             </div>

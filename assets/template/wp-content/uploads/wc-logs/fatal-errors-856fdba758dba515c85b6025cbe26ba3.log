@@ -1,9 +1,0 @@
-2018-01-11T21:57:52+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in /home/122413.cloudwaysapps.com/xaewxcnacp/public_html/wp-content/themes/sonaar/includes/sonaar-music/includes/functions.php:230
-Stack trace:
-#0 /home/122413.cloudwaysapps.com/xaewxcnacp/public_html/wp-content/themes/sonaar/includes/sonaar-music/includes/functions.php(250): sonaar_validateCurrentLicence(false)
-#1 /home/122413.cloudwaysapps.com/xaewxcnacp/public_html/wp-content/themes/sonaar/includes/sonaar-music/sonaar-music.php(17): require('/home/122413.cl...')
-#2 /home/122413.cloudwaysapps.com/xaewxcnacp/public_html/wp-includes/template.php(688): require_once('/home/122413.cl...')
-#3 /home/122413.cloudwaysapps.com/xaewxcnacp/public_html/wp-content/themes/sonaar/includes/classes/iron_sonaar.class.php(12): load_template('/home/122413.cl...', true)
-#4 /home/122413.cloudwaysapps.com/xaewxcnacp/public_html/wp-content/themes/sonaar/functions.php(6): Iron_sonaar::setup()
-#5 /home/122413.cloudwaysapps.com/xaewxcnacp/public_html/wp-settings.php(426): inc
-

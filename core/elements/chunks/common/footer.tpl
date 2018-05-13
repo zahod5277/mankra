@@ -5,10 +5,10 @@
             <div class="wpb_column vc_column_container vc_col-sm-12">
                 <div class="vc_column-inner " style="">
                     <div class="wpb_wrapper" style="text-align: center;">
-                        <div class="vc_btn3-container vc_btn3-inline vc_custom_1518710011793 "> <a style="background-color:#000000; color:#dfd9df;" class="vc_general vc_btn3 vc_btn3-size-lg vc_btn3-shape-round vc_btn3-style-custom vc_btn3-o-empty vc_btn3-icon-left" href="//twitter.com" title="" target="_blank"><i class="vc_btn3-icon fa fa-twitter"></i> <span class="vc_btn3-placeholder">&nbsp;</span></a></div>
-                        <div class="vc_btn3-container vc_btn3-inline vc_custom_1518710023558 "> <a style="background-color:#000000; color:#dfd9df;" class="vc_general vc_btn3 vc_btn3-size-lg vc_btn3-shape-round vc_btn3-style-custom vc_btn3-o-empty vc_btn3-icon-left" href="//facebook.com" title="" target="_blank"><i class="vc_btn3-icon fa fa-facebook"></i> <span class="vc_btn3-placeholder">&nbsp;</span></a></div>
-                        <div class="vc_btn3-container vc_btn3-inline vc_custom_1518710034043 "> <a style="background-color:#000000; color:#ffffff;" class="vc_general vc_btn3 vc_btn3-size-lg vc_btn3-shape-round vc_btn3-style-custom vc_btn3-o-empty vc_btn3-icon-left" href="//instagram.com" title="" target="_blank"><i class="vc_btn3-icon fa fa-instagram"></i> <span class="vc_btn3-placeholder">&nbsp;</span></a></div>
-                        <div class="vc_btn3-container vc_btn3-inline vc_custom_1518710043746 "> <a style="background-color:#000000; color:#dfd9df;" class="vc_general vc_btn3 vc_btn3-size-lg vc_btn3-shape-round vc_btn3-style-custom vc_btn3-o-empty vc_btn3-icon-left" href="//soundcloud.com" title="" target="_blank"><i class="vc_btn3-icon fa fa-soundcloud"></i> <span class="vc_btn3-placeholder">&nbsp;</span></a></div>
+                        <div class="vc_btn3-container vc_btn3-inline vc_custom_1518710011793 "> <a style="background-color:#16141a; color:#dfd9df;" class="vc_general vc_btn3 vc_btn3-size-lg vc_btn3-shape-round vc_btn3-style-custom vc_btn3-o-empty vc_btn3-icon-left" href="//twitter.com" title="" target="_blank"><i class="vc_btn3-icon fa fa-twitter"></i> <span class="vc_btn3-placeholder">&nbsp;</span></a></div>
+                        <div class="vc_btn3-container vc_btn3-inline vc_custom_1518710023558 "> <a style="background-color:#16141a; color:#dfd9df;" class="vc_general vc_btn3 vc_btn3-size-lg vc_btn3-shape-round vc_btn3-style-custom vc_btn3-o-empty vc_btn3-icon-left" href="//facebook.com" title="" target="_blank"><i class="vc_btn3-icon fa fa-facebook"></i> <span class="vc_btn3-placeholder">&nbsp;</span></a></div>
+                        <div class="vc_btn3-container vc_btn3-inline vc_custom_1518710034043 "> <a style="background-color:#16141a; color:#ffffff;" class="vc_general vc_btn3 vc_btn3-size-lg vc_btn3-shape-round vc_btn3-style-custom vc_btn3-o-empty vc_btn3-icon-left" href="//instagram.com" title="" target="_blank"><i class="vc_btn3-icon fa fa-instagram"></i> <span class="vc_btn3-placeholder">&nbsp;</span></a></div>
+                        <div class="vc_btn3-container vc_btn3-inline vc_custom_1518710043746 "> <a style="background-color:#16141a; color:#dfd9df;" class="vc_general vc_btn3 vc_btn3-size-lg vc_btn3-shape-round vc_btn3-style-custom vc_btn3-o-empty vc_btn3-icon-left" href="//soundcloud.com" title="" target="_blank"><i class="vc_btn3-icon fa fa-soundcloud"></i> <span class="vc_btn3-placeholder">&nbsp;</span></a></div>
                     </div>
                 </div>
             </div>
@@ -33,15 +33,12 @@
                     <div class="wpb_wrapper">
                         <div class="wpb_text_column wpb_content_element ">
                             <div class="wpb_wrapper">
-                                <form id="mc4wp-form-1" class="mc4wp-form mc4wp-form-1306" method="post" data-id="1306" data-name="Newsletter">
+                                <form class="mc4wp-form" method="post">
                                     <div class="mc4wp-form-fields">
                                         <p>
                                             <input type="email" name="EMAIL" placeholder="+7 (000) 333-55-88" required="">
-                                            <input type="submit" value="Перезвоните мне" style="background-color: rgb(0, 173, 142);">
+                                            <input type="submit" value="Перезвоните мне">
                                         </p>
-                                        <input type="hidden" name="_mc4wp_timestamp" value="1522520602">
-                                        <input type="hidden" name="_mc4wp_form_id" value="1306">
-                                        <input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-1">
                                     </div>
                                     <div class="mc4wp-response"></div>
                                 </form>
