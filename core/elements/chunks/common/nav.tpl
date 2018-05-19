@@ -1,10 +1,10 @@
 <div class="classic-menu mini-fullwidth-active fixed classic_menu_width fullwidth classic_menu_align-pull-center classic_menu_logo_align-pull-left">
     <div class="logo pull-left"><a href="/"><img class="classic-menu-logo" alt="Mankra Demo Site"></a></div>
     <ul id="menu-main-menu" class="menu-level-0">
-        <li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="/studio/#studios">Залы</a></li>
-        <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://zahod5277.bget.ru/services/">Оборудование</a></li>
-        <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://zahod5277.bget.ru/team/">Цены</a></li>
-        <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://zahod5277.bget.ru/work/">Аренда оборудования</a></li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="{'6'|url}">Залы</a></li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="{'5'|url}">Оборудование</a></li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="{'4'|url}">Цены</a></li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="{'3'|url}">Аренда оборудования</a></li>
         <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="{'2'|url}">Контакты</a></li>
         <!--<li id="menu-item-1732" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1732"><a href="http://zahod5277.bget.ru/news-2-columns/">News</a>
             <ul class="sub-menu">

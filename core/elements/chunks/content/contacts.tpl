@@ -33,8 +33,29 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="post__content">
-                                {$_modx->resource.content}
+                            <div class="vc_row wpb_row vc_inner vc_row-fluid post__content">
+                                <div class="wpb_column vc_column_container vc_col-sm-4">
+                                    <div class="vc_column-inner">
+                                        <div class="wpb_wrapper">
+                                            <div class="wpb_text_column wpb_content_element ">
+                                                <div class="wpb_wrapper">
+                                                    <h2>{$_modx->resource.longtitle}</h2>
+                                                    {$_modx->resource.content}
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="wpb_column vc_column_container vc_col-sm-8">
+                                    <div class="vc_column-inner " style="">
+                                        <div class="wpb_wrapper">
+                                            <div role="form" class="wpcf7" id="wpcf7-f735-p1861-o1" lang="en-US" dir="ltr">
+                                                <div class="screen-reader-response"></div>
+                                                <script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A4330ff7a3336eadff15c70784721639b9257743ed1a17d03e86f370383bef395&amp;width=100%25&amp;height=400&amp;lang=ru_RU&amp;scroll=true"></script>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>

@@ -714,7 +714,7 @@ span.heading-t3, span.heading-b3 {
 
 @media(min-width:1000px) and (max-width:1200px){
     .classic-menu > ul > li a, .classic-menu > ul > li.languages-selector > ul > li a {
-    font-size: 13px;
+        font-size: 13px;
     }
 }
 
@@ -975,9 +975,8 @@ ul.header-top-menu li a {
 span.heading-b3 {
     margin-top: 30px;
     margin-bottom: 75px;
-    background-color: #000000;
+    background-color: #fff;
 }
-
 
 .recentcomments a {
     display: inline !important;
@@ -1680,36 +1679,4 @@ a.eg-henryharrison-element-2 {
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat
-}
-
-.studio__text{
-    font-size: 20px!important;
-    line-height: 28px!important;
-}
-
-.page-banner-bg{
-    background-position: center!important;
-}
-
-@media(min-width:980px){
- .post__margin{
-     margin-top:-150px;
-     background-color: #16141a;
- }   
-}
-
-@media(min-width:980px){
-    .post__heading{
-        padding-top: 90px !important;
-        padding-right: 90px !important;
-        padding-left: 90px !important;
-    }
-}
-
-@media(min-width:980px){
-    .post__content{
-        padding-botton: 90px !important;
-        padding-right: 90px !important;
-        padding-left: 90px !important;
-    }
 }
